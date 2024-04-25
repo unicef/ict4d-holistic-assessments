@@ -31,3 +31,7 @@
 
 * [Outreach and Awareness Guides](threats-and-risks-for-civil-digital-identity/outreach-and-awareness-guides.md)
 * [Identity and Privacy](threats-and-risks-for-civil-digital-identity/identity-and-privacy.md)
+
+***
+
+* [🌐 About Guardian Project](about-guardian-project.md)
