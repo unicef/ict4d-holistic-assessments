@@ -61,7 +61,7 @@ website:
         contents: technology-launching-and-deploying-new-tech-in-ict4d/*
       
       - section: "Threats and Risks for Civil Digital Identity"
-        contents: threats-and-risks-for-civil-digital-identity
+        contents: threats-and-risks-for-civil-digital-identity/*
   
   page-footer: |
     [Holistic Audits on ICT4D](https://unicef.github.io/holistic-audits-on-ict4d) © 2024 by [UNICEF](https://www.unicef.org) 
