@@ -1,0 +1,34 @@
+.nav-link.active > .menu-text {
+  font-weight: bold;
+  color: #961A49;
+  text-decoration: none
+}
+
+.nav-link.active > .menu-text:hover {
+  text-decoration: underline;
+}
+
+.nav-link > .menu-text:hover {
+  text-decoration: underline;
+  color: #961A49;
+}
+/* Make the text 'People: Understanding through discussion and discovery' red */
+.sidebar-item-section > .sidebar-item-container > a:first-child .menu-text {
+
+  font-weight: bold;
+  
+}
+
+/* Make the text 'Stakeholder Experiences' black */
+.sidebar-item > .sidebar-item-container > a .menu-text {
+}
+
+.menu-text:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.sidebar-item-text.sidebar-link.active {
+  font-weight: bold;
+  color: #961A49;
+}

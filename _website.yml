@@ -1,0 +1,71 @@
+project:
+  type: website
+  output-dir: _site
+  
+theme:
+  light: cosmo #simplex
+  #dark: darkly
+  
+format:
+  html:
+    number-sections: false
+    toc: true
+    code-copy: true
+    #code-overflow: wrap
+    css: styles.css
+    include-after-body: js.html
+    grid: 
+      sidebar-width: 400px
+
+website:
+  twitter-card: true
+  favicon: images/favicon.png
+  repo-url: https://github.com/unicef/holistic-audits-on-ict4d/
+  repo-actions: [edit, issue]
+  page-navigation: true
+  #bread-crumbs: true
+
+  # website.navbar : Top navigation bar
+  navbar:
+    title: UNICEF's Holistic audits on ICT4D
+    tools:
+      - icon: github
+        href: https://github.com/unicef/holistic-audits-on-ict4d/
+    search: true
+    logo: /images/logo.png
+    logo-alt: "UNICEF's Holistic audits on ICT4D"
+
+    # website.navbar.left: Left links within the top navigation bar
+    left:
+      - text: "Home"
+        file: index.md
+      - text: "About these guides"
+        file: about.md 
+  
+  # website.sidebar: Side navigation bar
+  sidebar:
+    style: "docked"
+    collapse-level: 3
+    search: false
+    contents:
+      - file: overview.md
+      - file: introduction-to-understanding.md
+
+      - section: "People: Understanding Through Discussion and Discovery"
+        contents: people-deeper-understanding-through-discussion-and-discovery/*
+      
+      - section: "Process: Holistic Audits on ICT4D"
+        contents: process-performing-holistic-audits-on-ict4d/*
+      
+      - section: "Technology: Launching and Deploying" 
+        contents: technology-launching-and-deploying-new-tech-in-ict4d/*
+      
+      - section: "Threats and Risks for Civil Digital Identity"
+        contents: threats-and-risks-for-civil-digital-identity/*
+  
+  page-footer: |
+    [Holistic Audits on ICT4D](https://unicef.github.io/holistic-audits-on-ict4d) © 2024 by [UNICEF](https://www.unicef.org) 
+    <br> Licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1) | [Privacy policy](/privacy.qmd) 
+    <br>[![](/images/unicef-logo.png){fig-alt="UNICEF, for every child"}](https://www.unicef.org)
+    
+    
