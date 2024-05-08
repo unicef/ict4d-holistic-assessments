@@ -3,6 +3,9 @@ description: >-
   A reference for performing a wide-ranging, interconnecting technical,
   security, and privacy quality assessments for  Information and Communications
   Technology for Development
+cover: >-
+  https://images.unsplash.com/photo-1554224155-6726b3ff858f?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxhdWRpdHxlbnwwfHx8fDE3MTUyMDU2MzR8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # Holistic Audits for ICT4D
