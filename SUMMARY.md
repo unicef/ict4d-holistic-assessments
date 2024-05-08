@@ -13,6 +13,8 @@
 
 * [Holistic Audits for ICT4D](process/holistic-audits-for-ict4d.md)
 * [Our Iterative Process](process/our-iterative-process.md)
+* [Audit Steps and Timeline](process/audit-steps-and-timeline.md)
+* [Assets for Review](process/assets-for-review.md)
 * [Security Considerations](process/security-considerations.md)
 * [Security Audits](process/security-audits.md)
 * [Application Architecture](process/application-architecture.md)
