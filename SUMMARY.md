@@ -26,7 +26,7 @@
 ## 🚀 TECHNOLOGY
 
 * [Introduction to Launching Technology](technology/introduction-to-launching-technology.md)
-* [Beauty and Flaws of Architecture](technology/beauty-and-flaws-of-architecture.md)
+* [Recommendations for Secure and Sustainable Solutions](technology/recommendations-for-secure-and-sustainable-solutions.md)
 * [Source Code Concerns](technology/source-code-concerns.md)
 * [Development and Secure Operations](technology/development-and-secure-operations.md)
 * [Scanning and Testing](technology/scanning-and-testing.md)
