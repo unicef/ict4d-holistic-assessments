@@ -3,8 +3,8 @@ description: >-
   A space for sharing our work to support the implementation and success of
   secure and privacy-focused solutions for ICT4D programs and projects
 cover: >-
-  https://images.unsplash.com/photo-1513171920216-2640b288471b?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxpZGVudGl0eXxlbnwwfHx8fDE3MDcxNjQ3ODd8MA&ixlib=rb-4.0.3&q=85
-coverY: 107
+  https://images.unsplash.com/photo-1557804506-669a67965ba0?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHx0ZWNobm9sb2d5JTIwcGVvcGxlfGVufDB8fHx8MTcxNTIwMjg2MXww&ixlib=rb-4.0.3&q=85
+coverY: 0
 layout:
   cover:
     visible: true
@@ -35,7 +35,7 @@ We also focus our work through the four lenses of People, Process, Technology an
 
 #### Performing Holistic Audits
 
-For our part in contributing to UNICEF's Digital Center of Excellent (DCoE) team focus on Electronic Civil Registration and Vital Statictics (eCRVS) solutions, we implememented a technical holistic audit program. The multi-staged approach includes an initial assessment based on published documentation and resources, meetings and interviews with program staff, an application architecture review, a source code security audit, a devsecops analysis, vulnerability scanning and penetration testing.
+For our part in contributing to UNICEF's Digital Center of Excellent (DCoE) team focus on Electronic Civil Registration and Vital Statistic (eCRVS) solutions, we implemented a technical holistic audit program. The multi-staged approach includes an initial assessment based on published documentation and resources, meetings and interviews with program staff, an application architecture review, a source code security audit, a devsecops analysis, vulnerability scanning and penetration testing.
 
 This guide walks the reader through the process so they can learn more, understand the approach, and replicate it for themselves.&#x20;
 
@@ -49,6 +49,4 @@ Our specific perspective on this primary topic
 
 
 
-## Evaluation Report Template
-
-{% embed url="https://docs.google.com/document/d/19vI9kUROWnl1pAmdIaKM0ECljdgHfduPnwnnby2qM5c/edit#heading=h.jaffytv832zc" %}
+###
