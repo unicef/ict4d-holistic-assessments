@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1593941918787-fde79b5a93cf?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxjaXRpemVuc3xlbnwwfHx8fDE3MTUyMTIxNDZ8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
 # Who We Aim to Help
 
 This work was commissioned by the Digital Center of Excellence (DCoE) at UNICEF.  In the context of digital transformation, stakeholders encompass a spectrum of actors, including government, advisors and sponsors, technology implementers, field and office workers, and citizens.

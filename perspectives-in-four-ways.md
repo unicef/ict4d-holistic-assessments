@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1505778276668-26b3ff7af103?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxjb21wYXNzfGVufDB8fHx8MTcxNTIxMjE4MXww&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
 # Perspectives in Four Ways
 
 Through our work and this docuemtnation, we have considered the perspectives of the 4 dimensions that are critical to the effective and efficient facilitation of value for all the stakeholders in the form of products and services: people, process, technology, and partners.
