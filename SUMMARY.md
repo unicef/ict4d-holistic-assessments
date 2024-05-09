@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Four Dimension](perspectives-in-four-ways.md)
+* [Four Dimensions](perspectives-in-four-ways.md)
 
 ## 🧑‍🤝‍🧑 PEOPLE
 
@@ -27,10 +27,10 @@
 ## 🚀 TECHNOLOGY
 
 * [On Launching Technology](technology/on-launching-technology.md)
-* [Privacy Considerations](technology/understanding-identity-and-privacy.md)
+* [Integration and Diversity](technology/understanding-identity-and-privacy.md)
 * [Project Best Practices](technology/beauty-and-flaws-of-architecture.md)
 * [Source Code Conundrums](technology/source-code-issues-to-avoid.md)
-* [Achieve Operational Excellence](technology/development-and-secure-operations.md)
+* [Operational Excellence](technology/development-and-secure-operations.md)
 
 ## 🏫 PARTNERS
 
