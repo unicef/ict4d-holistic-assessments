@@ -1,39 +1,62 @@
-# Recommendations for Secure and Sustainable Solutions
+---
+description: Project and engineering management best practices to review and consider
+---
+
+# Project Best Practices
+
+## By implementing these recommendations, organizations can benefit from the strengths and avoid the pitfalls identified in the architecture audits we completed, leading to more secure, reliable, and sustainable systems.
 
 ### **Avoid the need for extensive customization**
 
 Some solution requires significant customization to fit defined needs, introducing potential risks and complexities. Prioritize solutions that align with your specific requirements to minimize the need for extensive modifications.
 
-### **Ensure adequate expertise and resources for complex systems.**
+<figure><img src="https://images.unsplash.com/photo-1502217625004-89c03571bcca?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHx0YWlsb3J8ZW58MHx8fHwxNzE1MjIyMjMzfDA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
+
+**Ensure adequate expertise and resources for complex systems**
 
 Some solutions complexity demands specialized expertise for effective management and maintenance. Allocate the necessary resources and expertise to support the implementation and ongoing operation of such systems.
 
-### **Consider the total cost of ownership.**
+<figure><img src="https://images.unsplash.com/photo-1507679799987-c73779587ccf?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxleHBlcnR8ZW58MHx8fHwxNzE1MjIyMjc2fDA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
+
+### **Consider the total cost of ownership**
 
 Some solution do not have licensing fees, but may incur additional costs associated with third-party dependencies and specialized expertise. Conduct a thorough analysis to understand the complete financial implications before implementing the system.
 
-### **Conduct regular security audits.**
+<figure><img src="https://images.unsplash.com/photo-1561414927-6d86591d0c4f?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxtb25leXxlbnwwfHx8fDE3MTUyMjIzMDF8MA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
+
+### **Conduct regular security audits**
 
 We found security audits that were limited to individual implementers' reports. Establish a proactive approach to security by conducting regular audits and promptly addressing any identified vulnerabilities.
 
-### **Invest in comprehensive documentation.**
+<figure><img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxzZWN1cml0eXxlbnwwfHx8fDE3MTUyMjIzODV8MA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
+
+### **Invest in comprehensive documentation**
 
 One solution's system administrator documentation lacks information on disaster recovery procedures. Prioritize the development of comprehensive documentation covering all aspects of the system, including security practices, deployment guidelines, and disaster recovery plans.
 
-### **Adopt continuous integration and deployment practices.**
+<figure><img src="https://images.unsplash.com/photo-1509475826633-fed577a2c71b?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxkb2N1bWVudGF0aW9ufGVufDB8fHx8MTcxNTIyMjQyMHww&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
+
+### **Adopt continuous integration and deployment practices**
 
 Some solutions lack a continuous integration/continuous deployment system for managing the software lifecycle. Implement CI/CD to streamline the development and deployment processes and facilitate rapid updates and bug fixes.
 
-### **Publish source code dependencies publicly.**
+<figure><img src="https://images.unsplash.com/photo-1612263731558-bbac49f8581a?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxnZWFyfGVufDB8fHx8MTcxNTIyMjQ0NHww&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
+
+### **Publish source code dependencies publicly**
 
 Some solutions source code dependencies are not publicly available, hindering maintenance and updates. Share the dependencies publicly to ensure transparency and ease of access for maintenance purposes.
 
-### **Integrate manual and automated testing.**
+<figure><img src="https://images.unsplash.com/photo-1541692641319-981cc79ee10a?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxibG9ja3N8ZW58MHx8fHwxNzE1MjIyNDgxfDA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
+
+### **Integrate manual and automated testing**
 
 One solution lacked both manual test plans and automated testing, increasing the risk of undetected defects. Implement a comprehensive testing strategy combining manual and automated testing to ensure the system's quality and reliability.
 
-### **Address security concerns promptly.**
+<figure><img src="https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxyb2JvdHxlbnwwfHx8fDE3MTUyMjI1MjJ8MA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
+
+### **Address security concerns promptly**
 
 Some audits uncovered several security risks. Prioritize addressing these risks promptly to enhance the system's security posture and protect sensitive data.
 
-By implementing these recommendations, organizations can benefit from the strengths and avoid the pitfalls identified in the architecture audits we completed, leading to more secure, reliable, and sustainable systems.
+<figure><img src="https://images.unsplash.com/photo-1509099652299-30938b0aeb63?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxzcGVlZHxlbnwwfHx8fDE3MTUyMjI1NjJ8MA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
+

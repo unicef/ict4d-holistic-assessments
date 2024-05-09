@@ -1,13 +1,14 @@
 ---
 description: >-
-  A reference for internal product managers and technical teams that participate
-  in the software product lifecycle
+  A review of technical findings of our recent evaluations for internal product
+  managers and technical teams that participate in the software product
+  lifecycle
 cover: >-
   https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxsYXVuY2h8ZW58MHx8fHwxNzE1MjA1NjU0fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# Introduction to Launching Technology
+# On Launching Technology
 
 Evaluations were conducted on three software projects that aim to improve civil registration and vital statistics (CRVS) systems. The evaluations covered various aspects, including source code security, application architecture, penetration testing, and DevSecOps analysis. These projects were evaluated to assess their fitness for purpose, readiness for enhancement, maintainability, performance, and security.
 
