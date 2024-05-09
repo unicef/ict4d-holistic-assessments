@@ -9,11 +9,10 @@
 * [Stakeholder Experiences](people/stakeholder-experiences.md)
 * [Threats to Success](people/threats-to-success.md)
 
-## 🧗  PROCESS
+## 🧗 PROCESS
 
-* [Holistic Audits for ICT4D](process/holistic-audits-for-ict4d.md)
+* [Holistic Audits Approach](process/holistic-audits-approach.md)
 * [Our Iterative Process](process/our-iterative-process.md)
-* [Audit Steps and Timeline](process/audit-steps-and-timeline.md)
 * [Assets for Review](process/assets-for-review.md)
 * [Software Bill of Materials](process/software-bill-of-materials.md)
 * [Audit Considerations](process/audit-considerations.md)
@@ -22,6 +21,7 @@
 * [Vulnerability Scanning](process/vulnerability-scanning.md)
 * [Penetration Testing](process/penetration-testing.md)
 * [DevSecOps](process/devsecops.md)
+* [Audit Steps and Timeline](process/audit-steps-and-timeline.md)
 
 ## 🚀 TECHNOLOGY
 

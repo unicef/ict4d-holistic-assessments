@@ -8,9 +8,9 @@ cover: >-
 coverY: 0
 ---
 
-# Holistic Audits for ICT4D
+# Holistic Audits Approach
 
-Throughout our work, we will be utilizing different strategies, techniques, and methodologies, and reflect upon how the solution providers themselves used this methodologies.&#x20;
+This section will document all the aspects of our holistic audit approach. As a foundation to this process, we begin by reflecting upon useful building blocks that should be both employed by an audit, and in the solution being audited.
 
 #### Needs Assessment
 
@@ -22,9 +22,15 @@ Threat modeling is a process of identifying, analyzing, and prioritizing the pot
 
 #### Risk Mitigation
 
-Risk mitigation is the process of identifying, analyzing, and taking steps to reduce or eliminate risks in a software development project. It is an important part of the software development process because it helps to ensure that the project is delivered on time, within budget, and with a high level of quality.
+Risk mitigation is the process of designing, implementing, and otherwise taking steps to reduce or eliminate identified risks in a software development project. It is an important part of the software development process because it helps to ensure that the project is delivered on time, within budget, and with a high level of quality.
 
 #### Harm Reducation
 
-Harm reduction is a public health approach that focuses on reducing the negative consequences associated with risky behaviors, rather than attempting to eliminate the behaviors themselves. In the context of software development, harm reduction may refer to the process of designing and implementing software in a way that minimizes the potential for harm to users or stakeholders.
+Harm reduction is a public health approach that focuses on reducing the negative consequences associated with risky behaviors, rather than attempting to eliminate the behaviors themselves. In the context of software development, harm reduction may refer to the process of designing and implementing software in a way that minimizes the negative impact a user or compromise may have upon themselves, other users, data, or the system as a whole.
+
+\
+
+
+\
+
 

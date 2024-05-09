@@ -15,7 +15,4 @@ The evaluations involved a comprehensive review of the projects' documentation, 
 
 Based on the evaluation findings, several recommendations were made to improve the security and reliability of the projects. These recommendations included implementing secure deployment practices, prioritizing traffic protection, developing comprehensive test plans, eliminating hard-coded credentials, and protecting against supply chain attacks. Additionally, recommendations were made to address specific vulnerabilities identified during the evaluations, such as improving exception logging and prioritizing input sanitization.
 
-* elaboration of the technical documents themselves
-* targeted to UNICEF’s context and led by the insights provided by the research of the discovery phase
-* must consider the perspectives of the 4 dimensions that are critical to the effective and efficient facilitation of value for all the stakeholders in the form of products and services: people, process, technology, and partners
-
+*
