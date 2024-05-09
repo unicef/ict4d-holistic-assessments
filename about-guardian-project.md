@@ -7,6 +7,12 @@ description: This holistic experience was brought to you by Guardian Project
 With 15 years of experience in the Human Rights and Internet Freedom space, [Guardian Project](https://guardianproject.info) is dedicated to building apps and technologies prioritising the safety and protection of those we work with. We are a group of designers, developers, innovators and technicians. Working at the intersection of human and digital rights alongside communities to find solutions which are secure, protect privacy and fit within community contexts. Our core values include security, privacy, and transparency, reflected in all our developments. \
 
 
+<div data-full-width="false">
+
+<figure><img src=".gitbook/assets/GuardianProjectLogo (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 The core team of contributors for this work include:
 
 * Nathan Freitas, Project Director and Technical Advisor &#x20;
