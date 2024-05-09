@@ -52,16 +52,16 @@ website:
       - file: introduction-to-understanding.md
 
       - section: "People: Understanding Through Discussion and Discovery"
-        contents: people-deeper-understanding-through-discussion-and-discovery/*
+        contents: people/*
       
       - section: "Process: Holistic Audits on ICT4D"
-        contents: process-performing-holistic-audits-on-ict4d/*
+        contents: process/*
       
       - section: "Technology: Launching and Deploying" 
-        contents: technology-launching-and-deploying-new-tech-in-ict4d/*
+        contents: technology/*
       
-      - section: "Threats and Risks for Civil Digital Identity"
-        contents: threats-and-risks-for-civil-digital-identity/*
+      - section: "Partners"
+        contents: partners/*
   
   page-footer: |
     [Holistic Audits on ICT4D](https://unicef.github.io/holistic-audits-on-ict4d) © 2024 by [UNICEF](https://www.unicef.org) 
