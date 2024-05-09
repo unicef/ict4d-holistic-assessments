@@ -10,7 +10,9 @@ When implementing new digitalization technologies and solutions there are a few 
 
 ## In order to foster holistic security, we must broaden our scope beyond system vulnerabilities and cybersecurity threats to technology. We must also acknowledge and address the threats introduced by the people and processes involved.
 
-_View the full visual presentation through the following slides, or read-on below..._
+_View the full visual presentation through the video and following slides, and read-on below..._
+
+{% embed url="https://youtu.be/BewPyADnpMs" %}
 
 {% file src="../.gitbook/assets/Exec Sum_ Threats to Success [April 2024].pdf" %}
 
