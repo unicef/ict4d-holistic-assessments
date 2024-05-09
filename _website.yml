@@ -49,7 +49,9 @@ website:
     search: false
     contents:
       - file: overview.md
+      - file: about-guardian-project.md
       - file: perspectives-in-four-ways.md
+      - file: glossary.md
 
       - section: "People: Understanding Through Discussion and Discovery"
         contents: people/*
