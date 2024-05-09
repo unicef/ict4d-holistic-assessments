@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
+* [The Team](about-guardian-project.md)
 * [Four Dimensions](perspectives-in-four-ways.md)
 
 ## 🧑‍🤝‍🧑 PEOPLE
@@ -35,7 +36,3 @@
 ## 🏫 PARTNERS
 
 * [Outreach and Awareness Guides](partners/outreach-and-awareness-guides.md)
-
-***
-
-* [🌐 About Guardian Project](about-guardian-project.md)

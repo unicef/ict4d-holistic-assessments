@@ -1,20 +1,19 @@
 ---
-description: https://guardianproject.info
+description: This holistic experience was brought to you by Guardian Project
 ---
 
-# 🌐 About Guardian Project
+# The Team
 
-With 15 years of experience in the Internet Freedom space, Guardian Project is dedicated to building apps and technologies prioritising the safety and protection of those we work with. We are a group of designers, developers, innovators and technicians. Working at the intersection of human and digital rights alongside communities to find solutions which are secure, protect privacy and fit within community contexts. Our core values include security, privacy, and transparency, reflected in all our developments. \
+With 15 years of experience in the Human Rights and Internet Freedom space, [Guardian Project](https://guardianproject.info) is dedicated to building apps and technologies prioritising the safety and protection of those we work with. We are a group of designers, developers, innovators and technicians. Working at the intersection of human and digital rights alongside communities to find solutions which are secure, protect privacy and fit within community contexts. Our core values include security, privacy, and transparency, reflected in all our developments. \
 
 
 The core team of contributors for this work include:
 
-* Nathan Freitas, Technical Advisor &#x20;
+* Nathan Freitas, Project Director and Technical Advisor &#x20;
 * Tiffany Robertson, Project Manager
-* Darren Clarke, Source Code & Application Auditor
-* Abe Luck, Source Code & Application Auditor
-* Iain Learmonth, DevSec Ops Auditor&#x20;
-* Paul Mayero, General Auditor
+* Darren Clarke, Source Code & Application Architecture Auditor
+* Abe Luck, Source Code & Application Architecture Auditor
+* Iain Learmonth, DevSecOps Auditor&#x20;
 * Carrie Winfrey, Researcher & Designer
 
 Independent Auditors:
