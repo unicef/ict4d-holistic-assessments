@@ -1,6 +1,6 @@
 # Evaluation Template
 
-Our full holistic evaluation template is available for download and re-use
+Our full holistic evaluation template is available for download and re-use in DOCX and PDF format.&#x20;
 
 {% file src="../.gitbook/assets/Template-Holistic-Evaluation.docx" %}
 

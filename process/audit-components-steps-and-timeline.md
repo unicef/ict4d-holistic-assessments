@@ -54,7 +54,7 @@ Software development operation best practices and from the operations management
 
 * _Share Evaluation & Report any issues to vendor_&#x20;
 
-**Step 7: Report of fFndings and Recommendations (10 days)**
+**Step 7: Report of Findings and Recommendations (10 days)**
 
 * _Share Evaluation & Report any issues to vendor_&#x20;
 

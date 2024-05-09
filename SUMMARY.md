@@ -3,6 +3,7 @@
 * [Overview](README.md)
 * [The Team](about-guardian-project.md)
 * [Four Dimensions](perspectives-in-four-ways.md)
+* [Glossary](glossary.md)
 
 ## 🧑‍🤝‍🧑 PEOPLE
 

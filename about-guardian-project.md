@@ -4,14 +4,14 @@ description: This holistic experience was brought to you by Guardian Project
 
 # The Team
 
-With 15 years of experience in the Human Rights and Internet Freedom space, [Guardian Project](https://guardianproject.info) is dedicated to building apps and technologies prioritising the safety and protection of those we work with. We are a group of designers, developers, innovators and technicians. Working at the intersection of human and digital rights alongside communities to find solutions which are secure, protect privacy and fit within community contexts. Our core values include security, privacy, and transparency, reflected in all our developments. \
+With 15 years of experience in the Human Rights and Internet Freedom space, [Guardian Project](https://guardianproject.info) is dedicated to building apps and technologies prioritising the safety and protection of those we work with. \
 
 
-<div data-full-width="false">
+<figure><img src=".gitbook/assets/GuardianProjectLogo (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/GuardianProjectLogo (1).png" alt=""><figcaption></figcaption></figure>
+We are a group of designers, developers, innovators and technicians. Working at the intersection of human and digital rights alongside communities to find solutions which are secure, protect privacy and fit within community contexts. Our core values include security, privacy, and transparency, reflected in all our developments.&#x20;
 
-</div>
+<figure><img src=".gitbook/assets/PXL_20220327_154428957.jpg" alt=""><figcaption><p>We are actual humans who care!</p></figcaption></figure>
 
 The core team of contributors for this work include:
 
