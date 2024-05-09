@@ -10,6 +10,10 @@ When implementing new digitalization technologies and solutions there are a few 
 
 ## In order to foster holistic security, we must broaden our scope beyond system vulnerabilities and cybersecurity threats to technology. We must also acknowledge and address the threats introduced by the people and processes involved.
 
+_View the full visual presentation through the following slides, or read-on below..._
+
+{% file src="../.gitbook/assets/Exec Sum_ Threats to Success [April 2024].pdf" %}
+
 ### Insufficient Buy-In
 
 The absence of support from government stakeholders poses a significant risk of derailing the entire project. Given the involvement of multiple stakeholders, securing support and buy-in across various levels is imperative. This commitment entails understanding the importance and benefits of the Digital Transformation, being willing to invest resources (financial, time, personnel), actively participating in the process, and championing the changes within their respective roles.
@@ -45,9 +49,4 @@ Insufficient consideration of ongoing costs and support frameworks can result in
 ### Evolving Technology and Threats
 
 Technology is always changing, and it's crucial for the security of a system, and the practices and policies surrounding it, to remain current. Without strong protections, a country will be ill-equipped to fend off emerging threats from criminal hackers or internal breaches to exploit sensitive information. Citizens and their data can be compromised.
-
-View the full visiual presentation through the attached pdf file below.\
-
-
-{% file src="../.gitbook/assets/Exec Sum_ Threats to Success [April 2024].pdf" %}
 
