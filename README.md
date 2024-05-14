@@ -3,7 +3,7 @@ description: >-
   A space for sharing a broader approach to auditing the security, privacy, and
   sustainability of ICT4D technology
 cover: >-
-  https://images.unsplash.com/photo-1542744173-8e7e53415bb0?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxtZWV0aW5nJTIwdGVhbXxlbnwwfHx8fDE3MTUyMDQ4NDh8MA&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1518495973542-4542c06a5843?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxob2xpc3RpY3xlbnwwfHx8fDE3MTU2NTAyNDR8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
 layout:
   cover:
