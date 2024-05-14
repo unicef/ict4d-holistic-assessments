@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Overview](README.md)
+* [A Holistic New Approach to Audits!](README.md)
 * [The Team](about-guardian-project.md)
 * [Four Dimensions](perspectives-in-four-ways.md)
 * [Glossary](glossary.md)
@@ -29,11 +29,13 @@
 ## 🚀 TECHNOLOGY
 
 * [On Launching Technology](technology/on-launching-technology.md)
-* [Integration and Diversity](technology/understanding-identity-and-privacy.md)
 * [Project Best Practices](technology/beauty-and-flaws-of-architecture.md)
 * [Source Code Conundrums](technology/source-code-issues-to-avoid.md)
 * [Operational Excellence](technology/development-and-secure-operations.md)
 
 ## 🏫 PARTNERS
 
-* [Outreach and Awareness Guides](partners/outreach-and-awareness-guides.md)
+* [Evaluation Case Studies](partners/evaluation-case-studies.md)
+* [Opportunities and Risks of Digital Identity](partners/understanding-identity-and-privacy.md)
+* [Human Factor - User Experience Risks and Threats](partners/human-factor-user-experience-risks-and-threats.md)
+* [Privacy and Security Controls in CRVS systems](partners/privacy-and-security-controls-in-crvs-systems.md)

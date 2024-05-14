@@ -2,13 +2,11 @@
 description: How to achieve careful success through integration and diversity
 ---
 
-# Integration and Diversity
+# Opportunities and Risks of Digital Identity
 
-While many organizations who work in the privacy and security field we are considered to be a part of might balk at the idea of a government deploying a “100 per cent continuous, compulsory, and permanent registration” through digital identity or vital statistics tracking, we do not. Through our deep experience with exile communities, diasporas, refugees, and other communities in great need of services, but lacking core infrastructure and sufficient centralized services, we understand the clear values and benefits that a unified, managed identity service can provide.
+While many organizations who work in the privacy and security field we are considered to be a part of might balk at the idea of a government deploying a “100 per cent continuous, compulsory, and permanent registration” through digital identity or vital statistics tracking, we do not. Through our deep experience with exile communities, diasporas, refugees, and other communities in great need of services, but lacking core infrastructure and sufficient centralized services, we understand the clear values and benefits that a unified, managed identity service can provide. The challenge then is ensuring it is designed correctly, implemented appropriately, operated securely, and maintained effectively. This challenge is whether to unify a solution into a single, silo'd monoculture, or to embrace a more diverse, federated approach.
 
-## The challenge then is ensuring it is designed correctly, implemented appropriately, operated securely, and maintained effectively.&#x20;
-
-Success is dependent upon comprehensive understanding of user needs, threat models and system architectures available within the context of the target beneficiary communities.
+## Success is dependent upon comprehensive understanding of user needs, threat models and system architectures available within the context of the target beneficiary communities.
 
 ### Avoiding Monoculture Pitfalls
 

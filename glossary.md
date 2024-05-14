@@ -7,7 +7,19 @@ coverY: 0
 
 # Glossary
 
-#### Civil Registration and Vital Statistics (CRVS)
+#### Digital Transformation
+
+A strategic process in which nations adopt and integrate digital technologies to existing operations and services.
+
+#### Stakeholders&#x20;
+
+Individuals and entities invested in the decisions, activities and outcomes of a Digital Transformation initiative.
+
+#### Digital Public Goods (DPGs)&#x20;
+
+Software, AI models, data sets, content and standards designed to service public interest. DPGs are often characterized by their accessibility and affordability.
+
+**Civil Registration and Vital Statistics (CRVS)**
 
 A well-functioning civil registration and vital statistics (CRVS) system registers all births and deaths, issues birth and death certificates, and compiles and disseminates vital statistics, including cause of death information. It may also record marriages and divorces.
 
