@@ -10,6 +10,8 @@ coverY: 0
 
 # On Launching Technology
 
+{% embed url="https://youtu.be/x0NqUkAw2Gs" %}
+
 Evaluations were conducted on four software projects that provide solutions in the realm of ICT4D. These projects were evaluated to assess their fitness for purpose, readiness for enhancement, maintainability, performance, and security.
 
 The evaluations involved a comprehensive review of the projects' documentation, source code, and deployment environments. Security audits were conducted to uncover vulnerabilities, and penetration testing was performed to assess the systems' resilience against cyberattacks. The evaluations also examined the projects' software development practices, including testing procedures and DevSecOps methodologies.
