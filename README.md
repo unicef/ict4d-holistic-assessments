@@ -29,6 +29,8 @@ This collection of documents represents a set of perspectives, experiences, and 
 
 This approach will be discussed through the four lenses of [People, Process, Technology and Partners](perspectives-in-four-ways.md).
 
+{% embed url="https://www.youtube.com/watch?v=MBhL1YsrZfQ" %}
+
 ### Background
 
 This work grew out of the UNICEF Digital Center of Excellent (DCoE) team's focus on evaluation [Electronic Civil Registration and Vital Statistic (eCRVS)](glossary.md) solutions. To do this, a holistic audit process was designed and implemented. The wide-ranging, [multi-staged approach](process/an-iterative-process.md) includes an [initial assessment](process/audit-components-steps-and-timeline.md) based on [published documentation and resources](process/assets-for-review.md), [meetings and interviews with program staff](people/stakeholder-experiences.md), an [application architecture review](process/application-architecture.md), a [source code security audit](process/source-code-security.md), a [DevSecOps deployment analysis](process/devsecops.md), [vulnerability scanning](process/vulnerability-scanning.md) and [penetration testing](process/penetration-testing.md). Four audit evaluations were completed, and the lessons learned from that work, have been extracted and integrated here into this guide.
