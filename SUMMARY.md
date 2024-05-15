@@ -35,7 +35,7 @@
 
 ## 🏫 PARTNERS
 
-* [Evaluation Case Studies](partners/evaluation-case-studies.md)
+* [Evaluating Partners](partners/evaluating-partners.md)
 * [Opportunities and Risks of Digital Identity](partners/understanding-identity-and-privacy.md)
 * [Human Factor - User Experience Risks and Threats](partners/human-factor-user-experience-risks-and-threats.md)
 * [Privacy and Security Controls in CRVS systems](partners/privacy-and-security-controls-in-crvs-systems.md)
