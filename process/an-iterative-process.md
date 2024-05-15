@@ -10,29 +10,29 @@ It also allows the team to gather feedback from stakeholders and users throughou
 
 ### Core Guidelines
 
-1. Be transparent and engaged with all stakeholders through open systems and communication
-2. Share results and outputs, early and often for feedback
-3. Debrief and reflect upon the quality of outcomes and outputs, to inform, revise, and improve subsequent iterations of the work
+1. Be transparent and engaged with all stakeholders through open systems and communication.
+2. Share results and outputs, early and often for feedback.
+3. Debrief and reflect upon the quality of outcomes and outputs, to inform, revise, and improve subsequent iterations of the work.
 
 ### Tasks and Engagements
 
 This process follows a set of tasks and engagements that include the vendor to foster transparency and accuracy of produced and shared findings. Many of these tasks happen in parallel. It begins with introductions and laying a foundation of trust.&#x20;
 
-* Initial introduction between auditors, solution team, and other stakeholders
-* Onboarding call with the vendor and demo of the solution
-* Create an established communications channel and share asset request list with vendor
-  * _Tip: It is helpful to choose a communication channel that already exists in the vendor workflow to ease any burden of communication_
+* Initial introduction between auditors, solution team, and other stakeholders.
+* Onboarding call with the vendor and demo of the solution.
+* Create an established communications channel and share asset request list with vendor.
+  * _Tip: It is helpful to choose a communication channel that already exists in the vendor workflow to ease any burden of communication._
 * &#x20;Create a file sharing service folder for ease of document uploading and sharing of Assets and any additional resources the vendor deem useful (case studies, security audits, SBOM, independent reports, etc.).
 
-Furthermore, is important to engage with vendors frequently regarding any discovered vulnerabilities or bugs. After each step in the process we share an evaluation update with the vendor and UNICEF and allow feedback so the process can be iterative and accurately reflect a relevant and up-to-date solution.&#x20;
+Furthermore, is important to engage with vendors frequently regarding any discovered vulnerabilities or bugs. After each step in the process we share an evaluation update with the vendor and the commissioning team (f.i. it was UNICEF in our case) and allow feedback so the process can be iterative and accurately reflect a relevant and up-to-date solution.&#x20;
 
 For high or severe level vulnerabilities, the disclosure approach includes:&#x20;
 
-* Ethically disclose vulnerabilities or bugs to vendors&#x20;
-  * After each Step (Assessment/Audit), disclose any vulnerabilities or bugs found to the vendor through an agreed upon communication channel
-* Handle all sensitive communications through a secure, confidential manner agreed upon by the vendor and auditor
-* Negotiate with vendors regarding the complexity of a fix and timeline
-* Based on the complexity, determine how and when to update the evaluation report accordingly (ie- a vulnerability is disclosed, but not fixed, a fix is in process, a resulting evaluation of a fix)
+* Ethically disclose vulnerabilities or bugs to vendors.
+  * After each Step (Assessment/Audit), disclose any vulnerabilities or bugs found to the vendor through an agreed upon communication channel.
+* Handle all sensitive communications through a secure, confidential manner agreed upon by the vendor and auditor.
+* Negotiate with vendors regarding the complexity of a fix and timeline.
+* Based on the complexity, determine how and when to update the evaluation report accordingly (ie- a vulnerability is disclosed, but not fixed, a fix is in process, a resulting evaluation of a fix).
 
 \
 
