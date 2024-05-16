@@ -12,6 +12,8 @@ coverY: 0
 
 This section will document all the aspects of our holistic audit approach. As a foundation to this process, we begin by reflecting upon useful building blocks that should be both employed by an audit, and in the solution being audited.
 
+{% embed url="https://www.youtube.com/watch?v=SfxmFsXiEEU" %}
+
 ### Needs Assessment
 
 Needs assessment is a process of identifying and analyzing the needs of a specific group of users or stakeholders in order to determine the best course of action to meet those needs. In the context of software development, a needs assessment is an important part of the planning phase of the project. It involves gathering and analyzing data about the users or stakeholders who will be using the software, as well as their needs and requirements.
