@@ -14,8 +14,10 @@ Penetration Testing, also known as "pen testing," is a form of security testing 
 
 During a penetration testing engagement, the tester attempts to identify and exploit vulnerabilities in the application, using a range of techniques including vulnerability scanning, manual testing, and social engineering. The penetration tester attempts to gain access to the system, escalate privileges, and access sensitive data or functionality within the application. The testing can be performed from various perspectives, such as an external attacker or an insider threat, to identify vulnerabilities from different angles.
 
+<figure><img src="../.gitbook/assets/pentestreport.png" alt=""><figcaption><p>A Sample Manual Penetration Test Report</p></figcaption></figure>
+
 ### Continuous Pentesting, Continuous Compliance
 
 Through this work, we have been introducing the idea of implementing continuous, automated pen testing and vulnerability scanning, as a way to actively ensure there is no regression or new vulnerabilities exposed, and that any required compliance is maintained.&#x20;
 
-Automated cloud testing infrastructure as provided by Astra and Intruder can help you maintain "year-round compliance" for standards that include ISO, SOC2, GDPR, CIS, and HIPAA. It can also help you identity and address any new Common Vulnerabilities and Exposures (CVE) in "real-time" through continous scans and regression testing.
+Automated cloud testing infrastructure as provided by [Astra](https://getastra.com) and [Intruder](https://intruder.io) can help you maintain "year-round compliance" for standards that include ISO, SOC2, GDPR, CIS, and HIPAA. It can also help you identity and address any new [Common Vulnerabilities and Exposures (CVE)](https://www.cve.org/) in "real-time" through continous scans and regression testing.

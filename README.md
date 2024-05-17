@@ -25,7 +25,7 @@ layout:
 
 ### Sharing Holistic Understanding
 
-This collection of documents represents a set of perspectives, experiences, and guidelines on engaging with technology within the Information and Communications Technology for Development (ICT4D) space. In particular, the work focuses on the benefits and impacts of adopting free and open-source software that is secure and privacy-focused.&#x20;
+This collection of documents represents a set of perspectives, experiences, and guidelines on engaging with technology within the [Information and Communications Technology for Development (ICT4D)](https://www.unicef.org/topics/information-and-communication-technology) space. In particular, the work focuses on the benefits and impacts of adopting free and open-source software that is secure and privacy-focused.&#x20;
 
 This approach will be discussed through the four lenses of [People, Process, Technology and Partners](perspectives-in-four-ways.md).
 

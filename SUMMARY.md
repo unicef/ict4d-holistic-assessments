@@ -24,7 +24,7 @@
 * [Vulnerability Scanning](process/vulnerability-scanning.md)
 * [Penetration Testing](process/penetration-testing.md)
 * [Development+Security+Operations](process/devsecops.md)
-* [Evaluation Template](process/evaluation-template.md)
+* [Sample Evaluation Template](process/evaluation-template.md)
 
 ## 🚀 TECHNOLOGY
 
@@ -37,5 +37,5 @@
 
 * [Evaluating Partners](partners/evaluating-partners.md)
 * [Opportunities and Risks of Digital Identity](partners/understanding-identity-and-privacy.md)
-* [Human Factor - User Experience Risks and Threats](partners/human-factor-user-experience-risks-and-threats.md)
-* [Privacy and Security Controls in CRVS systems](partners/privacy-and-security-controls-in-crvs-systems.md)
+* [Human Factor - UX Risks and Threats](partners/human-factor-ux-risks-and-threats.md)
+* [Privacy and Security Controls](partners/privacy-and-security-controls.md)

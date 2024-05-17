@@ -30,11 +30,11 @@ Independent Auditors:
 
 #### Relevant Expertise
 
-Our work at has always been focused on the human rights and humanitarian context, aiming to bend technology to better serve people and communities whose data and digital communications are at higher risk of being exploited and used against them. Over the last 15 years, we have provided security and privacy-focused software architecture, development, and operational deployment services across the human rights and humanitarian technology space.  We have experience managing complex multi-year, multi-million dollar technical projects with many stakeholders, and hundreds of thousands to millions of end-users.
+[Our work](https://guardianproject.info) at has always been focused on the human rights and humanitarian context, aiming to bend technology to better serve people and communities whose data and digital communications are at higher risk of being exploited and used against them. Over the last 15 years, we have provided security and privacy-focused software architecture, development, and operational deployment services across the human rights and humanitarian technology space.  We have experience managing complex multi-year, multi-million dollar technical projects with many stakeholders, and hundreds of thousands to millions of end-users.
 
 #### Open-Source Engagement
 
-For over a decade, we have also been heavily involved in open-source software communities, in particular those focused on privacy-enhancing technology, security-by-design and the minimization of tracking by third-parties. We have worked within projects that are part of Debian, Tor Project, Mozilla, Android, and more. We also lead and nurture our own open-source projects and communities, such as Clean Insights, F-Droid, and ProofMode.&#x20;
+For over a decade, we have also been heavily involved in open-source software communities, in particular those focused on privacy-enhancing technology, security-by-design and the minimization of tracking by third-parties. We have worked within projects that are part of Debian, Tor Project, Mozilla, Android, and more. We also lead and nurture our own open-source projects and communities, such as [Clean Insights](https://cleaninsights.org), [F-Droid](https://f-droid.org), and [ProofMode](https://proofmode.org).&#x20;
 
 #### Secure Development Operations
 
