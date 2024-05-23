@@ -29,13 +29,13 @@
 ## 🚀 TECHNOLOGY
 
 * [On Launching Technology](technology/on-launching-technology.md)
-* [Project Best Practices](technology/beauty-and-flaws-of-architecture.md)
+* [Management Best Practices](technology/beauty-and-flaws-of-architecture.md)
 * [Source Code Conundrums](technology/source-code-issues-to-avoid.md)
 * [Operational Excellence](technology/development-and-secure-operations.md)
 
 ## 🏫 PARTNERS
 
-* [Evaluating Partners](partners/evaluating-partners.md)
+* [Evaluations Outcomes](partners/evaluations-outcomes.md)
 * [Opportunities and Risks of Digital Identity](partners/understanding-identity-and-privacy.md)
 * [Human Factor - UX Risks and Threats](partners/human-factor-ux-risks-and-threats.md)
 * [Privacy and Security Controls](partners/privacy-and-security-controls.md)
