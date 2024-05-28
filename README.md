@@ -2,9 +2,8 @@
 description: >-
   A space for sharing a broader approach to auditing the security, privacy, and
   sustainability of ICT4D technology
-cover: >-
-  https://images.unsplash.com/photo-1518495973542-4542c06a5843?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxob2xpc3RpY3xlbnwwfHx8fDE3MTU2NTAyNDR8MA&ixlib=rb-4.0.3&q=85
-coverY: 0
+cover: .gitbook/assets/UN0803447-Naftalin.jpg
+coverY: -56
 layout:
   cover:
     visible: true
