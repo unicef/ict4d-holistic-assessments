@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1593941918787-fde79b5a93cf?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxjaXRpemVuc3xlbnwwfHx8fDE3MTUyMTIxNDZ8MA&ixlib=rb-4.0.3&q=85
+cover: ../.gitbook/assets/UN0596494-Siakachoma.jpg
 coverY: 0
 ---
 

@@ -8,7 +8,8 @@
 ## 🧑‍🤝‍🧑 PEOPLE
 
 * [Who We Aim to Help](people/who-we-aim-to-help.md)
-* [⬇️ Stakeholder Experiences](people/stakeholder-experiences.md)
+* [Stakeholder Experiences](people/stakeholder-experiences/README.md)
+  * [⬇️ Full Research Report](people/stakeholder-experiences/full-research-report.md)
 * [⬇️ Threats to Success](people/threats-to-success.md)
 
 ## 🧗 PROCESS
@@ -36,7 +37,7 @@
 
 ## 🏫 PARTNERS
 
-* [👯‍♀️ Choosing a Partner](partners/choosing-a-partner.md)
+* [Choosing a Partner](partners/choosing-a-partner.md)
 * [Evaluations Outcomes](partners/evaluations-outcomes.md)
 * [Opportunities and Risks of Digital Identity](partners/understanding-identity-and-privacy.md)
 * [Human Factor - UX Risks and Threats](partners/human-factor-ux-risks-and-threats.md)
