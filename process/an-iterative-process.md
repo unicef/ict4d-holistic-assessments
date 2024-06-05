@@ -1,5 +1,5 @@
 ---
-description: Refining and Improving in a Collaborative Way
+description: Refining and improving in a collaborative way
 ---
 
 # An Iterative Process

@@ -2,7 +2,7 @@
 description: 9 considerations for a better outcome
 ---
 
-# Threats to Success
+# ⬇️ Threats to Success
 
 When implementing new digitalization technologies and solutions there are a few threats that may impact successful integration and adoption. Based on stakeholder research, insights gleaned and our holistic audit approach we've identified 9 considerations.&#x20;
 

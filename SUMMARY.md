@@ -2,21 +2,22 @@
 
 * [A Holistic New Approach to Audits!](README.md)
 * [The Team](about-guardian-project.md)
-* [Four Dimensions](perspectives-in-four-ways.md)
+* [Four Lenses Of Holistic Audits](perspectives-in-four-ways.md)
 * [Glossary](glossary.md)
 
 ## 🧑‍🤝‍🧑 PEOPLE
 
 * [Who We Aim to Help](people/who-we-aim-to-help.md)
-* [Stakeholder Experiences](people/stakeholder-experiences.md)
-* [Threats to Success](people/threats-to-success.md)
+* [⬇️ Stakeholder Experiences](people/stakeholder-experiences.md)
+* [⬇️ Threats to Success](people/threats-to-success.md)
 
 ## 🧗 PROCESS
 
 * [Holistic Audits Approach](process/holistic-audits-for-ict4d.md)
 * [An Iterative Process](process/an-iterative-process.md)
-* [Audit Components, Steps and Timeline](process/audit-components-steps-and-timeline.md)
-* [Assets for Review](process/assets-for-review.md)
+* [Audit Methodology](process/audit-components-steps-and-timeline.md)
+* [Assets for Review](process/assets-for-review/README.md)
+  * [⬇️ Request of Assets PDF](process/assets-for-review/request-of-assets-pdf.md)
 * [Software Bill of Materials](process/software-bill-of-materials.md)
 * [Threat and Risk Assessment](process/threat-and-risk-assessment.md)
 * [Application Architecture](process/application-architecture.md)
@@ -24,7 +25,7 @@
 * [Vulnerability Scanning](process/vulnerability-scanning.md)
 * [Penetration Testing](process/penetration-testing.md)
 * [Development+Security+Operations](process/devsecops.md)
-* [Sample Evaluation Template](process/evaluation-template.md)
+* [⬇️ Sample Evaluation Template](process/evaluation-template.md)
 
 ## 🚀 TECHNOLOGY
 
@@ -35,7 +36,13 @@
 
 ## 🏫 PARTNERS
 
+* [👯‍♀️ Choosing a Partner](partners/choosing-a-partner.md)
 * [Evaluations Outcomes](partners/evaluations-outcomes.md)
 * [Opportunities and Risks of Digital Identity](partners/understanding-identity-and-privacy.md)
 * [Human Factor - UX Risks and Threats](partners/human-factor-ux-risks-and-threats.md)
 * [Privacy and Security Controls](partners/privacy-and-security-controls.md)
+* [Checklist for Success\*](partners/checklist-for-success.md)
+
+***
+
+* [Resource Links & Tools](resource-links-and-tools.md)

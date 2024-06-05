@@ -10,7 +10,7 @@ This work was [commissioned by UNICEF](../#background).  In the context of digit
 
 The choice a government makes about which technology solution or approach to take influences who is involved, specifically for technology implementation. Though, it can also affect who is involved in the early stages of conceptualizing the system. Throughout this work it is noted that a range of stakeholders are or should be involved in a Digital Transformation process.
 
-Our guides have a focused lens of assisting the specific audiences through the process of digital transformation initiatives: &#x20;
+Our guides have a focused lens of assisting these specific audiences through the process of digital transformation initiatives: &#x20;
 
 * **Government, NGO or civil society procurement specialist**, who works to make sure any Request for Proposals (RFP) process is fair and equal. These guides can be used a starting point for the requirements included in the terms of reference.
 * **Country offices T4D (technologists for development)** specialists and programme initiative leads that are actively participating in a digitally enabled programme. This guide will help them to broadly understand how the four dimensions impact the selection of a technology, and what need to be considered.

@@ -1,20 +1,29 @@
 ---
 description: An overview of the various pieces and sequencing
+coverY: 0
 ---
 
-# Audit Components, Steps and Timeline
+# Audit Methodology
+
+<figure><img src="../.gitbook/assets/Blue and White Clean Minimalist Monotone Business Process Flow Chart.png" alt=""><figcaption></figcaption></figure>
+
+## Our Methodology
+
+Holistic audits are increasingly important in today’s complex and interconnected business environments, where understanding the full picture is crucial for sustainable success. The components that make up a holistic audit should reflect the landscape of the sector (nutrition, child protection, wash, health, environmental, etc.). The goal with our work was to create a framework which was easy to replicate and scale up, while defining some practical and actionable technical pieces that will help an organization to perform this analysis in a systematic way. It is our belief that since technology is rapidly changing, it is important to perform audits regularly.
+
+<mark style="background-color:purple;">The evaluation was designed to provide a comprehensive review of any solution through the following components.</mark>
 
 ## Components of a Holistic Audit&#x20;
 
-The evaluation was designed to provide a comprehensive review of any solution through the following components:
+This process is iterative and follows a set of tasks and engagements that include the vendor to foster transparency and accuracy of produced and shared findings. Many of these stages can happen in parallel.&#x20;
 
 ### 1. Initial Assessment of Solution, Assets, and Documentation
 
-Meet with and interview the product team, receive a typical walkthrough demonstration of the system, gather all available documentation, reports, source code, tools, and complete an overall review of the “fitness” of the solution and readiness for proceeding through the rest of the audit process
+Meet with and interview the product team, receive a typical walkthrough demonstration of the system, gather all available documentation, reports, source code, tools, and complete an overall review of the “fitness” of the solution and readiness for proceeding through the rest of the audit process.
 
 ### 2. Source Code Security Audit
 
-Uncover flaws in the application (bugs, security weaknesses, extensibility, maintainability...), and evaluate the readiness of the source code for being enhanced by a third party
+Uncover flaws in the application (bugs, security weaknesses, extensibility, maintainability...), and evaluate the readiness of the source code for being enhanced by a third party.
 
 ### 3. Application Architecture Audit
 
@@ -30,35 +39,35 @@ Software development operation best practices and from the operations management
 
 ## Audit Timeline
 
-Below is a potential step-by-step timeline that incorporoates the components from above, with an estimate of days to complete, along with guidance about following up with the vendor/partner/solutions team.
+Below is a potential step-by-step timeline that incorporates the components from above, with an estimate of days to complete, along with guidance about following up with the vendor/partner/solutions team.
 
-**Step 1: Request Access to Source Code, Design Documents (10 days)**
+**Step 1: Request Access to Source Code, Design Documents  **<mark style="color:purple;">**(10 days)**</mark>&#x20;
 
 * Begin our deep dive into publicly available documentation and resources (website, githubs, case studies, install guides, etc)
 
-**Step 2: Initial Assessment Results (5 days)**
+**Step 2: Initial Assessment Results **<mark style="color:purple;">**(5 days)**</mark>&#x20;
 
 * A narrative report on background information and history, which includes a Threat & Risk Assessment portion.&#x20;
 * _Share Evaluation & Report any issues to vendor_
 
-**Step 3: Source Code Security Audit (15 days)**
+**Step 3: Source Code Security Audit **<mark style="color:purple;background-color:yellow;">**(15 days)**</mark>
 
 * _Share Evaluation & Report any issues to vendor_
 
-**Step 4: Application Architecture Audit (10 days)**
+**Step 4: Application Architecture Audit **<mark style="color:purple;">**(10 days)**</mark>&#x20;
 
 * _Share Evaluation & Report any issues to vendor_&#x20;
 
-**Step 5: Penetration Testing Audit (10 days)**
+**Step 5: Penetration Testing Audit **<mark style="color:purple;">**(10 days)**</mark>&#x20;
 
 * _Share Evaluation & Report any issues to vendor_&#x20;
   * Schedule a call to discuss severe issues if necessary&#x20;
 
-**Step 6: DevSecOps Analysis (15 days)**
+**Step 6: DevSecOps Analysis  **<mark style="color:purple;background-color:yellow;">**(15 days)**</mark>
 
 * _Share Evaluation & Report any issues to vendor_&#x20;
 
-**Step 7: Report of Findings and Recommendations (10 days)**
+**Step 7: Report of Findings and Recommendations **<mark style="color:purple;">**(10 days)**</mark>&#x20;
 
 * _Share Evaluation & Report any issues to vendor_&#x20;
 

@@ -1,7 +1,7 @@
 ---
 description: >-
   A reference for performing a wide-ranging, interconnecting technical,
-  security, and privacy quality assessments for  Information and Communications
+  security, and privacy quality assessments for Information and Communications
   Technology for Development
 cover: >-
   https://images.unsplash.com/photo-1554224155-6726b3ff858f?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxhdWRpdHxlbnwwfHx8fDE3MTUyMDU2MzR8MA&ixlib=rb-4.0.3&q=85
@@ -10,9 +10,21 @@ coverY: 0
 
 # Holistic Audits Approach
 
-This section will document all the aspects of our holistic audit approach. As a foundation to this process, we begin by reflecting upon useful building blocks that should be both employed by an audit, and in the solution being audited.
+Holistic audits are comprehensive evaluations that examine an organization or system in its entirety, rather than focusing on specific components in isolation. The goal of a holistic audit is to understand the interconnections and overall functioning of all aspects of the entity being audited. This approach ensures that all relevant factors are considered, leading to more thorough and meaningful insights.
+
+## <mark style="background-color:purple;">In this section you will...</mark>
+
+* Learn about our methodology for engaging in Holistic Audits
+* Reflect on useful building blocks to employ
+* Take a deep dive into the Holistic Audit components, with an example timeline of steps&#x20;
+* Be provided a list of recommended tools and skillsets or expertise we suggest using
+* Access to a Sample Evaluation Template <mark style="color:green;">(available for download)</mark>
 
 {% embed url="https://www.youtube.com/watch?v=SfxmFsXiEEU" %}
+
+## The Building Blocks
+
+As a foundation to this process, we begin by reflecting upon useful building blocks that should be both employed by an audit, and in the solution being audited.
 
 ### Needs Assessment
 
