@@ -9,11 +9,13 @@
 
 ## 🧑‍🤝‍🧑 PEOPLE
 
-* [Foundations](people/foundations/README.md)
-  * [⬇️ Full Research Report](people/foundations/full-research-report.md)
+* [Foundations](people/stakeholder-experiences/README.md)
+  * [⬇️ Stakeholder Experiences](people/foundations/stakeholder-experiences.md)
 * [Beyond Technology](people/beyond-technology.md)
 * [Gaps](people/gaps.md)
-* [⬇️ Threats to Success](people/threats-to-success.md)
+* [Beyond Technology](people/beyond-technology-1.md)
+* [Gaps](people/gaps-1.md)
+* [Threats to Success](people/threats-to-success.md)
 
 ## 🧗 PROCESS
 

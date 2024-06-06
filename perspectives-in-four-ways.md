@@ -21,7 +21,7 @@ Through our work and this documentation, we have considered the perspectives of 
 
 ### People
 
-Through the [lens of "People"](readme/who-we-aim-to-help.md) we have focused on [understanding the stakeholder](people/foundations/) through the process of designing, developing, and deployment a new technology-based solution in the ICT4D context. We sought to understand who are the different stakeholders and their roles, the [digital literacy needs of people](people/foundations/) engaging in this process, and how the technology impacts the local communities where it is to be deployed. We also [identified key threats](people/threats-to-success.md) to success that can help all people throughout the process avoid critical pitfalls.
+Through the [lens of "People"](readme/who-we-aim-to-help.md) we have focused on [understanding the stakeholder](people/stakeholder-experiences/) through the process of designing, developing, and deployment a new technology-based solution in the ICT4D context. We sought to understand who are the different stakeholders and their roles, the [digital literacy needs of people](people/stakeholder-experiences/) engaging in this process, and how the technology impacts the local communities where it is to be deployed. We also [identified key threats](people/threats-to-success.md) to success that can help all people throughout the process avoid critical pitfalls.
 
 <figure><img src="https://images.unsplash.com/photo-1552581234-26160f608093?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxwZW9wbGUlMjB3b3JraW5nfGVufDB8fHx8MTcxNTY1MDAwNHww&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
 
