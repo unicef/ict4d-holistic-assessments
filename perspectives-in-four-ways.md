@@ -39,7 +39,7 @@ Onto the [focus of "Technology"](technology/on-launching-technology.md), where w
 
 ### Partners
 
-Lastly, in the [area of "Partners"](partners/evaluations-outcomes.md), we share our ideas about what makes a good partner when choosing a technology solution. We discuss both technical acumen, as well as the equally important questions of positive indicators around sustainability, communication, and culture. We share experiences we have had in our own work in evaluation of eCRVS solutions, and how these green or red flags can help you make decisions about which partners, vendors, solutions, and organizations you choose to become dependent upon.
+Lastly, in the [area of "Partners"](partners/evaluating-partners-holistically.md), we share our ideas about what makes a good partner when choosing a technology solution. We discuss both technical acumen, as well as the equally important questions of positive indicators around sustainability, communication, and culture. We share experiences we have had in our own work in evaluation of eCRVS solutions, and how these green or red flags can help you make decisions about which partners, vendors, solutions, and organizations you choose to become dependent upon.
 
 <figure><img src="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxwYXJ0bmVyc3xlbnwwfHx8fDE3MTU2NTAwNjJ8MA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
 

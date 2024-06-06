@@ -35,12 +35,12 @@
 * [Launching New Technology](technology/on-launching-technology.md)
 * [Technical Project Management](technology/beauty-and-flaws-of-architecture.md)
 * [Source Code Conundrums](technology/source-code-issues-to-avoid.md)
-* [DevSecOps Considerations](technology/development-and-secure-operations.md)
+* [DevSecOps Checklist](technology/development-and-secure-operations.md)
 
 ## 🏫 PARTNERS
 
 * [Choosing a Partner](partners/choosing-a-partner.md)
-* [Evaluations Outcomes](partners/evaluations-outcomes.md)
+* [Evaluating Partners Holistically](partners/evaluating-partners-holistically.md)
 * [Opportunities and Risks of Digital Identity](partners/understanding-identity-and-privacy.md)
 * [Human Factor - UX Risks and Threats](partners/human-factor-ux-risks-and-threats.md)
 * [Privacy and Security Controls](partners/privacy-and-security-controls.md)

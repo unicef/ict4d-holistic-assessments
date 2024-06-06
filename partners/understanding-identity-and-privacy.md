@@ -6,7 +6,7 @@ description: How to achieve careful success through integration and diversity
 
 While many organizations who work in the privacy and security field we are considered to be a part of might balk at the idea of a government deploying a “100 per cent continuous, compulsory, and permanent registration” through digital identity or vital statistics tracking, we do not. Through our deep experience with exile communities, diasporas, refugees, and other communities in great need of services, but lacking core infrastructure and sufficient centralized services, we understand the clear values and benefits that a unified, managed identity service can provide. The challenge then is ensuring it is designed correctly, implemented appropriately, operated securely, and maintained effectively. This challenge is whether to unify a solution into a single, silo'd monoculture, or to embrace a more diverse, federated approach.
 
-## Success is dependent upon comprehensive understanding of user needs, threat models and system architectures available within the context of the target beneficiary communities.
+## <mark style="color:blue;">Success is dependent upon comprehensive understanding of user needs, threat models and system architectures available within the context of the target beneficiary communities.</mark>
 
 ### Avoiding Monoculture Pitfalls
 
@@ -18,6 +18,6 @@ Any audit or assessment must  not only consider problems that may arise from one
 
 Returning to our deep experience working with communities at risk, especially those facing advanced cyber attacks, we see great value in providing a robust, packaged, vetted solutions. This package should also include technical assistance through helpful documentation and best practices forms. This allows the communities themselves to understand how to adopt, nurture, support, and sustain these systems, all while building up their own in-house and local capacity.
 
-It is in this aspect that the helpful diversity returns - each organization and local deployment team understands their own unique threats, constraints, vulnerabilities, and requirements that they must tune the deployment for, while still benefiting from the core reusable package.&#x20;
+### <mark style="color:blue;">It is in this aspect that the helpful diversity returns - each organization and local deployment team understands their own unique threats, constraints, vulnerabilities, and requirements that they must tune the deployment for, while still benefiting from the core reusable package.</mark>&#x20;
 
 \

@@ -12,6 +12,6 @@ Partners come in various forms and sizes. They range from open-source, off-the-s
 
 ## <mark style="background-color:purple;">In this section you will...</mark>
 
-* Learn about 4 evaluations we completed using the Holistic Audit Template and what we learned by doing them
-* Specifics about what to consider when choosing a partner
-* A checklist for success\* _(well, at least on the right path)_
+* Learn about [4 evaluations we completed](evaluating-partners-holistically.md) using the [Holistic Audit Template](../process/evaluation-template.md) and what we learned by doing them
+* Explore more ideas on approaches, [philosophies](understanding-identity-and-privacy.md), and [privacy](privacy-and-security-controls.md) that different partners might take
+* Review a [Checklist for Success](checklist-for-success.md)\* _(well, at least on the right path)_
