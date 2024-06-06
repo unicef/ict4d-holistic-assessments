@@ -1,6 +1,7 @@
 # Table of contents
 
 * [A Holistic New Approach to Audits!](README.md)
+* [Get Started](get-started.md)
 * [The Team](about-guardian-project.md)
 * [Four Lenses Of Holistic Audits](perspectives-in-four-ways.md)
 * [Glossary](glossary.md)
