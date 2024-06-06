@@ -1,16 +1,5 @@
 ---
 description: People, Process, Technology, and Partners
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Four Lenses&#x20;

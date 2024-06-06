@@ -45,10 +45,14 @@ website:
   # website.sidebar: Side navigation bar
   sidebar:
     style: "docked"
-    collapse-level: 3
+    collapse-level: 4
     search: false
     contents:
       - file: overview.md
+
+      - section: "Introduction"
+        contents: readme/*
+
       - file: about-guardian-project.md
       - file: perspectives-in-four-ways.md
       - file: glossary.md

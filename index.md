@@ -1,39 +1,28 @@
-# Table of contents
+---
+description: >-
+  A space for sharing a broader approach to auditing the security, privacy, and
+  sustainability of ICT4D technology
+cover: .gitbook/assets/UN0803447-Naftalin.jpg
+coverY: -56
+---
 
-* [Overview](README.md)
-* [The Team](about-guardian-project.md)
-* [Four Dimensions](perspectives-in-four-ways.md)
-* [Glossary](glossary.md)
+# Introduction
 
-## 🧑‍🤝‍🧑 PEOPLE
+### Sharing Holistic Understanding
 
-* [Who We Aim to Help](people/who-we-aim-to-help.md)
-* [Stakeholder Experiences](people/stakeholder-experiences.md)
-* [Threats to Success](people/threats-to-success.md)
+This collection of documents represents a set of perspectives, experiences, and guidelines on engaging with technology within the [Information and Communications Technology for Development (ICT4D)](https://www.unicef.org/topics/information-and-communication-technology) space. In particular, the work focuses on the benefits and impacts of adopting free and open-source software that is secure and privacy-focused.&#x20;
 
-## 🧗 PROCESS
+This approach will be discussed through the four lenses of [People, Process, Technology and Partners](perspectives-in-four-ways.md).
 
-* [Holistic Audits Approach](process/holistic-audits-for-ict4d.md)
-* [An Iterative Process](process/an-iterative-process.md)
-* [Audit Components, Steps and Timeline](process/audit-components-steps-and-timeline.md)
-* [Assets for Review](process/assets-for-review.md)
-* [Software Bill of Materials](process/software-bill-of-materials.md)
-* [Threat and Risk Assessment](process/threat-and-risk-assessment.md)
-* [Application Architecture](process/application-architecture.md)
-* [Source Code Security](process/source-code-security.md)
-* [Vulnerability Scanning](process/vulnerability-scanning.md)
-* [Penetration Testing](process/penetration-testing.md)
-* [Development+Security+Operations](process/devsecops.md)
-* [Evaluation Template](process/evaluation-template.md)
+{{< video https://www.youtube.com/watch?v=MBhL1YsrZfQ >}}
 
-## 🚀 TECHNOLOGY
+### Background
 
-* [On Launching Technology](technology/on-launching-technology.md)
-* [Integration and Diversity](technology/understanding-identity-and-privacy.md)
-* [Project Best Practices](technology/beauty-and-flaws-of-architecture.md)
-* [Source Code Conundrums](technology/source-code-issues-to-avoid.md)
-* [Operational Excellence](technology/development-and-secure-operations.md)
+This work grew out of the UNICEF Digital Center of Excellent (DCoE) team's focus on evaluation [Electronic Civil Registration and Vital Statistic (eCRVS)](readme/glossary.md) solutions. To do this, a holistic audit process was designed and implemented. The wide-ranging, [multi-staged approach](process/an-iterative-process.md) includes an [initial assessment](process/audit-components-steps-and-timeline/) based on [published documentation and resources](process/audit-components-steps-and-timeline/assets-for-review/), [meetings and interviews with program staff](people/stakeholder-experiences/), an [application architecture review](process/audit-components-steps-and-timeline/application-architecture.md), a [source code security audit](process/audit-components-steps-and-timeline/source-code-security.md), a [DevSecOps deployment analysis](process/audit-components-steps-and-timeline/devsecops.md), [vulnerability scanning](process/audit-components-steps-and-timeline/vulnerability-scanning.md) and [penetration testing](process/audit-components-steps-and-timeline/penetration-testing.md). Four audit evaluations were completed, and the lessons learned from that work, have been extracted and integrated here into this guide.
 
-## 🏫 PARTNERS
+### Something For You
 
-* [Outreach and Awareness Guides](partners/outreach-and-awareness-guides.md)
+While there are some more thoughts on [Who We Aim To Help](readme/who-we-aim-to-help.md), in summary this guide has been created to assist anyone in the ICT4D space who as encountered the question **"Has it been audited?"**, and wondered if that was a financial question or a technology question. Whether you are a procurement specialist, a regional specialist, a technologists for development, or in a program or sales role, this guide has something for you. If you are in charge the audit, or just trying to understand what kind of questions to ask about during an evaluation, this guide has something for you. If you are a vendor, a platform developer, an entrepreneur, an open-source developer, this guide has something for you.
+
+<figure><img width=800 src="https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxwZW9wbGUlMjB0ZWFtfGVufDB8fHx8MTcxNTY0OTIxMHww&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption><p>It takes many people, process, technology and partners to be successful in ICT4D!</p></figcaption></figure>
+
