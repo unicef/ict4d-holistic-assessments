@@ -5,7 +5,7 @@ coverY: 0
 
 # Audit Methodology
 
-<figure><img src="../.gitbook/assets/Blue and White Clean Minimalist Monotone Business Process Flow Chart.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Blue and White Clean Minimalist Monotone Business Process Flow Chart.png" alt=""><figcaption></figcaption></figure>
 
 ## Our Methodology
 

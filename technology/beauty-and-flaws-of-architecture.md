@@ -2,7 +2,7 @@
 description: Project and engineering management best practices to review and consider
 ---
 
-# Management Best Practices
+# Technical Project Management
 
 ## By implementing these recommendations, organizations can benefit from the strengths and avoid the pitfalls identified in the architecture audits we completed, leading to more secure, reliable, and sustainable systems.
 
@@ -26,7 +26,7 @@ Some solution do not have licensing fees, but may incur additional costs associa
 
 ### **Conduct regular security audits**
 
-We found security audits that were limited to individual implementers' reports. Establish a proactive approach to security by conducting regular audits and promptly addressing any identified vulnerabilities. Audits should include [source code security](../process/source-code-security.md), [vulnerability scanning](../process/vulnerability-scanning.md), and [penetration testing](../process/penetration-testing.md).
+We found security audits that were limited to individual implementers' reports. Establish a proactive approach to security by conducting regular audits and promptly addressing any identified vulnerabilities. Audits should include [source code security](../process/audit-components-steps-and-timeline/source-code-security.md), [vulnerability scanning](../process/audit-components-steps-and-timeline/vulnerability-scanning.md), and [penetration testing](../process/audit-components-steps-and-timeline/penetration-testing.md).
 
 <figure><img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxzZWN1cml0eXxlbnwwfHx8fDE3MTUyMjIzODV8MA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
 

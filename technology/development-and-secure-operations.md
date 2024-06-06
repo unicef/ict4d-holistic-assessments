@@ -6,7 +6,7 @@ description: >-
 
 # Operational Excellence
 
-Earlier in this guide, the process for auditing [Development, Security and Operations](../process/devsecops.md) ("DevSecOps") practices was reviewed. Through the results of applying this [holistic audit process](../process/holistic-audits-for-ict4d.md) in the [evaluations that were completed](../partners/evaluations-outcomes.md), a list of opportunities where best practices can be improved were compiled.
+Earlier in this guide, the process for auditing [Development, Security and Operations](../process/audit-components-steps-and-timeline/devsecops.md) ("DevSecOps") practices was reviewed. Through the results of applying this [holistic audit process](../process/holistic-audits-for-ict4d.md) in the [evaluations that were completed](../partners/evaluations-outcomes.md), a list of opportunities where best practices can be improved were compiled.
 
 ### **Implement secure deployment practices**
 

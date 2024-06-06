@@ -12,7 +12,7 @@ The process also takes into account longevity and adaptability over nearly the l
 
 In the review process, extensive documentation and source code are analyzed, and development environments are deployed using using tools provided by the solution.&#x20;
 
-<figure><img src="../.gitbook/assets/OpenCRVSApplicationArchitecture.png" alt=""><figcaption><p><a href="https://documentation.opencrvs.org/technology/architecture">Example Application Architecture from OpenCRVS</a> </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/OpenCRVSApplicationArchitecture.png" alt=""><figcaption><p><a href="https://documentation.opencrvs.org/technology/architecture">Example Application Architecture from OpenCRVS</a> </p></figcaption></figure>
 
 ### The architecture audit also focuses on how the solution can be configured and extended, especially considering its the specific user stories and needs that need to be satisfied.&#x20;
 
