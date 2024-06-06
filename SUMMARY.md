@@ -36,7 +36,7 @@
 * [Launching New Technology](technology/on-launching-technology.md)
 * [Technical Project Management](technology/beauty-and-flaws-of-architecture.md)
 * [Source Code Conundrums](technology/source-code-issues-to-avoid.md)
-* [Operational Excellence](technology/development-and-secure-operations.md)
+* [DevSecOps Considerations](technology/development-and-secure-operations.md)
 
 ## 🏫 PARTNERS
 
