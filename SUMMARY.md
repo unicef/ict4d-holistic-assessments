@@ -12,7 +12,6 @@
 * [Foundations](people/stakeholder-experiences/README.md)
   * [⬇️ Stakeholder Experiences](people/foundations/stakeholder-experiences.md)
 * [Beyond Technology](people/beyond-technology.md)
-* [Gaps and Challenges](people/gaps-and-challenges.md)
 * [Threats to Success](people/threats-to-success.md)
 
 ## 🧗 PROCESS
