@@ -1,16 +1,18 @@
 # Table of contents
 
-* [A Holistic New Approach to Audits!](README.md)
+* [Introduction](README.md)
+  * [The Team](readme/about-guardian-project.md)
+  * [Who We Aim to Help](readme/who-we-aim-to-help.md)
+  * [Glossary](readme/glossary.md)
 * [Get Started](get-started.md)
-* [The Team](about-guardian-project.md)
-* [Four Lenses Of Holistic Audits](perspectives-in-four-ways.md)
-* [Glossary](glossary.md)
+* [Four Lenses ](perspectives-in-four-ways.md)
 
 ## 🧑‍🤝‍🧑 PEOPLE
 
-* [Who We Aim to Help](people/who-we-aim-to-help.md)
-* [Stakeholder Experiences](people/stakeholder-experiences/README.md)
-  * [⬇️ Full Research Report](people/stakeholder-experiences/full-research-report.md)
+* [Foundations](people/foundations/README.md)
+  * [⬇️ Full Research Report](people/foundations/full-research-report.md)
+* [Beyond Technology](people/beyond-technology.md)
+* [Gaps](people/gaps.md)
 * [⬇️ Threats to Success](people/threats-to-success.md)
 
 ## 🧗 PROCESS
