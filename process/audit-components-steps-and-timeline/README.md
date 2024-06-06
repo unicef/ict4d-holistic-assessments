@@ -1,6 +1,5 @@
 ---
 description: An overview of the various pieces and sequencing
-coverY: 0
 ---
 
 # Audit Methodology

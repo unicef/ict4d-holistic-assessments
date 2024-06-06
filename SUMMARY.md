@@ -9,8 +9,8 @@
 
 ## 🧑‍🤝‍🧑 PEOPLE
 
-* [Foundations](people/stakeholder-experiences/README.md)
-  * [⬇️ Stakeholder Experiences](people/foundations/stakeholder-experiences.md)
+* [Foundations](people/foundations.md)
+* [⬇️ Stakeholder Experiences](people/stakeholder-experiences.md)
 * [Beyond Technology](people/beyond-technology.md)
 * [Threats to Success](people/threats-to-success.md)
 
