@@ -4,9 +4,19 @@ description: Threats and Risk exist; What matters is how you are prepared to res
 
 # Threat and Risk Assessment
 
-As discussed in the [introduction to this section](holistic-audits-for-ict4d.md), threat modeling is a process of identifying, analyzing, and prioritizing the potential security threats and vulnerabilities in a software system. In response to those threats, risk mitigation offers a process of designing, implementing, and otherwise taking steps to reduce or eliminate identified risks (threats and vulnerabilities!) in a software development project or technology solution.
+As discussed in the [introduction to this section](holistic-audits-for-ict4d.md), threat assessment and modeling is a process of identifying, analyzing, and prioritizing the potential security threats and vulnerabilities in a software system. In response to those threats, risk mitigation offers a process of designing, implementing, and otherwise taking steps to reduce or eliminate identified risks (threats and vulnerabilities!) in a software development project or technology solution.
 
-Below is an example of an Threat and Risk assessment performed on a recently evaluated solution. The Threat, Likelihood, Impact, and Severity columns listed below are in reference to the world, and specific places where CRVS solutions are implemented, and not specific to the vendor, platform, or solution itself. In addition, this is a general assessment, to give the reader an idea of what kind of mitigations could be put in place for a solution.
+#### A Wide Variety of Approaches
+
+While we took a specific approach to this work in our technical assessement and evaluations, there is a long history of diverse approaches to understanding threat and risk. Here are a few outside link to broader, useful resources on the web.&#x20;
+
+* ["Threat Modeling for Measurement and Analytics"](https://docs.cleaninsights.org/docs/threat-modeling/) - a [15 minute video](https://www.youtube.com/watch?v=nt6ac3WoogA) and [presentation](https://docs.google.com/presentation/d/1RsikxjM9SxLkEK68WT4sgywA68LeL2m3o9T37LcjRCY/edit?usp=sharing)
+* ["Microsoft Threat Modeling Tool Threats"](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats)
+* [OWASP Community - Threat Modeling](https://owasp.org/www-community/Threat\_Modeling)
+
+#### Sample Threat Assessment
+
+Below is an example of an Threat Assessment performed on a [recently evaluated solution](../partners/evaluating-partners-holistically.md). The Threat, Likelihood, Impact, and Severity columns listed below are in reference to the world, and specific places where CRVS solutions are implemented, and not specific to the vendor, platform, or solution itself. In addition, this is a general assessment, to give the reader an idea of what kind of mitigations could be put in place for a solution.
 
 Likelihoods range from <mark style="color:blue;">Unlikely</mark> to <mark style="color:red;">Likely</mark>, while Severity can be <mark style="color:blue;">Low</mark> to <mark style="color:red;">Critical</mark>.\
 
