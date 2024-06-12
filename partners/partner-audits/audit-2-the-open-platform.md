@@ -8,7 +8,7 @@ We found the second solution to be stable and ready for implementation. It is a 
 
 The software, provided as a global public good to support sustainable development goals, includes a suite of visualization and analysis tools, making it effective for linking data for reporting and tracking purposes. It can be hosted locally on various devices or in the cloud and is most commonly used for health data. It integrates with various other software and tools through its Application Programming Interface (API) and is deployed in 75 low- and middle-income countries, with over 100 NGOs having implemented it.&#x20;
 
-> ### **The solution fits many contexts and use cases, such as logistics, education, COVID-19 vaccine tracking, agriculture projects, e-governance, food and nutrition, and more**.&#x20;
+> ### <mark style="background-color:yellow;">**The solution fits many contexts and use cases, such as logistics, education, COVID-19 vaccine tracking, agriculture projects, e-governance, food and nutrition, and more**</mark><mark style="background-color:yellow;">.</mark>&#x20;
 
 The evaluation involved reviewing publicly available documentation, attending virtual meetings, leveraging resources on YouTube and their community resources page, and testing a local cluster using the command line tool. We deployed an instance to test vulnerabilities and dependencies, created a Software Bill of Materials (SBOM) for the codebase, audited the architecture deployed in AWS, and conducted various vulnerability scans and penetration tests. Despite some scheduling difficulties, the team has been responsive and engaged, providing feedback and clarity.
 

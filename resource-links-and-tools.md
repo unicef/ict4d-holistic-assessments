@@ -12,11 +12,19 @@ We used the open-source tool [**syft**](https://github.com/anchore/syft) to crea
 
 _"Syft is a powerful and easy-to-use open-source tool for generating Software Bill of Materials (SBOMs) for container images and filesystems. It provides detailed visibility into the packages and dependencies in your software, helping you manage vulnerabilities, license compliance, and software supply chain security."_
 
+The Github service also offers [software supply chain features for checking dependencies](https://github.com/features/security/software-supply-chain):\
+\
+_"Keep your dependencies up-to-date and optimized and get updates on new vulnerabilities affecting your specific dependencies with Dependabot."_
+
 ### **Open-Source Software (OSS) Vulnerability Scanning**
 
 We used the open-source tool [**grype**](https://github.com/anchore/grype) to check the source and Docker images for vulnerabilities.&#x20;
 
 _"A vulnerability scanner for container images and filesystems. Easily install the binary to try it out. Works with Syft, the powerful SBOM (software bill of materials) tool for container images and filesystems."_
+
+Docker also offers their own [Docker Scout solution](https://www.docker.com/products/docker-scout/)\
+\
+_"Docker Scout generates signals across the software supply chain that inform improved development workflows. Developers are guided by contextual recommendations right where they work, leveraging data collected from a wide range of integrations."_
 
 ### **Static Application Security Testing (SAST) Scanning**
 
