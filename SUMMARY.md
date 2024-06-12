@@ -48,8 +48,6 @@
   * [Audit 3: "The Custom Software Development Kit"](partners/partner-audits/audit-3-the-custom-software-development-kit.md)
   * [Audit 4: "The Cloud Software-as-a-Service"](partners/partner-audits/audit-4-the-cloud-software-as-a-service.md)
 * [Managing Risk at Scale](partners/understanding-identity-and-privacy.md)
-* [Human Factor as a Threat](partners/human-factor-as-a-threat.md)
-* [Privacy and Security Controls](partners/privacy-and-security-controls.md)
 
 ***
 
