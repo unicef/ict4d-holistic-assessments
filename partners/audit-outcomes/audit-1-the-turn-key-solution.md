@@ -1,10 +1,10 @@
 ---
-description: A short synopsis and key findings from partner evaluation 1
+description: A short synopsis and key findings from partner holistic audit 1
 ---
 
-# Evaluation 1: "The Turn-Key Solution"
+# Audit 1: "The Turn-Key Solution"
 
-We found the first solution we evaluated to be stable and ready for implementation. It has excellent documentation for implementers, is interoperable with many e-government solutions, and focuses on real-world workflows with a supportive team. The reliance on third-party dependencies is commonplace, and the choice of microservices makes for a flexible and extensible solution. While there are areas for improvement outlined in the document, they do not detract from the overall positive evaluation. As a relatively new entrant to the market, the product may not be as flexible or feature-rich as other solutions but benefits from a focused functionality, modern architecture, and well-run public open-source project. The concept of a single unified upstream codebase that can be improved and updated, then pushed out to downstream instances, is particularly attractive and beneficial for global deployment and maintenance.
+We found the first solution we audited to be stable and ready for implementation. It has excellent documentation for implementers, is interoperable with many e-government solutions, and focuses on real-world workflows with a supportive team. The reliance on third-party dependencies is commonplace, and the choice of microservices makes for a flexible and extensible solution. While there are areas for improvement outlined in the document, they do not detract from the overall positive evaluation. As a relatively new entrant to the market, the product may not be as flexible or feature-rich as other solutions but benefits from a focused functionality, modern architecture, and well-run public open-source project. The concept of a single unified upstream codebase that can be improved and updated, then pushed out to downstream instances, is particularly attractive and beneficial for global deployment and maintenance.
 
 <mark style="background-color:orange;">**🔍 Discovered during the Audit:**</mark> During the first evaluation, we encountered vulnerabilities within the source code, the version of nodeJS it is built upon, and the security of deployment configurations. These issues were expected at this stage of the project.&#x20;
 

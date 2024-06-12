@@ -1,8 +1,8 @@
 ---
-description: A short synopsis and key findings from partner evaluation 4
+description: A short synopsis and key findings from partner holistic audit 4
 ---
 
-# Evaluation 4: "The Cloud Software-as-a-Service"
+# Audit 4: "The Cloud Software-as-a-Service"
 
 _coming soon..._
 

@@ -1,10 +1,10 @@
 ---
-description: A short synopsis and key findings from partner evaluation 2
+description: A short synopsis and key findings from partner holistic audit 2
 ---
 
-# Evaluation 2: "The Open Platform"
+# Audit 2: "The Open Platform"
 
-We found the second evaluated solution to be stable and ready for implementation. It is a free, open-source software platform designed for reporting, collecting, analyzing, and disseminating individual-level and aggregated data. Although not specifically designed for CRVS, it can integrate with CRVS systems or be extended to include CRVS-related features. Implementing interoperability can be costly in terms of both initial integration and long-term operation and maintenance. We also evaluated the additional costs associated with combining this software with a CRVS system.
+We found the second solution to be stable and ready for implementation. It is a free, open-source software platform designed for reporting, collecting, analyzing, and disseminating individual-level and aggregated data. Although not specifically designed for CRVS, it can integrate with CRVS systems or be extended to include CRVS-related features. Implementing interoperability can be costly in terms of both initial integration and long-term operation and maintenance. We also evaluated the additional costs associated with combining this software with a CRVS system.
 
 The software, provided as a global public good to support sustainable development goals, includes a suite of visualization and analysis tools, making it effective for linking data for reporting and tracking purposes. It can be hosted locally on various devices or in the cloud and is most commonly used for health data. It integrates with various other software and tools through its Application Programming Interface (API) and is deployed in 75 low- and middle-income countries, with over 100 NGOs having implemented it.&#x20;
 
