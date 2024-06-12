@@ -1,7 +1,7 @@
 ---
 description: >-
-  Well, we can't promise success, but here are some considerations we have found
-  to be important when choosing a partner
+  We can't promise success, but we can share some guiding principles  that we
+  have found to be important when choosing a partner.
 ---
 
 # Checklist for Success\*
@@ -9,7 +9,7 @@ description: >-
 * [ ] **Comprehensive, Robust, Accessibly Written Documentation**
   * How to Install Guides & User Guides make the reader prepared and the process more attainable
   * Videos are also helpful for installation and adoption
-* [ ] **Interoperable**&#x20;
+* [ ] **Interoperable Solutions**
   * Usually other pieces of technology already exist. Thus, there is a need to connect and work seamlessly with these pieces. When undergoing digital transformation initiatives it is imperative a solution is interoperable with other e-government solutions.&#x20;
 * [ ] **Lived Experiences**&#x20;
   * Considering the context of those implementing the solution is necessary. Lived experiences referring to including real-world workflows into your decision.&#x20;

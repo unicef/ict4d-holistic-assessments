@@ -1,12 +1,12 @@
 ---
 description: >-
-  Development, Security, and Operations Checklist to Mitigate Risks and
-  Vulnerabilities
+  Development, Security, and Operations Considerations to mitigate risks and
+  vulnerabilities
 ---
 
 # DevSecOps Checklist
 
-Earlier in this guide, the process for auditing [Development, Security and Operations](../process/audit-components-steps-and-timeline/devsecops.md) ("DevSecOps") practices was reviewed. Through the results of applying this [holistic audit process](../process/holistic-audits-for-ict4d.md) to the [evaluations that were completed](../partners/evaluating-partners-holistically.md), a set of common opportunities where best practices can be improved were uncovered. Some of these may seem simple or obvious, however they were still opportunities to improve in these areas in all the evaluations that were completed.
+Earlier in this guide, the process for auditing [Development, Security and Operations](../process/audit-components-steps-and-timeline/devsecops.md) ("DevSecOps") practices was reviewed. Through the results of applying this [holistic audit process](../process/holistic-audits-for-ict4d.md) to the [evaluations that were completed](../partners/evaluation-outcomes/), a set of common opportunities where best practices can be improved were uncovered. Some of these may seem simple or obvious, however they were still opportunities to improve in these areas in all the evaluations that were completed.
 
 * [ ] <mark style="color:blue;">**Implement secure deployment practices**</mark> \
   Ensure secure deployment practices, such as using encrypted connections, restricting access to sensitive data, and implementing strong authentication mechanisms.\

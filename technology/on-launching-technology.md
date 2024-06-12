@@ -3,12 +3,9 @@ description: >-
   A review of technical findings of our recent evaluations for internal product
   managers and technical teams that participate in the software product
   lifecycle
-cover: >-
-  https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxsYXVuY2h8ZW58MHx8fHwxNzE1MjA1NjU0fDA&ixlib=rb-4.0.3&q=85
-coverY: 0
 ---
 
-# On Launching Technology
+# Launching New Technology
 
 {% embed url="https://youtu.be/x0NqUkAw2Gs" %}
 

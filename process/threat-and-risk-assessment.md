@@ -16,7 +16,7 @@ While we took a specific approach to this work in our technical assessement and 
 
 #### Sample Threat Assessment
 
-Below is an example of an Threat Assessment performed on a [recently evaluated solution](../partners/evaluating-partners-holistically.md). The Threat, Likelihood, Impact, and Severity columns listed below are in reference to the world, and specific places where CRVS solutions are implemented, and not specific to the vendor, platform, or solution itself. In addition, this is a general assessment, to give the reader an idea of what kind of mitigations could be put in place for a solution.
+Below is an example of an Threat Assessment performed on a [recently evaluated solution](../partners/evaluation-outcomes/). The Threat, Likelihood, Impact, and Severity columns listed below are in reference to the world, and specific places where CRVS solutions are implemented, and not specific to the vendor, platform, or solution itself. In addition, this is a general assessment, to give the reader an idea of what kind of mitigations could be put in place for a solution.
 
 Likelihoods range from <mark style="color:blue;">Unlikely</mark> to <mark style="color:red;">Likely</mark>, while Severity can be <mark style="color:blue;">Low</mark> to <mark style="color:red;">Critical</mark>.\
 
