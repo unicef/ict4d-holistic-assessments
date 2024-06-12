@@ -35,17 +35,18 @@
 * [Launching New Technology](technology/on-launching-technology.md)
 * [Technical Project Management](technology/beauty-and-flaws-of-architecture.md)
 * [Source Code Conundrums](technology/source-code-issues-to-avoid.md)
+* [Physical Realities](technology/physical-realities.md)
 * [DevSecOps Checklist](technology/development-and-secure-operations.md)
 
 ## 🏫 PARTNERS
 
 * [Choosing a Partner](partners/choosing-a-partner.md)
 * [Checklist for Success\*](partners/checklist-for-success.md)
-* [Audit Outcomes](partners/audit-outcomes/README.md)
-  * [Audit 1: "The Turn-Key Solution"](partners/audit-outcomes/audit-1-the-turn-key-solution.md)
-  * [Audit 2: "The Open Platform"](partners/audit-outcomes/audit-2-the-open-platform.md)
-  * [Audit 3: "The Custom Software Development Kit"](partners/audit-outcomes/audit-3-the-custom-software-development-kit.md)
-  * [Audit 4: "The Cloud Software-as-a-Service"](partners/audit-outcomes/audit-4-the-cloud-software-as-a-service.md)
+* [Partner Audits](partners/partner-audits/README.md)
+  * [Audit 1: "The Turn-Key Solution"](partners/partner-audits/audit-1-the-turn-key-solution.md)
+  * [Audit 2: "The Open Platform"](partners/partner-audits/audit-2-the-open-platform.md)
+  * [Audit 3: "The Custom Software Development Kit"](partners/partner-audits/audit-3-the-custom-software-development-kit.md)
+  * [Audit 4: "The Cloud Software-as-a-Service"](partners/partner-audits/audit-4-the-cloud-software-as-a-service.md)
 * [Balancing Opportunities and Risks](partners/understanding-identity-and-privacy.md)
 * [Human Factor - UX Risks and Threats](partners/human-factor-ux-risks-and-threats.md)
 * [Privacy and Security Controls](partners/privacy-and-security-controls.md)

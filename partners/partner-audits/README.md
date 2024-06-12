@@ -1,8 +1,8 @@
 ---
-description: Four examples of partner solutions that were evaluated, and what we learned
+description: Four examples of partner solutions that were audited, and what we learned
 ---
 
-# Audit Outcomes
+# Partner Audits
 
 {% embed url="https://youtu.be/pDPiwviyt4k" %}
 
