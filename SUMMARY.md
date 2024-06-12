@@ -40,15 +40,15 @@
 ## 🏫 PARTNERS
 
 * [Choosing a Partner](partners/choosing-a-partner.md)
+* [Checklist for Success\*](partners/checklist-for-success.md)
 * [Evaluation Outcomes](partners/evaluation-outcomes/README.md)
   * [Evaluation 1: "The Turn-Key Solution"](partners/evaluation-outcomes/evaluation-1-the-turn-key-solution.md)
   * [Evaluation 2: "The Open Platform"](partners/evaluation-outcomes/evaluation-2-the-open-platform.md)
   * [Evaluation 3: "The Custom Software Development Kit"](partners/evaluation-outcomes/evaluation-3-the-custom-software-development-kit.md)
   * [Evaluation 4: "The Cloud Software-as-a-Service"](partners/evaluation-outcomes/evaluation-4-the-cloud-software-as-a-service.md)
-* [Opportunities and Risks of Digital Identity](partners/understanding-identity-and-privacy.md)
+* [Balancing Opportunities and Risks](partners/understanding-identity-and-privacy.md)
 * [Human Factor - UX Risks and Threats](partners/human-factor-ux-risks-and-threats.md)
 * [Privacy and Security Controls](partners/privacy-and-security-controls.md)
-* [Checklist for Success\*](partners/checklist-for-success.md)
 
 ***
 
