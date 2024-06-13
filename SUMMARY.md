@@ -10,7 +10,7 @@
 ## 🧑‍🤝‍🧑 PEOPLE
 
 * [Foundations](people/foundations.md)
-* [⬇️ Stakeholder Experiences](people/stakeholder-experiences.md)
+* [Stakeholder Experiences](people/stakeholder-experiences.md)
 * [Beyond Technology](people/beyond-technology.md)
 * [Threats to Success](people/threats-to-success.md)
 
@@ -20,13 +20,15 @@
 * [Threat and Risk Assessment](process/threat-and-risk-assessment.md)
 * [Software Bill of Materials](process/software-bill-of-materials.md)
 * [An Iterative Process](process/an-iterative-process.md)
+* [Recommended Skillsets](process/recommended-skillsets.md)
 * [Audit Methodology](process/audit-components-steps-and-timeline/README.md)
   * [Assets for Review](process/audit-components-steps-and-timeline/assets-for-review/README.md)
     * [⬇️ Request of Assets PDF](process/audit-components-steps-and-timeline/assets-for-review/request-of-assets-pdf.md)
   * [Application Architecture](process/audit-components-steps-and-timeline/application-architecture.md)
   * [Source Code Security](process/audit-components-steps-and-timeline/source-code-security.md)
   * [Vulnerability Scanning](process/audit-components-steps-and-timeline/vulnerability-scanning.md)
-  * [Penetration Testing](process/audit-components-steps-and-timeline/penetration-testing.md)
+  * [Penetration Testing](process/audit-components-steps-and-timeline/penetration-testing/README.md)
+    * [⬇️ Penetration Testing Slide Deck](process/audit-components-steps-and-timeline/penetration-testing/penetration-testing-slide-deck.md)
   * [Development+Security+Operations](process/audit-components-steps-and-timeline/devsecops.md)
 * [⬇️ Sample Evaluation Template](process/evaluation-template.md)
 
@@ -36,7 +38,8 @@
 * [Management Strategies](technology/beauty-and-flaws-of-architecture.md)
 * [Source Code Conundrums](technology/source-code-issues-to-avoid.md)
 * [Physical Realities](technology/physical-realities.md)
-* [DevSecOps Checklist](technology/development-and-secure-operations.md)
+* [DevSecOps Checklist](technology/development-and-secure-operations/README.md)
+  * [⬇️ DevSecOps Checklist Slide Deck](technology/development-and-secure-operations/devsecops-checklist-slide-deck.md)
 
 ## 🏫 PARTNERS
 
@@ -51,4 +54,5 @@
 
 ***
 
-* [Resource Links & Tools](resource-links-and-tools.md)
+* [Resource Links & Tools](resource-links-and-tools/README.md)
+  * [Additional Resources](resource-links-and-tools/additional-resources.md)

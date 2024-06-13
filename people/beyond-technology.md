@@ -36,6 +36,6 @@ Every Digital Transformation project should consider the experience of female us
 * What have you found out about female users?&#x20;
 * What did you do differently because of this?
 
-For more resources on how to design for the digital reality of women and girls, check out the Gender Tech Toolkit: [https://www.unicef.org/eap/innovation-and-technology-gender-equality](https://www.unicef.org/eap/innovation-and-technology-gender-equality).
+For more resources on how to design for the digital reality of women and girls, check out the **Gender Tech Toolkit:** [https://www.unicef.org/eap/innovation-and-technology-gender-equality](https://www.unicef.org/eap/innovation-and-technology-gender-equality).
 
 \

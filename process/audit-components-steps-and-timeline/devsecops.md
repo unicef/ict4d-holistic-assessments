@@ -28,5 +28,5 @@ The monitoring capabilities of the application are evaluated, with a particular 
 
 The audit concludes with several recommendations aimed at enhancing the security posture and operational efficiency of deployments. These might include updates to system documentation, improved secrets management practices, and recommendations for network architecture to safeguard the application environment. The audit stresses the importance of robust disaster recovery procedures and the need for comprehensive backup strategies to ensure data integrity and availability in the event of system failures or security incidents.
 
-### Overall, the DevSecOps audit provides a detailed roadmap for securely deploying and maintaining the application, with a focus on scalability, security, and operational best practices tailored to the platform’s unique architectural and operational context.
+### <mark style="background-color:yellow;">Overall, the DevSecOps audit provides a detailed roadmap for securely deploying and maintaining the application, with a focus on scalability, security, and operational best practices tailored to the platform’s unique architectural and operational context.</mark>
 

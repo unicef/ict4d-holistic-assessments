@@ -16,7 +16,7 @@ Holistic audits are comprehensive evaluations that examine an organization or sy
 * Learn about our methodology for engaging in Holistic Audits
 * Reflect on useful building blocks to employ
 * Take a deep dive into the Holistic Audit components, with an example timeline of steps&#x20;
-* Be provided a list of recommended tools and skillsets or expertise we suggest using
+* Be provided a list of recommended skillsets or expertise we suggest using
 * Access to a Sample Evaluation Template <mark style="color:green;">(available for download)</mark>
 
 {% embed url="https://www.youtube.com/watch?v=SfxmFsXiEEU" %}

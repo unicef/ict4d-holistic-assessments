@@ -2,7 +2,7 @@
 description: A look at stakeholder experiences in eCRVS projects
 ---
 
-# ⬇️ Stakeholder Experiences
+# Stakeholder Experiences
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-06-05 at 8.06.14 AM.png" alt="" width="563"><figcaption><p>Research Report Cover Page</p></figcaption></figure>
 

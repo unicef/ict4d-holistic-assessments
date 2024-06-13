@@ -50,7 +50,7 @@ Below is a potential step-by-step timeline that incorporates the components from
 * A narrative report on background information and history, which includes a Threat & Risk Assessment portion.&#x20;
 * _Share Evaluation & Report any issues to vendor_
 
-**Step 3: Source Code Security Audit **<mark style="color:purple;background-color:yellow;">**(15 days)**</mark>
+**Step 3: Source Code Security Audi**<mark style="background-color:yellow;">**t (15 days)**</mark>
 
 * _Share Evaluation & Report any issues to vendor_
 

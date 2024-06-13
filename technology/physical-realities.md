@@ -4,11 +4,11 @@ description: How and where your infrastructure and devices are hosted and operat
 
 # Physical Realities
 
-While many technology startups and services can fully embrace the opaque virtualization that modern cloud service infrastructure, when it comes to personal, private, and health data, and other ICT4D applications, you need to be more careful. Fully considering how and where your infrastructure is hosted, and where physical devices like laptops, tablets, and smartphones will be used is an absolutely requirement when launching new technology.
+While many technology startups and services can fully embrace the opaque virtualization of modern cloud service infrastructure, when it comes to personal, private, and health data, and other ICT4D applications, you need to be more careful. Fully considering how and where your infrastructure is hosted, and where physical devices like laptops, tablets, and smartphones will be used is an absolute requirement when launching new technology.
 
 
 
-<img src="../.gitbook/assets/file.excalidraw.svg" alt="a spectrum of physicality" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.excalidraw (1).svg" alt="a spectrum of physicality" class="gitbook-drawing">
 
 ### Self-Hosted
 
@@ -30,7 +30,7 @@ While many technology startups and services can fully embrace the opaque virtual
 
 ### Software as a Service (SaaS)
 
-Letting someone else manage your application in their own data center or cloud infrastructure is definitely the simplest and fastest path to launching. However, you are not only trusting "someone elses computer", but you are trusting "someone else" with all of your data, reliability, and relationships to the benficiary. You may also not be able to fully control where your data exists geographically, or ensure it is only stored in legal jurisdicitions compatible with your application and benficiaries expectations.
+Letting someone else manage your application in their own data center or cloud infrastructure is definitely the simplest and fastest path to launching. However, you are not only trusting "someone else's computer", but you are trusting "someone else" with all of your data, reliability, and relationships to the beneficiary. You may also not be able to fully control where your data exists geographically, or ensure it is only stored in legal jurisdictions compatible with your application and beneficiaries expectations.
 
 <mark style="background-color:yellow;">The</mark> [<mark style="background-color:yellow;">Audit 4: The Cloud SaaS</mark>](../partners/partner-audits/audit-4-the-cloud-software-as-a-service.md) <mark style="background-color:yellow;">is an example of a solution that is offered in this way.</mark>
 

@@ -30,7 +30,7 @@ Some solution do not have licensing fees, but may incur additional costs associa
 
 ## <mark style="background-color:yellow;">**Conduct regular security audits**</mark>
 
-Establish a proactive approach to security by conducting regular audits and promptly addressing any identified vulnerabilities. A comprehensive security audit should include aspcets of [source code security](../process/audit-components-steps-and-timeline/source-code-security.md), [vulnerability scanning](../process/audit-components-steps-and-timeline/vulnerability-scanning.md), and [penetration testing](../process/audit-components-steps-and-timeline/penetration-testing.md).
+Establish a proactive approach to security by conducting regular audits and promptly addressing any identified vulnerabilities. A comprehensive security audit should include aspcets of [source code security](../process/audit-components-steps-and-timeline/source-code-security.md), [vulnerability scanning](../process/audit-components-steps-and-timeline/vulnerability-scanning.md), and [penetration testing](../process/audit-components-steps-and-timeline/penetration-testing/).
 
 <figure><img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxzZWN1cml0eXxlbnwwfHx8fDE3MTUyMjIzODV8MA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
 
@@ -38,7 +38,7 @@ Establish a proactive approach to security by conducting regular audits and prom
 
 One solution's system administrator documentation lacked information on disaster recovery procedures. Prioritize the development of comprehensive documentation covering all aspects of the system, including security practices, deployment guidelines, and disaster recovery plans.
 
-You can review our [DevSecOps Checklist](development-and-secure-operations.md) for a guide on steps to consider when preparing to launch.
+You can review our [DevSecOps Checklist](development-and-secure-operations/) for a guide on steps to consider when preparing to launch.
 
 <figure><img src="https://images.unsplash.com/photo-1509475826633-fed577a2c71b?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxkb2N1bWVudGF0aW9ufGVufDB8fHx8MTcxNTIyMjQyMHww&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
 
@@ -58,7 +58,7 @@ Some solutions source code dependencies are not publicly available, hindering ma
 
 One solution lacked both manual test plans and automated testing, increasing the risk of undetected defects. Implement a comprehensive testing strategy combining manual and automated testing to ensure the system's quality and reliability.
 
-Consider using the [tools and services](../resource-links-and-tools.md) we use in the holistic audit process.
+Consider using the [tools and services](../resource-links-and-tools/) we use in the holistic audit process.
 
 <figure><img src="https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxyb2JvdHxlbnwwfHx8fDE3MTUyMjI1MjJ8MA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
 

@@ -29,7 +29,7 @@ List of all the open source and third-party components present in a codebase. An
 
 #### Digital Public Good (DPGs)
 
-Public goods in the form of software, data sets, AI models, standards or content that are generally free cultural works and contribute to sustainable national and international digital development. Several international agencies, including UNICEF and UNDP, are exploring DPGs as a possible solution to address the issue of digital inclusion, particularly for children in emerging economies.
+Public goods in the form of software, data sets, AI models, standards or content that are generally free cultural works and contribute to sustainable national and international digital development. Several international agencies, including UNICEF and UNDP, are exploring DPGs as a possible solution to address the issue of digital inclusion, particularly for children in emerging economies. Digital public goods (DPGs) work like digital treasures available for everyone to use and enjoy. Think about a big book library — except instead of books, it is packed with digital objects like software, datasets, and useful resources. These belongings are particular in that they’re priceless and available for all to utilize. Visit [https://digitalprinciples.org/](https://digitalprinciples.org/) for more information.
 
 #### Penetration Test (Pen Test)
 
