@@ -20,4 +20,7 @@ During a penetration testing engagement, the tester attempts to identify and exp
 
 Through this work, we have been introducing the idea of implementing continuous, automated pen testing and vulnerability scanning, as a way to actively ensure there is no regression or new vulnerabilities exposed, and that any required compliance is maintained.&#x20;
 
-Automated cloud testing infrastructure as provided by tools such as, [Astra](https://getastra.com) and [Intruder](https://intruder.io) can help you maintain "year-round compliance" for standards that include ISO, SOC2, GDPR, CIS, and HIPAA. It can also help you identity and address any new [Common Vulnerabilities and Exposures (CVE)](https://www.cve.org/) in "real-time" through continuous scans and regression testing.
+Automated cloud testing infrastructure can help you maintain "year-round compliance" for standards that include ISO, SOC2, GDPR, CIS, and HIPAA. It can also help you identity and address any new [Common Vulnerabilities and Exposures (CVE)](https://www.cve.org/) in "real-time" through continuous scans and regression testing.
+
+_See the_ [_Resources_ ](../../../resource-links-and-tools/)_section for more information on specific tool and service recommendations._&#x20;
+
