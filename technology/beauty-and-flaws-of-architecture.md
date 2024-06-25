@@ -8,9 +8,9 @@ By implementing the following recommendations, technical planning and engineerin
 
 ## <mark style="background-color:yellow;">**Avoid the need for extensive customization**</mark>
 
-Some solution requires significant customization to fit defined needs, introducing potential risks and complexities. Prioritize solutions that align with your specific requirements to minimize the need for extensive modifications.
+Some solutions require significant customization to fit defined needs, introducing potential risks and complexities. Prioritize solutions that align with your specific requirements to minimize the need for extensive modifications.
 
-In some case, fully custom solutions are needed, and in that case, solutions such as [Audit 2: The Open Platform](../partners/partner-audits/audit-2-the-open-platform.md) or [Audit 3: The Custom Software Development Kit](../partners/partner-audits/audit-3-the-custom-software-development-kit.md), may be required.
+In some cases, fully custom solutions are needed, and in that case, solutions such as [Assessment 2: The Open Platform](../partners/partner-assessments/assessment-2-the-open-platform.md) or [Assessment 3: The Custom Software Development Kit](../partners/partner-assessments/assessment-3-the-custom-software-development-kit.md), may be required.
 
 <figure><img src="https://images.unsplash.com/photo-1502217625004-89c03571bcca?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHx0YWlsb3J8ZW58MHx8fHwxNzE1MjIyMjMzfDA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
 
@@ -22,9 +22,9 @@ Some solutions complexity demands specialized expertise for effective management
 
 ## <mark style="background-color:yellow;">**Consider the total cost of ownership**</mark>
 
-Some solution do not have licensing fees, but may incur additional costs associated with third-party dependencies and specialized expertise. Conduct a thorough analysis to understand the complete financial implications before implementing the system.
+Some solutions do not have licensing fees, but may incur additional costs associated with third-party dependencies and specialized expertise. Conduct a thorough analysis to understand the complete financial implications before implementing the system.
 
-[Audit 1: The Turn-Key Solution](../partners/partner-audits/audit-1-the-turn-key-solution.md) and [Audit 2: The Open Platform](../partners/partner-audits/audit-2-the-open-platform.md) are two examples of no cost, or "free and open-source" solutions, that still will require investment in a team and infrastructure to tune, deploy, and manage it.
+[Assessment 1: The Turn-Key Solution](../partners/partner-assessments/assessment-1-the-turn-key-solution.md) and [Assessment 2: The Open Platform](../partners/partner-assessments/assessment-2-the-open-platform.md) are two examples of no cost, or "free and open-source" solutions, that still will require investment in a team and infrastructure to tune, deploy, and manage it.
 
 <figure><img src="https://images.unsplash.com/photo-1561414927-6d86591d0c4f?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxtb25leXxlbnwwfHx8fDE3MTUyMjIzMDF8MA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
 
@@ -58,13 +58,13 @@ Some solutions source code dependencies are not publicly available, hindering ma
 
 One solution lacked both manual test plans and automated testing, increasing the risk of undetected defects. Implement a comprehensive testing strategy combining manual and automated testing to ensure the system's quality and reliability.
 
-Consider using the [tools and services](../resource-links-and-tools/) we use in the holistic audit process.
+Consider using the [tools and services](../resource-links-and-tools/) we use in the holistic assessment process.
 
 <figure><img src="https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxyb2JvdHxlbnwwfHx8fDE3MTUyMjI1MjJ8MA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="background-color:yellow;">**Address security concerns promptly**</mark>
 
-Some audits uncovered several security risks. Prioritize addressing these risks promptly to enhance the system's security posture and protect sensitive data.
+Some assessments uncovered several security risks. Prioritize addressing these risks promptly to enhance the system's security posture and protect sensitive data.
 
 <figure><img src="https://images.unsplash.com/photo-1509099652299-30938b0aeb63?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxzcGVlZHxlbnwwfHx8fDE3MTUyMjI1NjJ8MA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
 

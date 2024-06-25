@@ -23,7 +23,7 @@ The audit should follow a methodology that includes both manual and automated te
 
 ### Tools
 
-The auditor should use a variety of tools to perform the audit, including automated scanners, integrated cloud testing tools and service (Astra, Intruder), such as Burp Suite and OWASP ZAP, as well as manual testing tools like Postman, cURL, or browser extensions.
+The auditor should use a variety of tools to perform the audit, including automated scanners, integrated cloud testing tools and services as well as manual testing tools or browser extensions. _See our_ [_Resources section_](../../resource-links-and-tools/) _for a list of recommended tools._&#x20;
 
 ### Reporting
 

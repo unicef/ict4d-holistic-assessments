@@ -3,23 +3,23 @@ description: An overview of the various pieces and sequencing
 coverY: 0
 ---
 
-# Audit Methodology
+# Assessment Methodology
 
 <figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 ## Our Methodology
 
-Holistic audits are increasingly important in today’s complex and interconnected business environments, where understanding the full picture is crucial for sustainable success. The components that make up a holistic audit should reflect the landscape of the sector (nutrition, child protection, wash, health, environmental, etc.). The goal with our work was to create a framework which was easy to replicate and scale up, while defining some practical and actionable technical pieces that will help an organization to perform this analysis in a systematic way. It is our belief that since technology is rapidly changing, it is important to perform audits regularly.
+Holistic assessments are increasingly important in today’s complex and interconnected business environments, where understanding the full picture is crucial for sustainable success. The components that make up a holistic assessment should reflect the landscape of the sector (nutrition, child protection, wash, health, environmental, etc.). The goal with our work was to create a framework which was easy to replicate and scale up, while defining some practical and actionable technical pieces that will help an organization to perform this analysis in a systematic way. It is our belief that since technology is rapidly changing, it is important to perform assessments regularly.
 
-<mark style="background-color:purple;">The evaluation was designed to provide a comprehensive review of any solution through the following components.</mark>
+<mark style="background-color:purple;">The technical quality assessment was designed to provide a comprehensive review of any solution through the following components.</mark>
 
-## Components of a Holistic Audit&#x20;
+## Components of a Holistic Assessment&#x20;
 
 This process is iterative and follows a set of tasks and engagements that include the vendor to foster transparency and accuracy of produced and shared findings. Many of these stages can happen in parallel.&#x20;
 
 ### 1. Initial Assessment of Solution, Assets, and Documentation
 
-Meet with and interview the product team, receive a typical walkthrough demonstration of the system, gather all available documentation, reports, source code, tools, and complete an overall review of the “fitness” of the solution and readiness for proceeding through the rest of the audit process.
+Meet with and interview the product team, receive a typical walkthrough demonstration of the system, gather all available documentation, reports, source code, tools, and complete an overall review of the “fitness” of the solution and readiness for proceeding through the rest of the process.
 
 ### 2. Source Code Security Audit
 
@@ -37,7 +37,7 @@ Evaluate the holistic approach in terms of cyber security, through active and pa
 
 Software development operation best practices and from the operations management from a system administration perspective, and provide guidance for keeping in production a solution in a stable, updated, and secure perspective.
 
-## Audit Timeline
+## Assessment Timeline
 
 Below is a potential step-by-step timeline that incorporates the components from above, with an estimate of days to complete, along with guidance about following up with the vendor/partner/solutions team.
 
@@ -48,30 +48,30 @@ Below is a potential step-by-step timeline that incorporates the components from
 **Step 2: Initial Assessment Results **<mark style="color:purple;">**(5 days)**</mark>&#x20;
 
 * A narrative report on background information and history, which includes a Threat & Risk Assessment portion.&#x20;
-* _Share Evaluation & Report any issues to vendor_
+* _Share Report & Communicate any issues to vendor_
 
-**Step 3: Source Code Security Audi**<mark style="background-color:yellow;">**t (15 days)**</mark>
+**Step 3: Source Code Security Audi**<mark style="background-color:yellow;">**t**</mark>** **<mark style="color:purple;">**(15 days)**</mark>
 
-* _Share Evaluation & Report any issues to vendor_
+* _Share Report & Communicate any issues to vendor_
 
 **Step 4: Application Architecture Audit **<mark style="color:purple;">**(10 days)**</mark>&#x20;
 
-* _Share Evaluation & Report any issues to vendor_&#x20;
+* _Share Report & Communicate any issues to vendor_
 
 **Step 5: Penetration Testing Audit **<mark style="color:purple;">**(10 days)**</mark>&#x20;
 
-* _Share Evaluation & Report any issues to vendor_&#x20;
+* _Share Report & Communicate any issues to vendor_
   * Schedule a call to discuss severe issues if necessary&#x20;
 
-**Step 6: DevSecOps Analysis  **<mark style="color:purple;background-color:yellow;">**(15 days)**</mark>
+**Step 6: DevSecOps Analysis **<mark style="color:purple;">**(15 days)**</mark>
 
-* _Share Evaluation & Report any issues to vendor_&#x20;
+* _Share Report & Communicate any issues to vendor_
 
 **Step 7: Report of Findings and Recommendations **<mark style="color:purple;">**(10 days)**</mark>&#x20;
 
-* _Share Evaluation & Report any issues to vendor_&#x20;
+* _Share Report & Communicate any issues to vendor_
 
 **Step 8: Review Vendor Updates**
 
-* 8 weeks after sharing of initial report the Evaluator will review any fixed issues and remaining timeline of the vendor, and share a follow-on report of statuses and final assessment.
+* 8 weeks after sharing of initial report the Assessment team will review any fixed issues and remaining timeline of the vendor, and share a follow-on report of statuses and final assessment.
 

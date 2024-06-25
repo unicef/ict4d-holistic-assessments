@@ -6,7 +6,7 @@ description: 9 considerations for a better outcome
 
 > ### <mark style="color:blue;">In order to foster holistic security, we must broaden our scope beyond system vulnerabilities and cybersecurity threats to technology. We must also acknowledge and address the threats introduced by the people and processes involved.</mark>
 
-When implementing new digitalization technologies and solutions there are a few threats that may impact successful integration and adoption. Based on stakeholder research, insights gleaned and our holistic audit approach we've identified 9 considerations.&#x20;
+When implementing new digitalization technologies and solutions there are a few threats that may impact successful integration and adoption. Based on stakeholder research, insights gleaned and our holistic assessment approach we've identified 9 considerations.&#x20;
 
 <figure><img src="../.gitbook/assets/threatstosuccess-01.jpg" alt=""><figcaption><p><a href="threats-to-success.md">Threats to Success executive summary presentation</a></p></figcaption></figure>
 

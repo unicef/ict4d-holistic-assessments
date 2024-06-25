@@ -1,6 +1,6 @@
 ---
 description: >-
-  We can't promise success, but we can share some guiding principles  that we
+  We can't promise success, but we can share some guiding principles that we
   have found to be important when choosing a partner.
 ---
 
@@ -17,7 +17,7 @@ description: >-
 * [ ] <mark style="background-color:yellow;">**Knowledge Redundancy**</mark>&#x20;
   * Having a community of contributors, decentralized learning, distributive expertise..something about what Darren says...
 * [ ] <mark style="background-color:yellow;">**Iterative Audits**</mark>
-  * Audits are like a litmus test. Quickly highlighting vulnerabilities and the health of the solution as a whole. Technology is rapidly progressing and therefore, it's necessary to regularly test the health of a system and look for exposed vulnerabilities.&#x20;
+  * Audits are like a litmus test. Quickly highlighting vulnerabilities and the health of the solution as a whole. Technology is rapidly progressing and therefore, it's necessary to regularly test the health of a system and look for exposed vulnerabilities, threats and opportunities for attacks.&#x20;
   * _Tip: Use a third-party auditor for unbiased results._&#x20;
 * [ ] <mark style="background-color:yellow;">**Holistic Security**</mark>&#x20;
   * This means thinking about both how you design a solution to reduce harm, vulnerabilities regarding the code itself and the human factor--how humans can use the solution for harm, hack it for sensitive information or engineer it to cause mass destruction.&#x20;

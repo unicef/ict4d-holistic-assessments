@@ -6,7 +6,7 @@ description: >-
 
 # DevSecOps Checklist
 
-Earlier in this guide, the process for auditing [Development, Security and Operations](../../process/audit-components-steps-and-timeline/devsecops.md) ("DevSecOps") practices was reviewed. Through the results of applying this [holistic audit process](../../process/holistic-audits-for-ict4d.md) to the [evaluations that were completed](../../partners/partner-audits/), a set of common opportunities where best practices can be improved were uncovered. Some of these may seem simple or obvious, however they were still opportunities to improve in these areas in all the evaluations that were completed.
+Earlier in this guide, the process for auditing [Development, Security and Operations](../../process/audit-components-steps-and-timeline/devsecops.md) ("DevSecOps") practices was reviewed. Through the results of applying this [holistic assessment process](../../process/holistic-audits-for-ict4d.md) to the [technical reviews that were completed](../../partners/partner-assessments/), a set of common opportunities where best practices can be improved were uncovered. Some of these may seem simple or obvious, however they were still opportunities to improve in these areas in all the assessments that were completed.
 
 * [ ] <mark style="background-color:yellow;">**Implement secure deployment practices**</mark> \
   Ensure secure deployment practices, such as using encrypted connections, restricting access to sensitive data, and implementing strong authentication mechanisms.\

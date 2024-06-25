@@ -27,7 +27,7 @@ Through the [lens of "People"](readme/who-we-aim-to-help.md) we have focused on 
 
 ### Process
 
-In the ["Process" section](process/holistic-audits-for-ict4d.md), we focus on our approach to holistically auditing ICT4D technology solutions by extrapolating our experience performing the same in the CRVS space. We aim to provide a detailed guide for anyone to perform a similar technical quality assessment in the future. We cover specific areas of concern and risk to investigate and understand, from the [source code](process/audit-components-steps-and-timeline/source-code-security.md), to the [architecture](process/audit-components-steps-and-timeline/application-architecture.md), and ultimately the [deployment](process/audit-components-steps-and-timeline/devsecops.md) into a production environment. We also consider how the project, team, and community behind any technology is created, nurtured, and supported.
+In the ["Process" section](process/holistic-audits-for-ict4d.md), we focus on our approach to holistically assessing ICT4D technology solutions by extrapolating our experience performing the same in the CRVS space. We aim to provide a detailed guide for anyone to perform a similar technical quality assessment in the future. We cover specific areas of concern and risk to investigate and understand, from the [source code](process/audit-components-steps-and-timeline/source-code-security.md), to the [architecture](process/audit-components-steps-and-timeline/application-architecture.md), and ultimately the [deployment](process/audit-components-steps-and-timeline/devsecops.md) into a production environment. We also consider how the project, team, and community behind any technology is created, nurtured, and supported.
 
 <figure><img src="https://images.unsplash.com/photo-1587440871875-191322ee64b0?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxwcm9jZXNzfGVufDB8fHx8MTcxNTU3MTUxNnww&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
 
@@ -39,7 +39,7 @@ Onto the [focus of "Technology"](technology/on-launching-technology.md), where w
 
 ### Partners
 
-Lastly, in the [area of "Partners"](partners/partner-audits/), we share our ideas about what makes a good partner when choosing a technology solution. We discuss both technical acumen, as well as the equally important questions of positive indicators around sustainability, communication, and culture. We share experiences we have had in our own work in evaluation of eCRVS solutions, and how these green or red flags can help you make decisions about which partners, vendors, solutions, and organizations you choose to become dependent upon.
+Lastly, in the [area of "Partners"](partners/partner-assessments/), we share our ideas about what makes a good partner when choosing a technology solution. We discuss both technical acumen, as well as the equally important questions of positive indicators around sustainability, communication, and culture. We share experiences we have had in our own work assessing eCRVS solutions, and how these green or red flags can help you make decisions about which partners, vendors, solutions, and organizations you choose to become dependent upon.
 
 <figure><img src="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxwYXJ0bmVyc3xlbnwwfHx8fDE3MTU2NTAwNjJ8MA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
 

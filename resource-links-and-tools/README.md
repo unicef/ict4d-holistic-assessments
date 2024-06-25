@@ -1,10 +1,14 @@
 ---
-description: The tools and service we used to complete the holistic audit process
+description: The tools and service we used to complete the holistic assessment process
 cover: ../.gitbook/assets/UNI272563-Bahaji.jpg
 coverY: 101
 ---
 
 # Resource Links & Tools
+
+## Tool List
+
+The reviewer should use a variety of tools to perform the assessment, including automated scanners, integrated cloud testing tools and services (Astra, Intruder), such as Burp Suite and OWASP ZAP, as well as manual testing tools like Postman, cURL, or browser extensions.&#x20;
 
 ### Generating Software Bill of Materials (SBOM)
 
@@ -49,14 +53,24 @@ _"Semgrep guides developers towards secure by default practices. Manage SAST, se
 
 We utilized cloud-based testing suites and services, alongside human teams, that offer a variety of capabilities and options for one-time and ongoing scanning and testing. While fully bespoke and custom security audits are always a valuable service, they come at a very high cost in both money and time. Our approach for this evaluation was to use tools and techniques that are both within the realm of the available budget, and provided a more dynamic, ongoing approach for uncovering vulnerabilities. We recommend this approach for use not only in the evaluation stage, but also as part of the ongoing monitoring of production deployments.
 
-#### [Intruder.io](https://www.intruder.io/): fast, cheap automated vulnerability scanning service, with multiple vantage points; Less feature rich, but still a good tool for initial “smoke test” results.
+## Cloud-Based Vulnerability Scanning
 
-_"Emergent Threats performs automated, nearly daily additional ongoing, focused scans based on newly identify threats and vulnerabilities added to the Astra database. Nessus Agents extend scanning to run within server-infrastructure from the “inside out” uncovering vulnerabilities and configuration issues that an attacker may take advantage of if they compromise a network."_\
+### [Intruder.io](https://intruder.io)
 
+Intruder.io: fast, cheap automated vulnerability scanning service, with multiple vantage points; Less feature rich, but still a good tool for initial “smoke test” results
 
-#### [Astra](https://www.getastra.com/): Powerful tool+service providing Automated, Vetted, and Emergent Threats vulnerability scanning
+* Emergent Threats performs automated, nearly daily additional ongoing, focused scans based on newly identify threats and vulnerabilities added to the Astra database
+* Nessus Agents extend scanning to run within server-infrastructure from the “inside out” uncovering vulnerabilities and configuration issues that an attacker may take advantage of if they compromise a network
 
-_"Automated is machine-only scripted testing of a comprehensive set of known vulnerabilities; Vetted builds on the Automated result, then adds human review and verification of identified potential vulnerabilities to add more detail, and identity and label “false positives”._\
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+### [**Astra**](https://getastra.com)
+
+Powerful tool+service providing Automated, Vetted, and Emergent Threats vulnerability scanning
+
+* Automated is machine-only scripted testing of a comprehensive set of known vulnerabilities
+* Vetted builds on the Automated result, then adds human review and verification of identified potential vulnerabilities to add more detail, and identity and label “false positives”
 
 \
+![](<../.gitbook/assets/image (1).png>)
+

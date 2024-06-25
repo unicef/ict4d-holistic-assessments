@@ -7,23 +7,23 @@ cover: ../.gitbook/assets/UNI401440-Viet-Hung.jpg
 coverY: -154
 ---
 
-# Holistic Audits Approach
+# Holistic Assessment Approach
 
-Holistic audits are comprehensive evaluations that examine an organization or system in its entirety, rather than focusing on specific components in isolation. The goal of a holistic audit is to understand the interconnections and overall functioning of all aspects of the entity being audited. This approach ensures that all relevant factors are considered, leading to more thorough and meaningful insights.
+Holistic technical assessments are comprehensive reviews that examine an organization or system in its entirety, rather than focusing on specific components in isolation. The goal of a holistic assessment is to understand the interconnections and overall functioning of all aspects of the entity being reviewed. This approach ensures that all relevant factors are considered, leading to more thorough and meaningful insights.
 
 ## <mark style="background-color:purple;">In this section you will...</mark>
 
-* Learn about our methodology for engaging in Holistic Audits
+* Learn about our methodology for engaging in Holistic Technical Assessments
 * Reflect on useful building blocks to employ
-* Take a deep dive into the Holistic Audit components, with an example timeline of steps&#x20;
+* Take a deep dive into the Holistic Assessment components, with an example timeline of steps&#x20;
 * Be provided a list of recommended skillsets or expertise we suggest using
-* Access to a Sample Evaluation Template <mark style="color:green;">(available for download)</mark>
+* Access to a Sample Quality Technical Assessment Template <mark style="color:green;">(available for download)</mark>
 
 {% embed url="https://www.youtube.com/watch?v=SfxmFsXiEEU" %}
 
 ## The Building Blocks
 
-As a foundation to this process, we begin by reflecting upon useful building blocks that should be both employed by an audit, and in the solution being audited.
+As a foundation to this process, we begin by reflecting upon useful building blocks that should be both employed by an assessment, and in the solution being assessed.
 
 ### Needs Assessment
 

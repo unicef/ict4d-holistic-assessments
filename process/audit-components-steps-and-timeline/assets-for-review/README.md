@@ -4,7 +4,7 @@ description: What you need to have in order to know!
 
 # Assets for Review
 
-In order to fully evaluate and audit a solution, you need the right set of inputs. The following is a list and description of the recommended assets to requests from any solution provider.
+In order to fully assess a solution, you need the right set of inputs. The following is a list and description of the recommended assets to requests from any solution provider.
 
 ### **Product and architecture documents, diagrams, specifications**
 
@@ -28,7 +28,7 @@ Access to all the source code for all tiers of the application, including but no
 
 ### **Access to ticketing systems, discussion boards, wikis, and other public development infrastructure**
 
-For a comprehensive understanding of the development process and ongoing maintenance of your software solution, the audit team should have access to all related development infrastructure. This includes ticketing systems, discussion boards, wikis, and any other platforms used for public development communication and documentation.&#x20;
+For a comprehensive understanding of the development process and ongoing maintenance of your software solution, the assessment team should have access to all related development infrastructure. This includes ticketing systems, discussion boards, wikis, and any other platforms used for public development communication and documentation.&#x20;
 
 <figure><img src="../../../.gitbook/assets/dhis2community.png" alt=""><figcaption><p>DHIS2 has a <a href="https://community.dhis2.org/">robust community forum</a></p></figcaption></figure>
 
@@ -44,17 +44,17 @@ Additionally, any follow-up actions taken or remediations implemented as a resul
 
 ### **Prerequisites for installation, deployment, use, access**
 
-To ensure the audit team has a smooth installation, deployment, and usage of the software solution, request detailed documentation outlining all prerequisites and necessary conditions. This documentation should include specific hardware and software requirements, such as operating systems, database systems, third-party libraries, and any necessary software dependencies. Additionally, any guides detailing the installation process, including step-by-step instructions and any scripts or automation tools used, should be provided.
+To ensure the assessment team has a smooth installation, deployment, and usage of the software solution, request detailed documentation outlining all prerequisites and necessary conditions. This documentation should include specific hardware and software requirements, such as operating systems, database systems, third-party libraries, and any necessary software dependencies. Additionally, any guides detailing the installation process, including step-by-step instructions and any scripts or automation tools used, should be provided.
 
 <figure><img src="../../../.gitbook/assets/opencrsvinstall.png" alt=""><figcaption><p>OpenCRVS provides <a href="https://documentation.opencrvs.org/setup/3.-installation/3.1-set-up-a-development-environment/3.1.1-install-the-required-dependencies">detailed information on dependencies and installation</a>.</p></figcaption></figure>
 
-For deployment, please provide configurations, environmental setup details, and best practices to ensure representational and optimal performance and security. Information on access requirements, such as necessary credentials, user role configurations, and security protocols for gaining entry to different parts of the system, should also be included. This information will enable the audit team to replicate a solution's deployment environment accurately, ensuring that the audit reflects the real-world operation and integration of the solution.
+For deployment, please provide configurations, environmental setup details, and best practices to ensure representational and optimal performance and security. Information on access requirements, such as necessary credentials, user role configurations, and security protocols for gaining entry to different parts of the system, should also be included. This information will enable the audit team to replicate a solution's deployment environment accurately, ensuring that the holistic technical assessment reflects the real-world operation and integration of the solution.
 
 ### **Operational deployment images, tools, and/or scripts for configuration management**
 
 For a thorough examination of the operational aspects of your software solution, request detailed documentation and actual deployment artifacts including operational deployment images, tools, and scripts used for configuration management. This includes any container images, virtual machine snapshots, or other deployable artifacts that represent the production or staging environments of the solution. Additionally, request access to the tools and scripts used for managing configurations, deploying updates, and maintaining the infrastructure. This should include automation scripts for provisioning, deployment scripts, configuration templates, and any relevant documentation that describes how these tools and scripts are used in the daily operations of the application.
 
-This information will enable the audit team to understand the deployment processes, configuration management practices, and operational workflows used to maintain the application. It will also them assess the efficiency, reliability, and security of the deployment and configuration management strategies employed. By replicating the operational environment, the audit can more accurately identify potential operational vulnerabilities, ensure compliance with industry standards, and suggest improvements to enhance system stability and security.
+This information will enable the assessment team to understand the deployment processes, configuration management practices, and operational workflows used to maintain the application. It will also allow them to assess the efficiency, reliability, and security of the deployment and configuration management strategies employed. By replicating the operational environment, the assessment can more accurately identify potential operational vulnerabilities, ensure compliance with industry standards, and suggest improvements to enhance system stability and security.
 
 {% file src="../../../.gitbook/assets/Requested Assets.pdf" %}
 List of assets requested from each vendor

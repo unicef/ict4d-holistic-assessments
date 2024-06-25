@@ -10,7 +10,7 @@ description: >-
 
 #### Test Environment and Deployment Setup
 
-The audit starts with a thorough review of the manual installation methods detailed in the platform's documentation. This review is necessary to understand the complexities and requirements of setting up the application from scratch. The audits reviews hardware and software recommendations, and considers what environments support the package versions required. The testing also explores alternative installation methods such as server tools with Ansible and Bash scripts, as well as containerization approaches like Docker and Kubernetes, highlighting the flexibility and various options available for different organizational needs.
+The audit starts with a thorough review of the manual installation methods detailed in the platform's documentation. This review is necessary to understand the complexities and requirements of setting up the application from scratch. The audit reviews hardware and software recommendations, and considers what environments support the package versions required. The testing also explores alternative installation methods such as server tools with Ansible and Bash scripts, as well as containerization approaches like Docker and Kubernetes, highlighting the flexibility and various options available for different organizational needs.
 
 #### Security and Configuration
 

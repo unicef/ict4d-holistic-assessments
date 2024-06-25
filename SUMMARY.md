@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Welcome](README.md)
+* [Introduction to the Project](<README (1).md>)
   * [The Team](readme/about-guardian-project.md)
   * [Who We Aim to Help](readme/who-we-aim-to-help.md)
   * [Glossary](readme/glossary.md)
@@ -16,12 +17,12 @@
 
 ## 🧗 PROCESS
 
-* [Holistic Audits Approach](process/holistic-audits-for-ict4d.md)
+* [Holistic Assessment Approach](process/holistic-audits-for-ict4d.md)
 * [Threat and Risk Assessment](process/threat-and-risk-assessment.md)
 * [Software Bill of Materials](process/software-bill-of-materials.md)
 * [An Iterative Process](process/an-iterative-process.md)
 * [Recommended Skillsets](process/recommended-skillsets.md)
-* [Audit Methodology](process/audit-components-steps-and-timeline/README.md)
+* [Assessment Methodology](process/audit-components-steps-and-timeline/README.md)
   * [Assets for Review](process/audit-components-steps-and-timeline/assets-for-review/README.md)
     * [⬇️ Request of Assets PDF](process/audit-components-steps-and-timeline/assets-for-review/request-of-assets-pdf.md)
   * [Application Architecture](process/audit-components-steps-and-timeline/application-architecture.md)
@@ -30,7 +31,7 @@
   * [Penetration Testing](process/audit-components-steps-and-timeline/penetration-testing/README.md)
     * [⬇️ Penetration Testing Slide Deck](process/audit-components-steps-and-timeline/penetration-testing/penetration-testing-slide-deck.md)
   * [Development+Security+Operations](process/audit-components-steps-and-timeline/devsecops.md)
-* [⬇️ Sample Evaluation Template](process/evaluation-template.md)
+* [⬇️ Sample Technical Assessment Template](process/evaluation-template.md)
 
 ## 🚀 TECHNOLOGY
 
@@ -45,11 +46,11 @@
 
 * [Choosing a Partner](partners/choosing-a-partner.md)
 * [Checklist for Success\*](partners/checklist-for-success.md)
-* [Partner Audits](partners/partner-audits/README.md)
-  * [Audit 1: "The Turn-Key Solution"](partners/partner-audits/audit-1-the-turn-key-solution.md)
-  * [Audit 2: "The Open Platform"](partners/partner-audits/audit-2-the-open-platform.md)
-  * [Audit 3: "The Custom Software Development Kit"](partners/partner-audits/audit-3-the-custom-software-development-kit.md)
-  * [Audit 4: "The Cloud Software-as-a-Service"](partners/partner-audits/audit-4-the-cloud-software-as-a-service.md)
+* [Partner Assessments](partners/partner-assessments/README.md)
+  * [Assessment 1: "The Turn-Key Solution"](partners/partner-assessments/assessment-1-the-turn-key-solution.md)
+  * [Assessment 2: "The Open Platform"](partners/partner-assessments/assessment-2-the-open-platform.md)
+  * [Assessment 3: "The Custom Software Development Kit"](partners/partner-assessments/assessment-3-the-custom-software-development-kit.md)
+  * [Assessment 4: "The Cloud Software-as-a-Service"](partners/partner-assessments/assessment-4-the-cloud-software-as-a-service.md)
 * [Managing Risk at Scale](partners/understanding-identity-and-privacy.md)
 
 ***

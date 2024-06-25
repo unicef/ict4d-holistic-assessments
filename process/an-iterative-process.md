@@ -16,30 +16,30 @@ It also allows the team to gather feedback from stakeholders and users throughou
 
 ### How We Engage&#x20;
 
-Our process adheres to a series of tasks and engagements outlined in the [Audit Methodology ](audit-components-steps-and-timeline/)section, involving the vendor or technology solution team. This approach fosters transparency and ensures the accuracy of the findings we produce and share.
+Our process adheres to a series of tasks and engagements outlined in the [Assessment Methodology ](audit-components-steps-and-timeline/)section, involving the vendor or technology solution team. This approach fosters transparency and ensures the accuracy of the findings we produce and share.
 
-Furthermore, is important to engage with vendors frequently regarding any discovered vulnerabilities or bugs. After each step in the process we share an evaluation update with the vendor and the commissioning team (f.i. it was UNICEF in our case) and allow feedback so the process can be iterative and accurately reflect a relevant and up-to-date solution.&#x20;
+Furthermore, is important to engage with vendors frequently regarding any discovered vulnerabilities or bugs. After each step in the process we share an update with the vendor and the commissioning team (f.i. it was UNICEF in our case) and allow feedback so the process can be iterative and accurately reflect a relevant and up-to-date solution.&#x20;
 
 We begin with introductions and laying a foundation of communication and trust, which we hope continues throughout the lifecycle of our engagement.&#x20;
 
-### <mark style="background-color:yellow;">**Below are a few examples of how our iterative process involves the vendor or technology solution team in the audit process:**</mark> &#x20;
+### <mark style="background-color:yellow;">**Below are a few examples of how our iterative process involves the vendor or technology solution team in the assessment process:**</mark> &#x20;
 
-* Initial introduction between auditors, solution team, and other stakeholders.
+* Initial introduction between assessment team, solution team, and other stakeholders.
 * Onboarding call with the vendor and typical guided walk-thru or demo of the solution.
 * Create an established communications channel and share an asset request list with the vendor.
   * _Tip: It is helpful to choose a communication channel that already exists in the vendor workflow to ease any burden of communication._
 * &#x20;Create a file sharing service folder for ease of document uploading and sharing of Assets and any additional resources the vendor deem useful to successfully complete the process (case studies, security audits, SBOM, independent reports, etc.).
 * Maintain transparent through the process and communicate regularly.&#x20;
-* Once audits are complete, we value a video call with the vendor or technology solution team to review comments and findings in real-time. Time is then spent incorporating comments and updating our final report.
-  * _Tip: This step should happen before sharing the full audit with other stakeholders._&#x20;
+* Once technical quality assessments are complete, we value a video call with the vendor or technology solution team to review comments and findings in real-time. Time is then spent incorporating comments and updating our final report.
+  * _Tip: This step should happen before sharing the full assessment with other stakeholders._&#x20;
 
 **For high or severe level vulnerabilities, the disclosure approach includes:**&#x20;
 
 * Ethically disclose vulnerabilities or bugs to vendors.
-  * After each Step (Assessment/Audit), disclose any vulnerabilities or bugs found to the vendor through an agreed upon communication channel.
-* Handle all sensitive communications through a secure, confidential manner agreed upon by the vendor and auditor.
+  * After each _Step_ in the assessment, disclose any vulnerabilities or bugs found to the vendor through an agreed upon communication channel.
+* Handle all sensitive communications through a secure, confidential manner agreed upon by the vendor and assessment team.
 * Negotiate with vendors regarding the complexity of a fix and timeline.
-* Based on the complexity, determine how and when to update the evaluation report accordingly (ie- a vulnerability is disclosed, but not fixed, a fix is in process, a resulting evaluation of a fix).
+* Based on the complexity, determine how and when to update the assessment report accordingly (ie- a vulnerability is disclosed, but not fixed, a fix is in process, a resulting evaluation of a fix).
 
 \
 
