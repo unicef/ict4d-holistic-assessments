@@ -1,7 +1,7 @@
 ---
 description: >-
-  Crucial components of the human infrastructure that extend beyond the
-  technical system
+  Design research and close collaboration with communities are crucial for any
+  technology to be successful
 ---
 
 # Beyond Technology
