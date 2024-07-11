@@ -10,7 +10,7 @@ By implementing the following recommendations, technical planning and engineerin
 
 Some solutions require significant customization to fit defined needs, introducing potential risks and complexities. Prioritize solutions that align with your specific requirements to minimize the need for extensive modifications.
 
-In some cases, fully custom solutions are needed, and in that case, solutions such as [Assessment 2: The Open Platform](../partners/partner-assessments/assessment-2-the-open-platform.md) or [Assessment 3: The Custom Software Development Kit](../partners/partner-assessments/assessment-3-the-custom-software-development-kit.md), may be required.
+In some cases, fully custom solutions are needed, and in that case, solutions such as [Assessment 2: The Open Platform](../partners/partner-assessments/the-open-platform.md) or [Assessment 3: The Custom Software Development Kit](../partners/partner-assessments/the-custom-software-development-kit.md), may be required.
 
 <figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
@@ -28,7 +28,7 @@ Some solutions complexity demands specialized expertise for effective management
 
 Some solutions do not have licensing fees, but may incur additional costs associated with third-party dependencies and specialized expertise. Conduct a thorough analysis to understand the complete financial implications before implementing the system.
 
-[Assessment 1: The Turn-Key Solution](../partners/partner-assessments/assessment-1-the-turn-key-solution.md) and [Assessment 2: The Open Platform](../partners/partner-assessments/assessment-2-the-open-platform.md) are two examples of no cost, or "free and open-source" solutions, that still will require investment in a team and infrastructure to tune, deploy, and manage it.
+[Assessment 1: The Turn-Key Solution](../partners/partner-assessments/the-turn-key-solution.md) and [Assessment 2: The Open Platform](../partners/partner-assessments/the-open-platform.md) are two examples of no cost, or "free and open-source" solutions, that still will require investment in a team and infrastructure to tune, deploy, and manage it.
 
 <figure><img src="../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 

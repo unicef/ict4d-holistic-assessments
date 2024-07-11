@@ -19,8 +19,6 @@ Holistic technical assessments are comprehensive reviews that examine an organiz
 * Be provided a list of recommended skillsets or expertise we suggest using
 * Access to a Sample Quality Technical Assessment Template <mark style="color:green;">(available for download)</mark>
 
-{% embed url="https://www.youtube.com/watch?v=SfxmFsXiEEU" %}
-
 ## The Building Blocks
 
 As a foundation to this process, we begin by reflecting upon useful building blocks that should be both employed by an assessment, and in the solution being assessed.

@@ -2,9 +2,9 @@
 description: Threats and Risk exist; What matters is how you are prepared to respond!
 ---
 
-# Threat and Risk Assessment
+# Threat Modeling and Mitigations
 
-As discussed in the [introduction to this section](holistic-audits-for-ict4d.md), threat assessment and modeling is a process of identifying, analyzing, and prioritizing the potential security threats and vulnerabilities in a software system. In response to those threats, risk mitigation offers a process of designing, implementing, and otherwise taking steps to reduce or eliminate identified risks (threats and vulnerabilities!) in a software development project or technology solution.
+As discussed in the [introduction to this section](holistic-audits-for-ict4d.md), threat modeling is a process of identifying, analyzing, and prioritizing the potential security threats and vulnerabilities in a software system. In response to those threats, risk mitigation offers a process of designing, implementing, and otherwise taking steps to reduce or eliminate identified risks (threats and vulnerabilities!) in a software development project or technology solution.
 
 #### A Wide Variety of Approaches
 
@@ -14,9 +14,9 @@ While we took a specific approach to this work in our technical assessments, the
 * ["Microsoft Threat Modeling Tool Threats"](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats)
 * [OWASP Community - Threat Modeling](https://owasp.org/www-community/Threat\_Modeling)
 
-#### Sample Threat Assessment
+#### Sample Threat Model
 
-Below is an example of a Threat Assessment performed on a [recently reviewed solution](../partners/partner-assessments/). The Threat, Likelihood, Impact, and Severity columns listed below are in reference to the world, and specific places where CRVS solutions are implemented, and not specific to the vendor, platform, or solution itself. In addition, this is a general assessment, to give the reader an idea of what kind of mitigations could be put in place for a solution.
+Below is an example of a threat modeling process performed on a [recently reviewed solution](../partners/partner-assessments/). The Threat, Likelihood, Impact, and Severity columns listed below are in reference to the world, and specific places where solutions are implemented, and not specific to the vendor, platform, or solution itself. This gives the reader an idea of what kind of mitigations could be put in place for a solution.
 
 Likelihoods range from <mark style="color:blue;">Unlikely</mark> to <mark style="color:red;">Likely</mark>, while Severity can be <mark style="color:blue;">Low</mark> to <mark style="color:red;">Critical</mark>.\
 

@@ -1,10 +1,10 @@
----
-description: A short synopsis and key findings from partner holistic assessment 2
----
+# "The Open Platform"
 
-# Assessment 2: "The Open Platform"
+_This solution is an "open platform" in that it provides a foundation for almost any kind of health and data application to be built upon. The work to be done is NOT ONLY configuration and deployment, but also customization and software development. However, there is also an ecosystem of third-party solutions and vendors that can be utilized to build a complete solution._
 
-We found the second solution to be stable and ready for implementation. It is a free, open-source software platform designed for reporting, collecting, analyzing, and disseminating individual-level and aggregated data. Although not specifically designed for CRVS, it can integrate with CRVS systems or be extended to include CRVS-related features. Implementing interoperability can be costly in terms of both initial integration and long-term operation and maintenance. We also assessed the additional costs associated with combining this software with a CRVS system.
+<mark style="background-color:purple;">🕵️T</mark><mark style="background-color:purple;">**he Assessment Outcome**</mark>
+
+We found this solution to be stable and ready for implementation. It is a free, open-source software platform designed for reporting, collecting, analyzing, and disseminating individual-level and aggregated data. Although not specifically designed for the specific area of function we were assessing (Civil Registration and Vital Statistics or [CRVS](../../readme/glossary.md)), it can integrate with many systems or be extended to include custom features and applications. Implementing interoperability can be costly in terms of both initial integration and long-term operation and maintenance. We also assessed the additional costs associated with combining this software with an external system.
 
 The software, provided as a global public good to support sustainable development goals, includes a suite of visualization and analysis tools, making it effective for linking data for reporting and tracking purposes. It can be hosted locally on various devices or in the cloud and is most commonly used for health data. It integrates with various other software and tools through its Application Programming Interface (API) and is deployed in 75 low- and middle-income countries, with over 100 NGOs having implemented it.&#x20;
 
@@ -14,7 +14,7 @@ Our assessment involved reviewing publicly available documentation, attending vi
 
 <mark style="background-color:orange;">**🔍 Discovered during the Assessment:**</mark>
 
-The solution is highly adaptable, and capable of being customized to suit a variety of use cases. Its extensive configurability and the developers' efforts in adding multiple extension points for new functionalities suggest it could be effectively transformed into a robust Civil Registration and Vital Statistics (CRVS) system. However, this specific functionality is not currently available and would need to be developed before the system could be adopted for CRVS purposes. Our assessment uncovered a number of security enhancements which would be strongly recommended if adopted.
+The solution is highly adaptable, and capable of being customized to suit a variety of use cases. Its extensive configurability and the developers' efforts in adding multiple extension points for new functionalities suggest it could be effectively transformed into a robust CRVS system. However, this specific functionality is not currently available and would need to be developed before the system could be adopted for CRVS purposes. Our assessment uncovered a number of security enhancements which would be strongly recommended if adopted.
 
 <mark style="background-color:yellow;">**🖍 Recommendations & Actions:**</mark>&#x20;
 

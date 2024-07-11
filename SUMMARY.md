@@ -18,7 +18,7 @@
 ## 🧗 PROCESS
 
 * [Holistic Assessment Approach](process/holistic-audits-for-ict4d.md)
-* [Threat and Risk Assessment](process/threat-and-risk-assessment.md)
+* [Threat Modeling and Mitigations](process/threat-and-risk-assessment.md)
 * [Software Bill of Materials](process/software-bill-of-materials.md)
 * [An Iterative Process](process/an-iterative-process.md)
 * [Recommended Skillsets](process/recommended-skillsets.md)
@@ -47,10 +47,10 @@
 * [Choosing a Partner](partners/choosing-a-partner.md)
 * [Checklist for Success\*](partners/checklist-for-success.md)
 * [Partner Assessments](partners/partner-assessments/README.md)
-  * [Assessment 1: "The Turn-Key Solution"](partners/partner-assessments/assessment-1-the-turn-key-solution.md)
-  * [Assessment 2: "The Open Platform"](partners/partner-assessments/assessment-2-the-open-platform.md)
-  * [Assessment 3: "The Custom Software Development Kit"](partners/partner-assessments/assessment-3-the-custom-software-development-kit.md)
-  * [Assessment 4: "The Cloud Software-as-a-Service"](partners/partner-assessments/assessment-4-the-cloud-software-as-a-service.md)
+  * ["The Turn-Key Solution"](partners/partner-assessments/the-turn-key-solution.md)
+  * ["The Open Platform"](partners/partner-assessments/the-open-platform.md)
+  * ["The Custom Software Development Kit"](partners/partner-assessments/the-custom-software-development-kit.md)
+  * ["The Cloud Software-as-a-Service"](partners/partner-assessments/the-cloud-software-as-a-service.md)
 * [Managing Risk at Scale](partners/understanding-identity-and-privacy.md)
 
 ***

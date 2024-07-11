@@ -14,9 +14,7 @@ The success of a system or program is not only dependent on the technology itsel
 
 ## The Nine Threats to Success of Digital Transformation&#x20;
 
-<mark style="background-color:purple;">View the full visual presentation highlighting threats to success through the video and following slides.</mark>
-
-{% embed url="https://youtu.be/BewPyADnpMs" %}
+<mark style="background-color:purple;">View the full visual presentation highlighting threats to success through the following slides:</mark>
 
 {% file src="../.gitbook/assets/Exec Sum_ Threats to Success [April 2024].pdf" %}
 

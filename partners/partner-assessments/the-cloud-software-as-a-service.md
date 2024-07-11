@@ -1,8 +1,8 @@
----
-description: A short synopsis and key findings from partner holistic assessment 4
----
+# "The Cloud Software-as-a-Service"
 
-# Assessment 4: "The Cloud Software-as-a-Service"
+_This solution is a "cloud software-as-a-service (SaaS)" in that is accessed, configured, and otherwise experienced as service running in a cloud environment, managed by the vendor themselves. The vendor handles not only any custom software development, customization, and integration, but also deployment and ongoing management in their cloud environment. This is the most hands-off solution, that can be appropriate for organizations without technical capacity, experiences, or resources._
+
+<mark style="background-color:purple;">🕵️T</mark><mark style="background-color:purple;">**he Assessment Outcome**</mark>
 
 The solution was found to be stable, well-implemented, and viable solution that could be customized and designed for specific needs and solutions. In this case, the assessment focused on a bespoke forms data solution, built on reusable components and code from the service provider.
 

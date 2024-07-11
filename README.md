@@ -7,12 +7,6 @@ coverY: 40
 
 Welcome to the Holistic Assessments for ICT4D documentation site. This collection of documents represents a set of perspectives, experiences, and guidelines on engaging with technology within the [Information and Communications Technology for Development (ICT4D)](https://www.unicef.org/topics/information-and-communication-technology) space. In particular, the work focuses on the benefits and impacts of adopting free and open-source software that is secure and privacy-focused.&#x20;
 
-
-
-{% embed url="https://youtu.be/MBhL1YsrZfQ" %}
-Welcome video from Nathan Frietas, Guardian Project Founder
-{% endembed %}
-
 ## <mark style="background-color:purple;">Who is this work relevant for? EVERYONE!</mark>
 
 ### Something For You

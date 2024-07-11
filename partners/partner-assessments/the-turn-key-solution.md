@@ -1,10 +1,10 @@
----
-description: A short synopsis and key findings from partner holistic assessment 1
----
+# "The Turn-Key Solution"
 
-# Assessment 1: "The Turn-Key Solution"
+_This solution is "turn key" in that it provides an out of the box, off-the-shelf ready for production set of features and capabilities. The work to be done is in configuration and deployment, and not in customization or software development._
 
-We found the first solution we assessed to be stable and ready for implementation. It has excellent documentation for implementers, is interoperable with many e-government solutions, and focuses on real-world workflows with a supportive team. The reliance on third-party dependencies is commonplace, and the choice of microservices makes for a flexible and extensible solution. While there are areas for improvement outlined in the document, they do not detract from the overall positive assessment.&#x20;
+<mark style="background-color:purple;">🕵️T</mark><mark style="background-color:purple;">**he Assessment Outcome**</mark>
+
+We found this solution to be stable and ready for implementation. It has excellent documentation for implementers, is interoperable with many e-government solutions, and focuses on real-world workflows with a supportive team. The reliance on third-party dependencies is commonplace, and the choice of microservices makes for a flexible and extensible solution. While there are areas for improvement outlined in the document, they do not detract from the overall positive assessment.&#x20;
 
 As a relatively new entrant to the market, the product may not be as flexible or feature-rich as other solutions but benefits from a focused functionality, modern architecture, and well-run public open-source project. The concept of a single unified upstream codebase that can be improved and updated, then pushed out to downstream instances, is particularly attractive and beneficial for global deployment and maintenance.
 

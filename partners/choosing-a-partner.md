@@ -12,6 +12,6 @@ Partners come in various forms and sizes. They range from open-source, off-the-s
 
 ## <mark style="background-color:purple;">In this section you will...</mark>
 
-* Learn about[ 4 holistic assessments ](partner-assessments/)we completed using the [Holistic Technical Assessment Template](../process/evaluation-template.md) and what we learned by doing them
+* Learn about[ 4 partner assessments ](partner-assessments/)we completed using the [Holistic Technical Assessment Template](../process/evaluation-template.md) and what we learned by doing them
 * Specifics about what to consider when choosing a partner
 * A [checklist for success](checklist-for-success.md)\* _(ok, some helpful guidelines_😁_)_
