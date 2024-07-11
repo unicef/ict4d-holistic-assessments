@@ -5,7 +5,7 @@ coverY: 0
 
 # Assessment Methodology
 
-<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Our Methodology
 
