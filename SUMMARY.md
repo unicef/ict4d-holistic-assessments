@@ -31,7 +31,7 @@
     * [⬇️ Penetration Testing Slide Deck](process/audit-components-steps-and-timeline/penetration-testing/penetration-testing-slide-deck.md)
   * [Development+Security+Operations](process/audit-components-steps-and-timeline/devsecops.md)
 * [⬇️ Sample Technical Assessment Template](process/evaluation-template.md)
-* [DevSecOps Checklist](process/development-and-secure-operations/README.md)
+* [DevSecOps Checklist](technology/development-and-secure-operations/README.md)
   * [⬇️ DevSecOps Checklist Slide Deck](process/development-and-secure-operations/devsecops-checklist-slide-deck.md)
 
 ## 🚀 TECHNOLOGY

@@ -4,6 +4,10 @@ description: A set of recommended knowledge areas for web-based technology asses
 
 # Recommended Skillsets
 
+{% hint style="success" %}
+Most relevant for 🔥 [Advisors](../get-started.md#advising)&#x20;
+{% endhint %}
+
 When performing a holistic assessment of a web-based technology product or platform, knowledge of the following areas are useful:
 
 * **Development best practices:** version control, testing, structuring code for maintainability, dependency management and updates

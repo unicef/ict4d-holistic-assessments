@@ -4,6 +4,10 @@ description: How and where your infrastructure and devices are hosted and operat
 
 # Physical Realities
 
+{% hint style="success" %}
+Most relevant for 🔍 [Technical Evaluators](../get-started.md#evaluating)
+{% endhint %}
+
 While many technology startups and services can fully embrace the opaque virtualization of modern cloud service infrastructure, when it comes to personal, private, and health data, and other ICT4D applications, you need to be more careful. Fully considering how and where your infrastructure is hosted, and where physical devices like laptops, tablets, and smartphones will be used is an absolute requirement when launching new technology.
 
 

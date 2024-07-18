@@ -4,6 +4,10 @@ description: Refining and improving in a collaborative way
 
 # An Iterative Process
 
+{% hint style="success" %}
+Most relevant for 🔥 [Advisors](../get-started.md#advising) and 🔍 [Technical Evaluators](../get-started.md#evaluating)
+{% endhint %}
+
 An iterative process is a way of working through a project by repeatedly refining and improving upon it through a series of cycles or iterations. In software development, this process is often used as a way to manage the complexity of creating large, complex software systems. Using an iterative process allows the team to focus on small, manageable chunks of work at a time, which helps to reduce the risk of errors and makes it easier to manage the complexity of the project.
 
 It also allows the team to gather feedback from stakeholders and users throughout the process, which can be used to refine and improve the project as it progresses.&#x20;

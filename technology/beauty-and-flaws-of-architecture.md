@@ -4,6 +4,10 @@ description: Project and engineering management best practices to review and con
 
 # Management Strategies
 
+{% hint style="success" %}
+Most relevant for 🔥 [Advisors](../get-started.md#advising)
+{% endhint %}
+
 By implementing the following recommendations, technical planning and engineering management processes can benefit from the strengths and avoid the pitfalls identified in the architecture audits we completed. This approach leads to more secure, reliable, and sustainable systems.
 
 ## <mark style="background-color:yellow;">**Avoid the need for extensive customization**</mark>
@@ -44,7 +48,7 @@ Establish a proactive approach to security by conducting regular audits and prom
 
 ## <mark style="background-color:yellow;">**Invest in comprehensive documentation**</mark>
 
-One solution's system administrator documentation lacked information on disaster recovery procedures. Prioritize the development of comprehensive documentation covering all aspects of the system, including security practices, deployment guidelines, and disaster recovery plans. You can review our [DevSecOps Checklist](../process/development-and-secure-operations/) for a guide on steps to consider when preparing to launch.
+One solution's system administrator documentation lacked information on disaster recovery procedures. Prioritize the development of comprehensive documentation covering all aspects of the system, including security practices, deployment guidelines, and disaster recovery plans. You can review our [DevSecOps Checklist](development-and-secure-operations/) for a guide on steps to consider when preparing to launch.
 
 <figure><img src="../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 

@@ -1,6 +1,10 @@
 # "The Open Platform"
 
+<figure><img src="../../.gitbook/assets/tech-2 open.png" alt=""><figcaption></figcaption></figure>
+
 _This solution is an "open platform" in that it provides a foundation for almost any kind of health and data application to be built upon. The work to be done is NOT ONLY configuration and deployment, but also customization and software development. However, there is also an ecosystem of third-party solutions and vendors that can be utilized to build a complete solution._
+
+
 
 <mark style="background-color:purple;">🕵️T</mark><mark style="background-color:purple;">**he Assessment Outcome**</mark>
 

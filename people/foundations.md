@@ -4,6 +4,10 @@ description: Who may be involved in decisions and/or operations around a holisti
 
 # Foundations
 
+{% hint style="success" %}
+Most relevant for 💭 [Visionaries](../get-started.md#visioning), 🔥 [Advisors](../get-started.md#advising) and 🔍 [Technical Evaluators](../get-started.md#evaluating)
+{% endhint %}
+
 Let's first start with a foundational understanding of who may be involved in Digital Transformation projects, as partnerships with governments, civil society groups, academia, non-governmental organizations, private sector entities, and communities remain central to UNICEF’s approach. In our research, we found that there are several different stakeholders involved in Digital Transformation processes, and that they may be unique for each engagement. We categorize stakeholders into five roles:
 
 * Government
@@ -32,7 +36,7 @@ Typical way UNICEF advises:
 
 > “I was there to interface between the government and also the vendor. Then sometimes we will bring our regional colleagues, and we have a discussion about all of the system requirements.” — Country Programme Participant
 
-Other Advisors may also be involved.
+Other Advisors may also be involved. Outside of UNICEF, other civil organizations and sponsors provide guidance and funding. They include, but are not limited to World Bank, Plan International, Vital Strategies, and UN ESCAP (Economic and Social Commission for Asia and the Pacific).
 
 <figure><img src="../.gitbook/assets/ad unicef.png" alt=""><figcaption></figcaption></figure>
 

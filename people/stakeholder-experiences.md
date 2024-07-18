@@ -4,6 +4,10 @@ description: A look at stakeholder experiences in eCRVS projects
 
 # Stakeholder Experiences
 
+{% hint style="success" %}
+Most relevant for 💭 [Visionaries](../get-started.md#visioning) and 🔥 [Advisors](../get-started.md#advising)&#x20;
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/Screenshot 2024-06-05 at 8.06.14 AM.png" alt="" width="563"><figcaption><p>Research Report Cover Page</p></figcaption></figure>
 
 In recent years, the Digital Transformation of [Civil Registration and Vital Statistics (CRVS)](https://www.who.int/data/data-collection-tools/civil-registration-and-vital-statistics-\(crvs\)) has emerged as a critical agenda item for [UNICEF](https://data.unicef.org/crvs/) and its partners worldwide. Where manual systems can be inaccurate and difficult to access, digital systems present the opportunity to streamline the process and improve data integrity and security. With [Digital Transformation](https://www.unicef.org/eap/what-we-do/digital-transformation) as a priority, UNICEF has the opportunity to accelerate its mission to protect the wellbeing and rights of children worldwide.

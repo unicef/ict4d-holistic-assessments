@@ -22,6 +22,10 @@ layout:
 
 # Introduction to the Project
 
+## "_<mark style="color:blue;">To have fully configurable, standards-based, inter-operable and widely supported digital CRVS public goods to assure long-term cost savings for governments, partners, and UNICEF- supported digital CRVS deployments."</mark>_
+
+## _<mark style="color:blue;">"To have fully configurable, standards-based, inter-operable and widely supported digital CRVS public goods to assure long-term cost savings for governments, partners, and UNICEF- supported digital CRVS deployments."</mark>_
+
 ## <mark style="color:purple;">In 2021, approximately 987 million people worldwide lacked official proof of identity, and as many as 1 in 4 children under the age of 5 were not registered at birth. The absence of identification documents systematically excludes these individuals from accessing their fundamental rights and fulfilling their obligations within their countries.</mark>
 
 Although this project doesn't change the statistic, it focuses on the mindset and holistic approach for assessments which are necessary when considering a new partner for a digital transformation initiative under UNICEF.  Our role as independent vendors, was to develop a holistic approach to assessments which can be utilized, replicated and iterated upon by other sectors engaging in a digital transformation initiative.

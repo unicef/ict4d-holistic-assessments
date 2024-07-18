@@ -1,6 +1,10 @@
 # "The Turn-Key Solution"
 
+<figure><img src="../../.gitbook/assets/tech-1 turnkey.png" alt=""><figcaption></figcaption></figure>
+
 _This solution is "turn key" in that it provides an out of the box, off-the-shelf ready for production set of features and capabilities. The work to be done is in configuration and deployment, and not in customization or software development._
+
+
 
 <mark style="background-color:purple;">🕵️T</mark><mark style="background-color:purple;">**he Assessment Outcome**</mark>
 

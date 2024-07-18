@@ -4,6 +4,10 @@ description: Risky and vulnerability-prone areas of concern for software source 
 
 # Source Code Conundrums
 
+{% hint style="success" %}
+Most relevant for 🔍 [Technical Evaluators](../get-started.md#evaluating)
+{% endhint %}
+
 The insights below on how best to protect and secure data, inputs, and actions through source code development best practices, were aggregated from the results of the [4 holistic assessments on partner solutions](../partners/partner-assessments/) performed as part of this process.
 
 ## _<mark style="background-color:yellow;">Without proper access controls or vetting mechanisms, malicious code could be introduced into the software through compromised or unsafe dependencies.</mark>_&#x20;
