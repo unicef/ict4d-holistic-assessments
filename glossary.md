@@ -15,10 +15,6 @@ A strategic process in which nations adopt and integrate digital technologies to
 
 Individuals and entities invested in the decisions, activities and outcomes of a Digital Transformation initiative.
 
-#### Digital Public Goods (DPGs)&#x20;
-
-Software, AI models, data sets, content and standards designed to service public interest. DPGs are often characterized by their accessibility and affordability.
-
 **Civil Registration and Vital Statistics (CRVS)**
 
 A well-functioning civil registration and vital statistics (CRVS) system registers all births and deaths, issues birth and death certificates, and compiles and disseminates vital statistics, including cause of death information. It may also record marriages and divorces.
@@ -29,7 +25,7 @@ List of all the open source and third-party components present in a codebase. An
 
 #### Digital Public Good (DPGs)
 
-Public goods in the form of software, data sets, AI models, standards or content that are generally free cultural works and contribute to sustainable national and international digital development. Several international agencies, including UNICEF and UNDP, are exploring DPGs as a possible solution to address the issue of digital inclusion, particularly for children in emerging economies. Digital public goods (DPGs) work like digital treasures available for everyone to use and enjoy. Think about a big book library — except instead of books, it is packed with digital objects like software, datasets, and useful resources. These belongings are particular in that they’re priceless and available for all to utilize. Visit [https://digitalprinciples.org/](https://digitalprinciples.org/) for more information.
+Public goods in the form of software, data sets, AI models, standards or content that are generally free cultural works and contribute to sustainable national and international digital development designed to service public interest. DPGs are often characterized by their accessibility and affordability. Digital public goods work like digital treasures available for everyone to use and enjoy. Think about a big book library — except instead of books, it is packed with digital objects like software, datasets, and useful resources. These belongings are particular in that they’re priceless and available for all to utilize. Several international agencies, including UNICEF and UNDP, are exploring DPGs as a possible solution to address the issue of digital inclusion, particularly for children in emerging economies. Visit [https://digitalprinciples.org/](https://digitalprinciples.org/) for more information.&#x20;
 
 #### Penetration Test (Pen Test)
 

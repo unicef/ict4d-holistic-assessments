@@ -4,7 +4,6 @@
 * [Introduction to the Project](<README (1).md>)
   * [The Team](readme/about-guardian-project.md)
   * [Who We Aim to Help](readme/who-we-aim-to-help.md)
-  * [Glossary](readme/glossary.md)
 * [Get Started](get-started.md)
 * [Four Lenses ](perspectives-in-four-ways.md)
 
@@ -32,15 +31,15 @@
     * [⬇️ Penetration Testing Slide Deck](process/audit-components-steps-and-timeline/penetration-testing/penetration-testing-slide-deck.md)
   * [Development+Security+Operations](process/audit-components-steps-and-timeline/devsecops.md)
 * [⬇️ Sample Technical Assessment Template](process/evaluation-template.md)
+* [DevSecOps Checklist](process/development-and-secure-operations/README.md)
+  * [⬇️ DevSecOps Checklist Slide Deck](process/development-and-secure-operations/devsecops-checklist-slide-deck.md)
 
 ## 🚀 TECHNOLOGY
 
-* [Launching New Technology](technology/on-launching-technology.md)
+* [Our Technical Findings](technology/on-launching-technology.md)
 * [Management Strategies](technology/beauty-and-flaws-of-architecture.md)
 * [Source Code Conundrums](technology/source-code-issues-to-avoid.md)
 * [Physical Realities](technology/physical-realities.md)
-* [DevSecOps Checklist](technology/development-and-secure-operations/README.md)
-  * [⬇️ DevSecOps Checklist Slide Deck](technology/development-and-secure-operations/devsecops-checklist-slide-deck.md)
 
 ## 🏫 PARTNERS
 
@@ -57,3 +56,4 @@
 
 * [Resource Links & Tools](resource-links-and-tools/README.md)
   * [Additional Resources](resource-links-and-tools/additional-resources.md)
+* [Glossary](glossary.md)

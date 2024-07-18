@@ -36,7 +36,7 @@ We begin with introductions and laying a foundation of communication and trust, 
 **For high or severe level vulnerabilities, the disclosure approach includes:**&#x20;
 
 * Ethically disclose vulnerabilities or bugs to vendors.
-  * After each _Step_ in the assessment, disclose any vulnerabilities or bugs found to the vendor through an agreed upon communication channel.
+  * After each [_step you complete in the assessment_](../partners/partner-assessments/)[,](holistic-audits-for-ict4d.md) disclose any vulnerabilities or bugs found to the vendor through an agreed upon communication channel.
 * Handle all sensitive communications through a secure, confidential manner agreed upon by the vendor and assessment team.
 * Negotiate with vendors regarding the complexity of a fix and timeline.
 * Based on the complexity, determine how and when to update the assessment report accordingly (ie- a vulnerability is disclosed, but not fixed, a fix is in process, a resulting evaluation of a fix).

@@ -5,7 +5,7 @@ description: >-
   product lifecycle
 ---
 
-# Launching New Technology
+# Our Technical Findings
 
 Technical assessments were conducted on four software projects that provide solutions in the realm of ICT4D. These projects were reviewed to assess their fitness for purpose, readiness for enhancement, maintainability, performance, and security.
 
@@ -13,5 +13,5 @@ The technical assessments involved a comprehensive review of the projects' docum
 
 Based on the findings, several recommendations were made to improve the security and reliability of the projects. These recommendations included implementing secure deployment practices, prioritizing traffic protection, developing comprehensive test plans, eliminating hard-coded credentials, and protecting against supply chain attacks. Additionally, recommendations were made to address specific vulnerabilities identified during the assessments, such as improving exception logging and prioritizing input sanitization.
 
-## <mark style="background-color:yellow;">In the following sections, we will provide generalized versions of the recommendations made to these projects, that we feel are widely applicable to any ICT4D implementation.</mark>
+## <mark style="background-color:yellow;">In the following sections, we will provide generalized versions of the recommendations made to these projects, that we feel are widely applicable when launching any ICT4D implementation.</mark>
 

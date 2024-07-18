@@ -38,7 +38,7 @@ Threats and cybersecurity are always evolving. A holistic, iterative approach to
 If you are starting a new project...
 
 * 👉 There are a variety of ways you can work! Consider evaluating the type of implementation partners you can work with. The [**Partner Assessments**](partners/partner-assessments/) section features four different types of partners: the [Turn-Key Solution](partners/partner-assessments/the-turn-key-solution.md), the [Open Platform](partners/partner-assessments/the-open-platform.md), the [Custom Software Development Kit](partners/partner-assessments/the-custom-software-development-kit.md) and the [Cloud Software-as-a-Service](partners/partner-assessments/the-cloud-software-as-a-service.md). Go to the **Partner Section** to learn about how different partners take different approaches to the same need.&#x20;
-* 👉 Learn more about how you can get ahead of the game by partnering with solutions that have been assesses or are already participating in iterative assessment cycles.
+* 👉 Learn more about how you can get ahead of the game by partnering with solutions that have been assessed or are already participating in iterative assessment cycles.
 
 \
 

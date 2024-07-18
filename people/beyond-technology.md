@@ -22,7 +22,7 @@ Technology serves an enabler, yet its effectiveness hinges on the presence of an
 
 Stakeholders must grasp the intricacies of citizens and the workforce, along with the environments in which they operate. When designing service delivery models, training and change management, stakeholders need to understand health workers, community leaders and others that could be working in the field as registrars. Below is a sample of realities to understand:&#x20;
 
-* If you’re going to use health workers, how are you going to use them knowing that they are super busy?&#x20;
+* If you’re going to employ health workers, how are you going to use them knowing that they are super busy?&#x20;
 * Have you been to the hospital? Do you know if there’s a charger? Is there wifi?&#x20;
 * If you need to use data, who’s paying for it?&#x20;
 * Which devices will be used? If using personal phones, how will you manage access?

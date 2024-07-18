@@ -11,27 +11,27 @@ Welcome to the Holistic Assessments for ICT4D documentation site. This collectio
 
 ### Something For You
 
-While there are some more thoughts on [Who We Aim To Help](readme/who-we-aim-to-help.md), in summary this guide has been created to assist anyone in the ICT4D space who as encountered the question **"Has it been audited?"**, and wondered if that was a financial question or a technology question. Whether you are a procurement specialist, a regional specialist, a technologists for development, or in a program or sales role, this guide has something for you. If you are in charge the audit, or just trying to understand what kind of questions to ask about during an assessment, this guide has something for you. If you are a vendor, a platform developer, an entrepreneur, an open-source developer, this guide has something for you.
+While there are some more thoughts on [Who We Aim To Help](readme/who-we-aim-to-help.md), in summary this guide has been created to assist anyone in the ICT4D space who as encountered the question **"Has it been audited?"**, and wondered if that was a financial question or a technology question. Whether you are a procurement specialist, a regional specialist, a technologist for development, or in a program or sales role, this guide has something for you. If you are in charge the audit, or just trying to understand what kind of questions to ask about during an assessment, this guide has something for you. If you are a vendor, a platform developer, an entrepreneur, an open-source developer, this guide has something for you.
 
 ## <mark style="background-color:purple;">What you'll find?</mark>&#x20;
 
 Our approach and guiding ethos has been divided into four sections; People, Process, Technology and Partners. Within each section you'll find useful content, practical guidance and tangible takeaways that can help you or your team make informed decisions at various points in the ICT4D process.
 
-### <mark style="background-color:orange;">People</mark>
+### [<mark style="background-color:orange;">People</mark>](./#people)
 
-In the [People section](broken-reference) we explore the complex relationships and necessary stakeholders who make a digital transformation process successful.&#x20;
+In the [People section](broken-reference) we explore the complex relationships and necessary stakeholders who make a digital transformation process successful. Understand who plays a key role when and where in the process while gleaning insights from our research study to help guide your plan for engagement.&#x20;
 
-### <mark style="background-color:blue;">Process</mark>
+### [<mark style="background-color:blue;">Process</mark>](./#process)
 
-In the [Process section](broken-reference) we dive deeper into the nuts & bolts of our methodology for Holistic Assessments.
+In the [Process section](broken-reference) we dive deeper into the nuts & bolts of our methodology for Holistic Assessments. Understand more about how we approach assessments, the tangible process we engage in, and the recommended skillsets and pivotal principles necessary for a holistic assessment.&#x20;
 
-### <mark style="background-color:green;">Technology</mark>
+### [<mark style="background-color:green;">Technology</mark>](./#technology)
 
-In the [Technology section](broken-reference) we share insights and experiential knowledge relevant to designing your roadmap and decision-making processes.  &#x20;
+In the [Technology section](broken-reference) we share insights and our experiential technical knowledge (with a focus on security and privacy) relevant to designing your development and implementation roadmap and decision-making processes. Understand more about technical best practices and valuable components for a successful engagement.&#x20;
 
-### <mark style="background-color:red;">Partners</mark>
+### [<mark style="background-color:red;">Partners</mark>](./#partners)
 
-In the [Partners section](broken-reference) you will learn about what to look for when choosing a partner and have access to summaries of the four assessments we performed under this project.&#x20;
+In the [Partners section](broken-reference) you will learn about what to look for when choosing a partner and take a closer look into the four assessments we performed under this project. Read about real-life examples to understand further the vendor engagement and assessment process.&#x20;
 
 
 
