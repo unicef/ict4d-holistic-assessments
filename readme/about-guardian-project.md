@@ -9,7 +9,7 @@ With 15 years of experience in the Human Rights and Internet Freedom space, [Gua
 
 <figure><img src="../.gitbook/assets/GuardianProjectLogo (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-We are a group of designers, developers, innovators and technicians. Working at the intersection of human and digital rights alongside communities to find solutions which are secure, protect privacy and fit within community contexts. Our core values include security, privacy, and transparency, reflected in all our developments.&#x20;
+We are a group of designers, developers, innovators and technicians. We work at the intersection of human and digital rights alongside communities to find solutions which are secure, protect privacy and fit within community contexts. Our core values include security, privacy, and transparency, reflected in all our developments.&#x20;
 
 <figure><img src="../.gitbook/assets/PXL_20220327_154428957.jpg" alt=""><figcaption><p>We are actual humans who care!</p></figcaption></figure>
 
@@ -38,7 +38,7 @@ For over a decade, we have also been heavily involved in open-source software co
 
 #### Secure Development Operations
 
-Our DevOps team has worked to define a best-of-breed approach to supporting development and deployment of secure and privacy services protecting high-risk data. We have experience deploying on Amazon Web Services, which is ISO certified for Cloud Security and Data Protection, Microsoft Azure Cloud, Fastly, and other independent hosting providers. For network security purposes, we use private virtual intranets and web application firewalls to secure access to our services. When possible, all content stored is encrypted using cryptographic keys generated using end-to-end encryption protocols, and that are only resident in the user’s device or browser.&#x20;
+Our DevOps team has worked to define a best-of-breed approach to supporting development and deployment of security and privacy services protecting high-risk data. We have experience deploying on Amazon Web Services, which is ISO certified for Cloud Security and Data Protection, Microsoft Azure Cloud, Fastly, and other independent hosting providers. For network security purposes, we use private virtual intranets and web application firewalls to secure access to our services. When possible, all content stored is encrypted using cryptographic keys generated using end-to-end encryption protocols, and that are only resident in the user’s device or browser.&#x20;
 
 #### Privacy-Preserving Measurement and Analytics
 

@@ -4,19 +4,23 @@ description: Understanding the ingredients and sources is key to avoid "upstream
 
 # Software Bill of Materials
 
+{% hint style="success" %}
+Most relevant for 🔍 [Technical Evaluators](../get-started.md#evaluating)
+{% endhint %}
+
 [Software Bill of Materials (SBOM)](https://www.linuxfoundation.org/research/the-state-of-software-bill-of-materials-sbom-and-cybersecurity-readiness) is a list of all the [open source and third-party components](https://scribesecurity.com/sbom/sample-sbom/) present in a codebase. An SBOM also lists the licenses that govern those components, the versions of the components used in the codebase, and their patch status, which allows security teams to quickly identify any associated security or license risks. There a [few standardized formats](https://scribesecurity.com/sbom/standard-formats/) that exist for SBOMs.
 
 ### Processes and Tools
 
-The adoption of the [open-source tool 'syft'](https://github.com/anchore/syft) to generate Software Bills of Materials (SBOMs) for entire source code repositories and, when feasible, for each Docker image produced from those repositories, marks a significant step in enhancing the transparency and security of the software development process. SBOMs provide a detailed list of all components, libraries, and dependencies used in the software, offering critical insights into the software's composition. This documentation is invaluable for tracking the provenance and ensuring the integrity of the software components, facilitating easier management of licenses, vulnerabilities, and compliance with security standards. By generating SBOMs, organizations can quickly identify and respond to security vulnerabilities or licensing issues that may impact their software, thereby improving their overall security posture.
+The adoption of open-source tools [(see our resources page for a list of recommended tools)](../resource-links-and-tools/) to generate Software Bills of Materials (SBOMs) for entire source code repositories and, when feasible, for each Docker image produced from those repositories, marks a significant step in enhancing the transparency and security of the software development process. SBOMs provide a detailed list of all components, libraries, and dependencies used in the software, offering critical insights into the software's composition. This documentation is invaluable for tracking the provenance and ensuring the integrity of the software components, facilitating easier management of licenses, vulnerabilities, and compliance with security standards. By generating SBOMs, organizations can quickly identify and respond to security vulnerabilities or licensing issues that may impact their software, thereby improving their overall security posture.
 
 Here is an example of the kind of output that an SBOM tool can generate, providing detail about the components, versioning, license, and cryptographic hash of a software dependency:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>From <a href="https://scribesecurity.com/sbom/sample-sbom/#sbom-samples">SBOM Example</a> on <a href="https://scribesecurity.com/sbom/sample-sbom/#sbom-samples">ScribeSecurity.com</a> </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>From <a href="https://scribesecurity.com/sbom/sample-sbom/#sbom-samples">SBOM Example</a> on <a href="https://scribesecurity.com/sbom/sample-sbom/#sbom-samples">ScribeSecurity.com</a> </p></figcaption></figure>
 
 
 
-Furthermore, using 'syft' specifically for Docker images amplifies these benefits by addressing the unique challenges posed by containerized environments, such as layering and the use of base images that might include additional dependencies. This practice ensures that each layer of the Docker image is analyzed and documented, providing a comprehensive view of what's inside the containers. This level of detail is crucial for security teams and developers who need to ensure that no insecure or outdated components are lurking within containers, potentially exposing applications to security threats. The ability to generate SBOMs at both the repository and Docker image level not only streamlines security practices but also enhances operational efficiency by allowing for automated tools to handle much of the vulnerability management workload.
+Furthermore, [using a tool](../resource-links-and-tools/) specifically for Docker images amplifies these benefits by addressing the unique challenges posed by containerized environments, such as layering and the use of base images that might include additional dependencies. This practice ensures that each layer of the Docker image is analyzed and documented, providing a comprehensive view of what's inside the containers. This level of detail is crucial for security teams and developers who need to ensure that no insecure or outdated components are lurking within containers, potentially exposing applications to security threats. The ability to generate SBOMs at both the repository and Docker image level not only streamlines security practices but also enhances operational efficiency by allowing for automated tools to handle much of the vulnerability management workload.
 
 ### In Case of Proprietary Code...
 

@@ -1,6 +1,6 @@
 # ⬇️ Request of Assets PDF
 
-In order to fully evaluate the solution, the Evaluation Team asks the Solution Vendor to provide the following assets in digital form:
+In order to fully review the solution, the Assessment Team asks the Solution Vendor to provide the following assets in digital form:
 
 1. Product and architecture documents, diagrams, specifications
    * Documentation in HTML, DOCX, PDF, TXT, etc
@@ -21,4 +21,4 @@ In order to fully evaluate the solution, the Evaluation Team asks the Solution V
 
 
 
-{% file src="../../.gitbook/assets/Requested Assets.pdf" %}
+{% file src="../../../.gitbook/assets/Requested Assets.pdf" %}

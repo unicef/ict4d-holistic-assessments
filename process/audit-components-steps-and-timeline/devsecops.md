@@ -1,7 +1,7 @@
 ---
 description: >-
-  DevSecOps software development operation best practices and from the
-  operations management from a sys admin perspective
+  Best practices in software development operations from operations management
+  and system administration perspectives
 ---
 
 # Development+Security+Operations
@@ -10,7 +10,7 @@ description: >-
 
 #### Test Environment and Deployment Setup
 
-The audit starts with a thorough review of the manual installation methods detailed in the platform's documentation. This review is necessary to understand the complexities and requirements of setting up the application from scratch. The audits reviews hardware and software recommendations, and considers what environments support the package versions required. The testing also explores alternative installation methods such as server tools with Ansible and Bash scripts, as well as containerization approaches like Docker and Kubernetes, highlighting the flexibility and various options available for different organizational needs.
+The audit starts with a thorough review of the manual installation methods detailed in the platform's documentation. This review is necessary to understand the complexities and requirements of setting up the application from scratch. The audit reviews hardware and software recommendations, and considers what environments support the package versions required. The testing also explores alternative installation methods such as server tools with Ansible and Bash scripts, as well as containerization approaches like Docker and Kubernetes, highlighting the flexibility and various options available for different organizational needs.
 
 #### Security and Configuration
 
@@ -28,5 +28,5 @@ The monitoring capabilities of the application are evaluated, with a particular 
 
 The audit concludes with several recommendations aimed at enhancing the security posture and operational efficiency of deployments. These might include updates to system documentation, improved secrets management practices, and recommendations for network architecture to safeguard the application environment. The audit stresses the importance of robust disaster recovery procedures and the need for comprehensive backup strategies to ensure data integrity and availability in the event of system failures or security incidents.
 
-### Overall, the DevSecOps audit provides a detailed roadmap for securely deploying and maintaining the application, with a focus on scalability, security, and operational best practices tailored to the platform’s unique architectural and operational context.
+### <mark style="background-color:yellow;">Overall, the DevSecOps audit provides a detailed roadmap for securely deploying and maintaining the application, with a focus on scalability, security, and operational best practices tailored to the platform’s unique architectural and operational context.</mark>
 

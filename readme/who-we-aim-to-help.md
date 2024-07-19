@@ -5,7 +5,7 @@ coverY: 0
 
 # Who We Aim to Help
 
-This work was [commissioned by UNICEF](../#background).  In the context of digital transformation, stakeholders encompass a spectrum of actors, including government, advisors and sponsors, technology implementers, field and office workers, and citizens.
+This work was [commissioned by UNICEF](<../README (1).md#background>).  In the context of digital transformation, stakeholders encompass a spectrum of actors, including government, advisors and sponsors, technology implementers, field and office workers, and citizens.
 
 The choice a government makes about which technology solution or approach to take influences who is involved, specifically for technology implementation. Though, it can also affect who is involved in the early stages of conceptualizing the system. Throughout this work it is noted that a range of stakeholders are or should be involved in a Digital Transformation process.
 
