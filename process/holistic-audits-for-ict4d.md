@@ -1,8 +1,8 @@
 ---
 description: >-
-  A reference for performing a wide-ranging, interconnecting technical,
-  security, and privacy quality assessments for Information and Communications
-  Technology for Development
+  A guide for conducting comprehensive, interconnected assessments of technical,
+  security, and privacy aspects in Information and Communications Technology for
+  Development (ICT4D)
 cover: ../.gitbook/assets/UNI401440-Viet-Hung.jpg
 coverY: -154
 ---

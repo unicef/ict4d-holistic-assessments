@@ -1,7 +1,7 @@
 ---
 description: >-
-  DevSecOps software development operation best practices and from the
-  operations management from a sys admin perspective
+  Best practices in software development operations from operations management
+  and system administration perspectives
 ---
 
 # Development+Security+Operations

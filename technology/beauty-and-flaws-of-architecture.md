@@ -22,7 +22,7 @@ In some cases, fully custom solutions are needed, and in that case, solutions su
 
 ## <mark style="background-color:yellow;">**Ensure adequate expertise and resources for complex systems**</mark>
 
-Some solutions complexity demands specialized expertise for effective management and maintenance. Allocate the necessary resources and expertise to support the implementation and ongoing operation of such systems.
+Some solutions' complexity demands specialized expertise for effective management and maintenance. Allocate the necessary resources and expertise to support the implementation and ongoing operation of such systems.
 
 <figure><img src="../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
@@ -48,7 +48,7 @@ Establish a proactive approach to security by conducting regular audits and prom
 
 ## <mark style="background-color:yellow;">**Invest in comprehensive documentation**</mark>
 
-One solution's system administrator documentation lacked information on disaster recovery procedures. Prioritize the development of comprehensive documentation covering all aspects of the system, including security practices, deployment guidelines, and disaster recovery plans. You can review our [DevSecOps Checklist](development-and-secure-operations/) for a guide on steps to consider when preparing to launch.
+One solution's system administrator documentation lacked information on disaster recovery procedures. Prioritize the development of comprehensive documentation covering all aspects of the system, including security practices, deployment guidelines, and disaster recovery plans. You can review our [DevSecOps Checklist](../process/audit-components-steps-and-timeline/development-and-secure-operations/) for a guide on steps to consider when preparing to launch.
 
 <figure><img src="../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 

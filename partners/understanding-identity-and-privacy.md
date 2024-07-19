@@ -20,7 +20,7 @@ Any audit or assessment must not only consider problems that may arise from one 
 
 ### <mark style="background-color:yellow;">Packaging Success</mark>
 
-Returning to our deep experience working with communities at risk, especially those facing advanced cyber attacks, we see great value in providing a robust, packaged, vetted solutions. This package should also include technical assistance through helpful documentation and best practices forms. This allows the communities themselves to understand how to adopt, nurture, support, and sustain these systems, all while building up their own in-house and local capacity.
+Returning to our deep experience working with communities at risk, especially those facing advanced cyber attacks, we see great value in providing robust, packaged, vetted solutions. This package should also include technical assistance through helpful documentation and best practices forms. This allows the communities themselves to understand how to adopt, nurture, support, and sustain these systems, all while building up their own in-house and local capacity.
 
 <mark style="background-color:yellow;">**It is in this aspect that the helpful diversity returns - each organization and local deployment team understands their own unique threats, constraints, vulnerabilities, and requirements that they must tune the deployment for, while still benefiting from the core reusable package.**</mark>&#x20;
 

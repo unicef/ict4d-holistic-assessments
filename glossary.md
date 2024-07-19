@@ -1,5 +1,7 @@
 ---
-description: Helpful terminology that you may encounter in this guide and during an audit
+description: >-
+  Helpful terminology that you may encounter in this guide and during an
+  assessment
 cover: >-
   https://images.unsplash.com/photo-1461958508236-9a742665a0d5?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHx3b3Jkc3xlbnwwfHx8fDE3MTUyMzA4NzN8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -37,7 +39,7 @@ A weakness in the computational logic (e.g., code) found in software and hardwar
 
 #### DevSecOps (Development, Security, Operations)
 
-A practice in application security that involves introducing security earlier in the software development life cycle. It also expands the collaboration between development and operations teams to integrate security teams in the software delivery cycle and workflow of continuous integration and continuous delivery (CI/CD).
+An examination of the deployment strategies, security measures, and operational best practices to ensure a secure and efficient delivery and operation of the application. A practice in application security that involves introducing security earlier in the software development life cycle. It also expands the collaboration between development and operations teams to integrate security teams in the software delivery cycle and workflow of continuous integration and continuous delivery (CI/CD).
 
 #### Application Programming Interface (API)
 
@@ -46,3 +48,11 @@ A way for two or more computer programs to communicate with each other. It simpl
 #### Content-Security-Policy (CSP)
 
 The name of a HTTP response header that modern browsers use to enhance the security of the document (or web page). The Content-Security-Policy header allows you to restrict which resources (such as JavaScript, CSS, Images, etc.) can be loaded, and the URLs that they can be loaded from.
+
+**Open Web Application Security Project (OWASP)**
+
+The Open Web Application Security Project, or OWASP, is an international non-profit organization dedicated to web application security.
+
+**OpenID Connect (OIDC)**
+
+OpenID Connect (OIDC) is an open authentication protocol that works on top of the OAuth 2.0 framework. Targeted toward consumers, OIDC allows individuals to use [single sign-on (SSO)](https://www.pingidentity.com/en/resources/identity-fundamentals/authentication/single-sign-on.html) to access relying party sites using OpenID Providers (OPs), such as an email provider or social network, to authenticate their identities. It provides the application or service with information about the user, the context of their authentication, and access to their profile information.

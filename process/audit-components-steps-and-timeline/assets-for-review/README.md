@@ -20,7 +20,7 @@ To gain a comprehensive understanding of the user experience and feature design 
 
 <figure><img src="../../../.gitbook/assets/td-service safaris-persona.webp" alt=""><figcaption><p><a href="https://www.interaction-design.org/literature/topics/personas">Persona example</a> from the Interaction Design Foundation</p></figcaption></figure>
 
-[Threat models](../../threat-and-risk-assessment.md) that outline potential security vulnerabilities from a user perspective, including how these threats are mitigated, is also useful. Needs assessments should detail the research conducted to identify what users require from the software, including how these needs have driven the design decisions made.&#x20;
+[Threat models](../../threat-and-risk-assessment.md) that outline potential security vulnerabilities from a user perspective, including how these threats are mitigated, are also useful. Needs assessments should detail the research conducted to identify what users require from the software, including how these needs have driven the design decisions made.&#x20;
 
 ### **Source code for all tiers of the application**
 
@@ -32,7 +32,7 @@ For a comprehensive understanding of the development process and ongoing mainten
 
 <figure><img src="../../../.gitbook/assets/dhis2community.png" alt=""><figcaption><p>DHIS2 has a <a href="https://community.dhis2.org/">robust community forum</a></p></figcaption></figure>
 
-Access to these resources will allows for review of how features and bugs are tracked, prioritized, and resolved, providing insights into a team’s workflow and responsiveness to issues. Additionally, it is important to examine the collaborative aspects of the development process by looking into how information is shared and decisions are made, as documented in discussion boards and wikis. This review helps to assess the effectiveness of a development practices, the alignment of ongoing work with user needs and security practices, and the overall health and sustainability of the project's development environment.
+Access to these resources will allow for review of how features and bugs are tracked, prioritized, and resolved, providing insights into a team’s workflow and responsiveness to issues. Additionally, it is important to examine the collaborative aspects of the development process by looking into how information is shared and decisions are made, as documented in discussion boards and wikis. This review helps to assess the effectiveness of a development practices, the alignment of ongoing work with user needs and security practices, and the overall health and sustainability of the project's development environment.
 
 ### **Inputs to and results from any other security audits**
 
@@ -48,7 +48,7 @@ To ensure the assessment team has a smooth installation, deployment, and usage o
 
 <figure><img src="../../../.gitbook/assets/opencrsvinstall.png" alt=""><figcaption><p>OpenCRVS provides <a href="https://documentation.opencrvs.org/setup/3.-installation/3.1-set-up-a-development-environment/3.1.1-install-the-required-dependencies">detailed information on dependencies and installation</a>.</p></figcaption></figure>
 
-For deployment, please provide configurations, environmental setup details, and best practices to ensure representational and optimal performance and security. Information on access requirements, such as necessary credentials, user role configurations, and security protocols for gaining entry to different parts of the system, should also be included. This information will enable the audit team to replicate a solution's deployment environment accurately, ensuring that the holistic technical assessment reflects the real-world operation and integration of the solution.
+For deployment, request to have provided configurations, environmental setup details, and best practices to ensure representational and optimal performance and security. Information on access requirements, such as necessary credentials, user role configurations, and security protocols for gaining entry to different parts of the system, should also be included. This information will enable the audit team to replicate a solution's deployment environment accurately, ensuring that the holistic technical assessment reflects the real-world operation and integration of the solution.
 
 ### **Operational deployment images, tools, and/or scripts for configuration management**
 

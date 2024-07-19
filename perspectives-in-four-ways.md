@@ -33,7 +33,7 @@ In the ["Process" section](process/holistic-audits-for-ict4d.md), we focus on ou
 
 ### Technology
 
-Onto the [focus of "Technology"](technology/on-launching-technology.md), where we introduce our approach to launching new technology solutions from the development phase into a secure, resilient production deployment. We include [best practices](technology/beauty-and-flaws-of-architecture.md) related to ["Developer Secure Operations" (DevSecOps)](technology/development-and-secure-operations/) and Continuous Iteration/Continuous Deployment approaches, and why they can be useful in this context. We also share our approach to ongoing vulnerability assessment and penetration scanning, beyond just a single one time "audit". Through this, we aim to provide a set of strategies that can provide confidence and greater understanding of a very complex set of moving pieces.
+Onto the [focus of "Technology"](technology/on-launching-technology.md), where we introduce our approach to launching new technology solutions from the development phase into a secure, resilient production deployment. We include [best practices](technology/beauty-and-flaws-of-architecture.md) related to ["Developer Secure Operations" (DevSecOps)](process/audit-components-steps-and-timeline/development-and-secure-operations/) and Continuous Iteration/Continuous Deployment approaches, and why they can be useful in this context. We also share our approach to ongoing vulnerability assessment and penetration scanning, beyond just a single one time "audit". Through this, we aim to provide a set of strategies that can provide confidence and greater understanding of a very complex set of moving pieces.
 
 <figure><img src=".gitbook/assets/tech.png" alt=""><figcaption></figcaption></figure>
 

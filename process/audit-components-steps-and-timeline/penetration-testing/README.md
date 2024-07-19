@@ -6,7 +6,7 @@ description: >-
 
 # Penetration Testing
 
-Building on results of automated and vetted scanning, a manual penetration test utilizes the same approach, techniques, attack vectors, and known vulnerabilities, but with added creativity and skills of a human-based attacker.  Very few “false positive” outputs come from this step, due to the human operator understanding if they have been able to achieve a valuable ...
+Building on results of automated and vetted scanning, a manual penetration test utilizes the same approach, techniques, attack vectors, and known vulnerabilities, but with added creativity and skills of a human-based attacker.  Very few “false positive” outputs come from this step, due to the human operator understanding if they have been able to achieve a valuable attack
 
 Penetration Testing, also known as "pen testing," is a form of security testing that involves simulating a real-world attack on a system to identify vulnerabilities and potential exploits. The goal of penetration testing is to assess the security posture of a web and mobile application and to identify any weaknesses that could be exploited by an attacker. The penetration tester attempts to exploit vulnerabilities, typically using a combination of automated and manual techniques, to gain access to sensitive data or functionality within the application. The testing is typically conducted in a controlled environment, such as a test or staging environment, to prevent any unintended impact on the production system.
 

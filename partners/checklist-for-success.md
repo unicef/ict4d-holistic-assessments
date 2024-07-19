@@ -18,8 +18,10 @@ Most relevant for 💭 [Visionaries](../get-started.md#visioning) and 🔥 [Advi
 * [ ] <mark style="background-color:yellow;">**Lived Experiences**</mark>&#x20;
   * Considering the context of those implementing the solution is necessary. Lived experiences referring to including real-world workflows into your decision.&#x20;
     * &#x20;Ex: Do you need to include digital literacy training to your onboarding for field workers? Do you expect field agents to use their personal phones to run the solution, or is hardware provided and how do you train offices on management of these hardware units? Is there 24hr connectivity for electricity and internet?&#x20;
+* [ ] <mark style="background-color:yellow;">**User Interface & User Experience Research & Testing (UI/UX)**</mark>
+  * User experience and user interface research and testing are critical for ensuring that digital products are intuitive, accessible, and effective, directly impacting user satisfaction and overall success. For digital transformation initiatives to be successful it is imperative one understands the actual workflow and contexts for the people you're seeking to serve, including their digital lives and their capabilities (what technology is accessible to them? how often are they connected to the internet? how expensive is data? do they read and write? etc).
 * [ ] <mark style="background-color:yellow;">**Knowledge Redundancy**</mark>&#x20;
-  * Having a community of contributors, decentralized learning, distributive expertise..something about what Darren says...
+  * Having a community of contributors diversifies the expertise and opportunity for finding flaws while also compounding knowledge. It helps to have a decentralized learning approach with a couple people who can do the same thing so if a person leaves the work there isn't a total gap in skill, knowledge or security.
 * [ ] <mark style="background-color:yellow;">**Iterative Audits**</mark>
   * Audits are like a litmus test. Quickly highlighting vulnerabilities and the health of the solution as a whole. Technology is rapidly progressing and therefore, it's necessary to regularly test the health of a system and look for exposed vulnerabilities, threats and opportunities for attacks.&#x20;
   * _Tip: Use a third-party auditor for unbiased results._&#x20;

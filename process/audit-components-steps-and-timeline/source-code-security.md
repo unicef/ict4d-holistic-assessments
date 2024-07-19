@@ -1,7 +1,7 @@
 ---
 description: >-
   Uncover flaws in the application (bugs, security weaknesses, extensibility,
-  maintainability...) Evaluate the readiness of the source code for being
+  maintainability...)and evaluate the readiness of the source code for being
   enhanced by a third party
 ---
 

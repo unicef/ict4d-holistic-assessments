@@ -33,7 +33,7 @@ We begin with introductions and laying a foundation of communication and trust, 
 * Create an established communications channel and share an asset request list with the vendor.
   * _Tip: It is helpful to choose a communication channel that already exists in the vendor workflow to ease any burden of communication._
 * &#x20;Create a file sharing service folder for ease of document uploading and sharing of Assets and any additional resources the vendor deem useful to successfully complete the process (case studies, security audits, SBOM, independent reports, etc.).
-* Maintain transparent through the process and communicate regularly.&#x20;
+* Maintain transparency throughout the process and communicate regularly.&#x20;
 * Once technical quality assessments are complete, we value a video call with the vendor or technology solution team to review comments and findings in real-time. Time is then spent incorporating comments and updating our final report.
   * _Tip: This step should happen before sharing the full assessment with other stakeholders._&#x20;
 

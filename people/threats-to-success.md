@@ -8,7 +8,7 @@ description: Considerations for a better outcome
 Most relevant for 💭 [Visionaries](../get-started.md#visioning) and 🔥 [Advisors](../get-started.md#advising)&#x20;
 {% endhint %}
 
-&#x20;success of a system or program is not only dependent on the technology itself, but all of the people and processes surrounding it. Based on stakeholder research, we've identified 9 threats to success that will directly impact the integration and adoption of a technology solution.&#x20;
+The success of a system or program is not only dependent on the technology itself, but all of the people and processes surrounding it. Based on stakeholder research, we've identified 9 threats to success that will directly impact the integration and adoption of a technology solution.&#x20;
 
 > ### <mark style="color:blue;">In order to foster holistic security, we must broaden our scope beyond system vulnerabilities and cybersecurity threats to technology. We must also acknowledge and address the threats introduced by the people and processes involved.</mark>
 
