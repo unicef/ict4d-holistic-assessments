@@ -17,7 +17,7 @@ layout:
 
 Through our work and this documentation, we have considered the perspectives of four dimensions that are critical to the effective and efficient facilitation of value for all the stakeholders in the form of products and services: people, process, technology, and partners.
 
-<figure><img src=".gitbook/assets/4 lens.png" alt=""><figcaption><p>Venn diagram showing the interconnectedness of the four lenses</p></figcaption></figure>
+<figure><img src=".gitbook/assets/four lens.png" alt=""><figcaption><p>Venn diagram showing the interconnectedness of the four lenses</p></figcaption></figure>
 
 ### People
 
