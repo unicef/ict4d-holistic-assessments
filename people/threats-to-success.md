@@ -14,13 +14,11 @@ The success of a system or program is not only dependent on the technology itsel
 
 <figure><img src="../.gitbook/assets/threatstosuccess-01.jpg" alt=""><figcaption><p><a href="threats-to-success.md">Threats to Success executive summary presentation</a></p></figcaption></figure>
 
-
-
-## The Nine Threats to Success of Digital Transformation&#x20;
-
 <mark style="background-color:purple;">View the full visual presentation highlighting threats to success through the following slides:</mark>
 
 {% file src="../.gitbook/assets/Exec Sum_ Threats to Success [April 2024].pdf" %}
+
+## The Nine Threats to Success of Digital Transformation&#x20;
 
 ### <mark style="color:yellow;">1. Insufficient Buy-In</mark>
 

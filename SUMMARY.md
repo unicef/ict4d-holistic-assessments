@@ -54,6 +54,7 @@
 
 ***
 
-* [Resource Links & Tools](resource-links-and-tools/README.md)
-  * [Additional Resources](resource-links-and-tools/additional-resources.md)
+* [Resources, Links & Tools](resources-links-and-tools/README.md)
+  * [Additional Resources](resources-links-and-tools/additional-resources.md)
 * [Glossary](glossary.md)
+* [📸 Attributions](attributions.md)

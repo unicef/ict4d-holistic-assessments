@@ -37,6 +37,10 @@ An authorized simulated cyberattack on a computer system, performed to evaluate 
 
 A weakness in the computational logic (e.g., code) found in software and hardware components that, when exploited, results in a negative impact to confidentiality, integrity, or availability. Mitigation of the vulnerabilities in this context typically involves coding changes, but could also include specification changes or even specification deprecations (e.g., removal of affected protocols or functionality in their entirety).
 
+#### Continuous Integration and Continuous Delivery or Deployment (CI/CD)
+
+A set of practices in software development that aims to speed up and streamline the software development lifecycle. CI/CD is a key part of DevOps, which encourages collaboration between operations and development teams. Platforms such as Gitlab and Github are examples of CI/CD tools.&#x20;
+
 #### DevSecOps (Development, Security, Operations)
 
 An examination of the deployment strategies, security measures, and operational best practices to ensure a secure and efficient delivery and operation of the application. A practice in application security that involves introducing security earlier in the software development life cycle. It also expands the collaboration between development and operations teams to integrate security teams in the software delivery cycle and workflow of continuous integration and continuous delivery (CI/CD).

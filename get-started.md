@@ -14,7 +14,7 @@ layout:
 
 # Get Started
 
-Threats and cybersecurity are always evolving. A holistic, iterative approach to assessing allows you to understand how good a system is at preserving the confidentiality of the people registered in a system. An approach to holistic assessments is relevant at several points within a Digital Transformation process, whether you’re starting a new project or are advising on an existing one.&#x20;
+Threats and cybersecurity are always evolving. A holistic, iterative approach to assessing allows you to understand how good a system is at preserving the confidentiality of the people registered in a system. A holistic approach to assessments is relevant at several points within a Digital Transformation process, whether you’re starting a new project or are advising on an existing one.&#x20;
 
 Regardless of where you are in the process, we can help you get started. Keep reading!
 

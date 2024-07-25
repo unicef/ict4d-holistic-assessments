@@ -72,7 +72,7 @@ Some solutions source code dependencies are not publicly available, hindering ma
 
 ## <mark style="background-color:yellow;">**Integrate manual and automated testing**</mark>
 
-One solution lacked both manual test plans and automated testing, increasing the risk of undetected defects. Implement a comprehensive testing strategy combining manual and automated testing to ensure the system's quality and reliability. Consider using the [tools and services](../resource-links-and-tools/) we use in the holistic assessment process.
+One solution lacked both manual test plans and automated testing, increasing the risk of undetected defects. Implement a comprehensive testing strategy combining manual and automated testing to ensure the system's quality and reliability. Consider using the [tools and services](../resources-links-and-tools/) we use in the holistic assessment process.
 
 <figure><img src="../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
 

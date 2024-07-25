@@ -11,7 +11,7 @@ Welcome to the Holistic Technical Assessments for ICT4D documentation site. This
 
 ### Something For You
 
-While there are some more thoughts on [Who We Aim To Help](readme/who-we-aim-to-help.md), in summary this guide has been created to assist anyone in the ICT4D space who as encountered the question **"Has it been audited?"**, and wondered if that was a financial question or a technology question. Whether you are a procurement specialist, a regional specialist, a technologist for development, or in a program or sales role, this guide has something for you. If you are in charge the audit, or just trying to understand what kind of questions to ask about during an assessment, this guide has something for you. If you are a vendor, a platform developer, an entrepreneur, an open-source developer, this guide has something for you.
+While there are some more thoughts on [Who We Aim To Help](readme/who-we-aim-to-help.md), in summary this guide has been created to assist anyone in the ICT4D space who as encountered the question **"Has it been audited?"**, and wondered if that was a financial question or a technology question. Whether you are a procurement specialist, a regional specialist, a technologist for development, or in a program or sales role, this guide has something for you. If you are in charge of the audit, or just trying to understand what kind of questions to ask about during an assessment, this guide has something for you. If you are a vendor, a platform developer, an entrepreneur, an open-source developer, this guide has something for you.
 
 ## <mark style="background-color:purple;">What you'll find?</mark>&#x20;
 
@@ -23,7 +23,7 @@ In the [People section](broken-reference) we explore the complex relationships a
 
 ### [<mark style="background-color:blue;">Process</mark>](./#process)
 
-In the [Process section](broken-reference) we dive deeper into the nuts & bolts of our methodology for Holistic Assessments. Understand more about how we approach assessments, the tangible process we engage in, and the recommended skillsets and pivotal principles necessary for a holistic assessment.&#x20;
+In the [Process section](broken-reference) we dive deeper into the nuts & bolts of our methodology for Holistic Assessments. Understand more about how we approach technical assessments, the tangible process we engage in, and the recommended skillsets and pivotal principles necessary for a holistic technical assessment.&#x20;
 
 ### [<mark style="background-color:green;">Technology</mark>](./#technology)
 

@@ -24,7 +24,7 @@ layout:
 
 ## <mark style="color:purple;">In 2021, approximately 987 million people worldwide lacked official proof of identity, and as many as 1 in 4 children under the age of 5 were not registered at birth. The absence of identification documents systematically excludes these individuals from accessing their fundamental rights and fulfilling their obligations within their countries.</mark>
 
-Although this project doesn't change the statistic, it focuses on the mindset and holistic approach for assessments which are necessary when considering a new partner for a digital transformation initiative under UNICEF.  Our role as independent vendors, was to develop a holistic approach to assessments which can be utilized, replicated and iterated upon by other sectors engaging in a digital transformation initiative.
+Although this project doesn't change the statistic, it focuses on the mindset and holistic approach for technical assessments necessary when considering a new partner for a digital transformation initiative under UNICEF.  Our role as independent vendors, was to develop a holistic approach to assessments which can be utilized, replicated and iterated upon by other sectors engaging in a digital transformation initiative.
 
 ### Background on the work
 
@@ -36,7 +36,7 @@ Furthermore, UNICEF emphasizes the need for the results of these assessments to 
 
 UNICEF is mandated by the United Nations General Assembly to advocate for the protection of children's rights, meet their basic needs, and expand their opportunities to reach their full potential. Operating in 190 countries and territories, UNICEF is dedicated to reaching the world's most disadvantaged children, working tirelessly to save the lives of children and their mothers while generating evidence to support this mission. Central to this effort is ensuring that every child is recognized legally, with birth registration being a fundamental right enshrined in both the Universal Declaration on Human Rights and the Convention on the Rights of the Child.&#x20;
 
-### _<mark style="color:blue;">Birth registration not only establishes a child’s legal identity but also ensures access to essential services such as child protection, healthcare, and education, which are critical for securing their fundamental rights.</mark>_
+### _<mark style="color:blue;">"Birth registration not only establishes a child’s legal identity but also ensures access to essential services such as child protection, healthcare, and education, which are critical for securing their fundamental rights."</mark>_
 
 Efficient civil registration, encompassing births, deaths, marriages, and divorces, provides accurate and complete data essential for national planning and resource allocation. The Sustainable Development Goals (SDGs), particularly Goal 16.9, emphasize the importance of providing legal identity for all by 2030. The United Nations Legal Identity Agenda 2020-2030 supports this goal, advocating for sustainable civil registration, vital statistics, and identity management systems.&#x20;
 

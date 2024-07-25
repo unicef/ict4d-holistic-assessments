@@ -8,6 +8,14 @@ description: Who may be involved in decisions and/or operations around a holisti
 Most relevant for 💭 [Visionaries](../get-started.md#visioning), 🔥 [Advisors](../get-started.md#advising) and 🔍 [Technical Evaluators](../get-started.md#evaluating)
 {% endhint %}
 
+{% hint style="info" %}
+<mark style="background-color:purple;">In the</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**People**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">section you will...</mark>
+
+* Learn about the stakeholders integral to a digital transformation process
+* Read our in-depth research study conducted with people in the field to better understand the eCRVS landscape
+* Access a list of threats which can undermine your projects success
+{% endhint %}
+
 Let's first start with a foundational understanding of who may be involved in Digital Transformation projects, as partnerships with governments, civil society groups, academia, non-governmental organizations, private sector entities, and communities remain central to UNICEF’s approach. In our research, we found that there are several different stakeholders involved in Digital Transformation processes, and that they may be unique for each engagement. We categorize stakeholders into five roles:
 
 * Government
