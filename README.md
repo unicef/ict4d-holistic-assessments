@@ -7,6 +7,8 @@ coverY: 40
 
 Welcome to the Holistic Technical Assessments for ICT4D documentation site. This collection of documents represents a set of perspectives, experiences, and guidelines on engaging with technology within the [Information and Communications Technology for Development (ICT4D)](https://www.unicef.org/topics/information-and-communication-technology) space. In particular, the work focuses on the benefits and impacts of adopting free and open-source software that is secure and privacy-focused. For this work, we deliberately use the term "assessment," though it may be interchangeably referred to as audits, reviews, or evaluations, depending on the context.&#x20;
 
+{% embed url="https://www.youtube.com/watch?v=5kGvF6o3EvU" %}
+
 ## <mark style="background-color:purple;">Who is this work relevant for? EVERYONE!</mark>
 
 ### Something For You

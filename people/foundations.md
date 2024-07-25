@@ -16,6 +16,8 @@ Most relevant for 💭 [Visionaries](../get-started.md#visioning), 🔥 [Advisor
 * Access a list of threats which can undermine your projects success
 {% endhint %}
 
+{% embed url="https://www.youtube.com/watch?v=IUWogU7GkGs" %}
+
 Let's first start with a foundational understanding of who may be involved in Digital Transformation projects, as partnerships with governments, civil society groups, academia, non-governmental organizations, private sector entities, and communities remain central to UNICEF’s approach. In our research, we found that there are several different stakeholders involved in Digital Transformation processes, and that they may be unique for each engagement. We categorize stakeholders into five roles:
 
 * Government

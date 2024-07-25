@@ -10,6 +10,8 @@ description: >-
 Most relevant for 💭 [Visionaries](../get-started.md#visioning), 🔥 [Advisors](../get-started.md#advising) and 🔍 [Technical Evaluators](../get-started.md#evaluating)
 {% endhint %}
 
+{% embed url="https://www.youtube.com/watch?v=n5oteRvwC3Q" %}
+
 Partners come in various forms and sizes. They range from open-source, off-the-shelf tools hosted in the cloud to custom-tailored solutions designed for your specific needs. Some partners are responsive, helpful, and actively engaged in the process, while others may be uncooperative or lack the capacity to engage. Some may lack the resources for sustainability, while others might push technology on you with little transparency. We've learned that partners come with diverse configurations and egos, and it's up to you to determine what works best for your situation.
 
 {% hint style="info" %}
