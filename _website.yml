@@ -27,7 +27,7 @@ website:
 
   # website.navbar : Top navigation bar
   navbar:
-    title: UNICEF's Holistic audits on ICT4D
+    title: Holistic Technical Assessments for ICT4D
     tools:
       - icon: github
         href: https://github.com/unicef/holistic-audits-on-ict4d/
@@ -36,11 +36,11 @@ website:
     logo-alt: "UNICEF's Holistic audits on ICT4D"
 
     # website.navbar.left: Left links within the top navigation bar
-    left:
-      - text: "Home"
-        file: index.md
-      - text: "About these guides"
-        file: about.md 
+    #left:
+    #  - text: "Home"
+    #    file: index.md
+    #  - text: "About these guides"
+    #    file: about.md 
   
   # website.sidebar: Side navigation bar
   sidebar:
@@ -51,23 +51,60 @@ website:
       - file: overview.md
 
       - section: "Introduction to the Project"
+        file: intro.md
         contents: readme/*
 
       - file: get-started.md
       - file: perspectives-in-four-ways.md
 
       - section: "People"
-        contents: people/*
+        contents:
+        - people/foundations.md
+        - people/stakeholder-experiences.md
+        - people/beyond-technology.md
+        - people/threats-to-success.md
       
       - section: "Process"
-        contents: process/*
-      
+        contents:
+        - process/holistic-audits-for-ict4d.md      
+        - process/threat-and-risk-assessment.md 
+        - process/software-bill-of-materials.md
+        - process/an-iterative-process.md
+        - process/recommended-skillsets.md
+        - section: "Assessment Methodology"
+          file: process/audit-components-steps-and-timeline/index.md
+          contents:
+          - process/audit-components-steps-and-timeline/assets-for-review/index.md
+          - process/audit-components-steps-and-timeline/assets-for-review/request-of-assets-pdf.md
+          - process/audit-components-steps-and-timeline/application-architecture.md
+          - process/audit-components-steps-and-timeline/source-code-security.md
+          - process/audit-components-steps-and-timeline/vulnerability-scanning.md
+          - process/audit-components-steps-and-timeline/penetration-testing/index.md
+          - process/audit-components-steps-and-timeline/penetration-testing/penetration-testing-slide-deck.md
+          - process/audit-components-steps-and-timeline/devsecops.md
+          - process/audit-components-steps-and-timeline/development-and-secure-operations/index.md
+          - process/audit-components-steps-and-timeline/development-and-secure-operations/devsecops-checklist-slide-deck.md
+      - file: process/evaluation-template.md     
+
       - section: "Technology"
-        contents: technology/*
+        contents:
+        - technology/on-launching-technology.md
+        - technology/beauty-and-flaws-of-architecture.md
+        - technology/source-code-issues-to-avoid.md
+        - technology/physical-realities.md
       
       - section: "Partners"
-        contents: partners/*
-  
+        contents:
+        - partners/choosing-a-partner.md
+        - partners/checklist-for-success.md
+        - section: "Partner Assessments"
+          file: partners/partner-assessments/index.md
+          contents:
+          - partners/partner-assessments/the-turn-key-solution.md
+          - partners/partner-assessments/the-open-platform.md
+          - partners/partner-assessments/the-custom-software-development-kit.md
+          - partners/partner-assessments/the-cloud-software-as-a-service.md
+ 
       - file: glossary.md
       - file: attributions.md
 

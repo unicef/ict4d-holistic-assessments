@@ -4,13 +4,11 @@ Threats and cybersecurity are always evolving. A holistic, iterative approach to
 
 Regardless of where you are in the process, we can help you get started. Keep reading!
 
-<figure><img src=".gitbook/assets/get started-assessment.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/get started-assessment.png" alt="" width=100%><figcaption></figcaption></figure>
 
 ### <mark style="background-color:yellow;">💭 Visionaries</mark>
 
-{% hint style="info" %}
-Look for the 💭 emoji to find relevant content.
-{% endhint %}
+<i>Look for the 💭 emoji to find relevant content.</i>
 
 If you are starting a new project...
 
@@ -21,9 +19,7 @@ If you are starting a new project...
 
 ### 🔥 <mark style="background-color:yellow;">Advisors</mark>
 
-{% hint style="info" %}
-Look for the 🔥 emoji to find relevant content.
-{% endhint %}
+<i>Look for the 🔥 emoji to find relevant content.</i>
 
 If you are advising on an existing project...
 
@@ -34,9 +30,7 @@ If you are advising on an existing project...
 
 ### <mark style="background-color:yellow;">🔍 Technical Evaluators</mark>
 
-{% hint style="info" %}
-Look for the 🔍 emoji to find relevant content.
-{% endhint %}
+<i>Look for the 🔍 emoji to find relevant content.</i>
 
 If you are a technical leader or implementer and have been asked to perform an assessment...
 

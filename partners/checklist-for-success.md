@@ -4,7 +4,7 @@ description: >-
   have found to be important when choosing a partner.
 ---
 
-# Checklist for Success\*
+# Checklist for Success
 
 {% hint style="success" %}
 Most relevant for 💭 [Visionaries](../get-started.md#visioning) and 🔥 [Advisors](../get-started.md#advising)&#x20;
