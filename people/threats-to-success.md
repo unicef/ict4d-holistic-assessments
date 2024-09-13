@@ -1,24 +1,24 @@
 ---
-description: 9 considerations for a better outcome
+description: Considerations for a better outcome
 ---
 
 # Threats to Success
 
-> ### <mark style="color:blue;">In order to foster holistic security, we must broaden our scope beyond system vulnerabilities and cybersecurity threats to technology. We must also acknowledge and address the threats introduced by the people and processes involved.</mark>
+{% hint style="success" %}
+Most relevant for 💭 [Visionaries](../get-started.md#visioning) and 🔥 [Advisors](../get-started.md#advising)&#x20;
+{% endhint %}
 
-When implementing new digitalization technologies and solutions there are a few threats that may impact successful integration and adoption. Based on stakeholder research, insights gleaned and our holistic audit approach we've identified 9 considerations.&#x20;
+The success of a system or program is not only dependent on the technology itself, but all of the people and processes surrounding it. Based on stakeholder research, we've identified 9 threats to success that will directly impact the integration and adoption of a technology solution.&#x20;
+
+> ### <mark style="color:blue;">In order to foster holistic security, we must broaden our scope beyond system vulnerabilities and cybersecurity threats to technology. We must also acknowledge and address the threats introduced by the people and processes involved.</mark>
 
 <figure><img src="../.gitbook/assets/threatstosuccess-01.jpg" alt=""><figcaption><p><a href="threats-to-success.md">Threats to Success executive summary presentation</a></p></figcaption></figure>
 
-
-
-## The Nine Threats to Success of Digital Transformation&#x20;
-
-<mark style="background-color:purple;">View the full visual presentation highlighting threats to success through the video and following slides.</mark>
-
-{% embed url="https://youtu.be/BewPyADnpMs" %}
+<mark style="background-color:purple;">View the full visual presentation highlighting threats to success through the following slides:</mark>
 
 {% file src="../.gitbook/assets/Exec Sum_ Threats to Success [April 2024].pdf" %}
+
+## The Nine Threats to Success of Digital Transformation&#x20;
 
 ### <mark style="color:yellow;">1. Insufficient Buy-In</mark>
 

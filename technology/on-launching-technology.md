@@ -1,22 +1,29 @@
 ---
 description: >-
-  A review of technical findings of our recent evaluations for internal product
-  managers and technical teams that participate in the software product
-  lifecycle
-cover: >-
-  https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxsYXVuY2h8ZW58MHx8fHwxNzE1MjA1NjU0fDA&ixlib=rb-4.0.3&q=85
-coverY: 0
+  A review of technical findings from our recent quality assessments for
+  internal product managers and technical teams that participate in the software
+  product lifecycle
 ---
 
-# On Launching Technology
+# Our Technical Findings
 
-{% embed url="https://youtu.be/x0NqUkAw2Gs" %}
+{% hint style="success" %}
+Most relevant for 💭 [Visionaries](../get-started.md#visioning) and 🔥 [Advisors](../get-started.md#advising)
+{% endhint %}
 
-Evaluations were conducted on four software projects that provide solutions in the realm of ICT4D. These projects were evaluated to assess their fitness for purpose, readiness for enhancement, maintainability, performance, and security.
+{% embed url="https://www.youtube.com/watch?v=FuHC2CDMmQ8" %}
 
-The evaluations involved a comprehensive review of the projects' documentation, source code, and deployment environments. Security audits were conducted to uncover vulnerabilities, and penetration testing was performed to assess the systems' resilience against cyberattacks. The evaluations also examined the projects' software development practices, including testing procedures and DevSecOps methodologies.
+Technical assessments were conducted on four software projects that provide solutions in the realm of ICT4D. These projects were reviewed to assess their fitness for purpose, readiness for enhancement, maintainability, performance, and security.
 
-Based on the evaluation findings, several recommendations were made to improve the security and reliability of the projects. These recommendations included implementing secure deployment practices, prioritizing traffic protection, developing comprehensive test plans, eliminating hard-coded credentials, and protecting against supply chain attacks. Additionally, recommendations were made to address specific vulnerabilities identified during the evaluations, such as improving exception logging and prioritizing input sanitization.
+The technical assessments involved a comprehensive review of the projects' documentation, source code, and deployment environments. Security audits were conducted to uncover vulnerabilities, and penetration testing was performed to assess the systems' resilience against cyberattacks. The assessments also examined the projects' software development practices, including testing procedures and DevSecOps methodologies.
 
-## In the following sections, we will provide generalized versions of the recommendations made to these projects, that we feel are widely applicable to any ICT4D implementation.
+Based on the findings, several recommendations were made to improve the security and reliability of the projects. These recommendations included implementing secure deployment practices, prioritizing traffic protection, developing comprehensive test plans, eliminating hard-coded credentials, and protecting against supply chain attacks. Additionally, recommendations were made to address specific vulnerabilities identified during the assessments, such as improving exception logging and prioritizing input sanitization.
+
+{% hint style="info" %}
+<mark style="background-color:purple;">In the</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**Technology**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">section you will...</mark>
+
+* Read recommendations and expert insights gleaned from the four assessments we completed, that we feel are widely applicable when launching any ICT4D implementation
+* Learn about useful strategies and considerations when formulating your digital transformation roadmap&#x20;
+* Learn how best to protect and secure data, inputs, and actions through source code development best practices
+{% endhint %}
 

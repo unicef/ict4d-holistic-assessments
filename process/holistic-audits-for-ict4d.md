@@ -1,30 +1,39 @@
 ---
 description: >-
-  A reference for performing a wide-ranging, interconnecting technical,
-  security, and privacy quality assessments for Information and Communications
-  Technology for Development
-cover: >-
-  https://images.unsplash.com/photo-1554224155-6726b3ff858f?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxhdWRpdHxlbnwwfHx8fDE3MTUyMDU2MzR8MA&ixlib=rb-4.0.3&q=85
-coverY: 0
+  A guide for conducting comprehensive, interconnected assessments of technical,
+  security, and privacy aspects in Information and Communications Technology for
+  Development (ICT4D)
+cover: ../.gitbook/assets/UNI401440-Viet-Hung.jpg
+coverY: -154
 ---
 
-# Holistic Audits Approach
+# Holistic Assessment Approach
 
-Holistic audits are comprehensive evaluations that examine an organization or system in its entirety, rather than focusing on specific components in isolation. The goal of a holistic audit is to understand the interconnections and overall functioning of all aspects of the entity being audited. This approach ensures that all relevant factors are considered, leading to more thorough and meaningful insights.
+{% hint style="success" %}
+Most relevant for 💭 [Visionaries](../get-started.md#visioning), 🔥 [Advisors](../get-started.md#advising) and 🔍 [Technical Evaluators](../get-started.md#evaluating)
+{% endhint %}
 
-## <mark style="background-color:purple;">In this section you will...</mark>
+Holistic technical assessments are comprehensive reviews that examine an organization or system in its entirety, rather than focusing on specific components in isolation. The goal of a holistic assessment is to understand the interconnections and overall functioning of all aspects of the entity being reviewed. This approach ensures that all relevant factors are considered, leading to more thorough and meaningful insights.
 
-* Learn about our methodology for engaging in Holistic Audits
+{% embed url="https://www.youtube.com/watch?v=t-HhOSPj8QY" %}
+
+{% hint style="info" %}
+<mark style="background-color:purple;">In the</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**Process**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">section you will...</mark>
+
+* Learn about our methodology for engaging in Holistic Technical Assessments
 * Reflect on useful building blocks to employ
-* Take a deep dive into the Holistic Audit components, with an example timeline of steps&#x20;
-* Be provided a list of recommended tools and skillsets or expertise we suggest using
-* Access to a Sample Evaluation Template <mark style="color:green;">(available for download)</mark>
+* Take a deep dive into the Holistic Assessment components, with an example timeline of steps&#x20;
+* Be provided a list of recommended skillsets or expertise we suggest using
+* Access to a Sample Quality Technical Assessment Template <mark style="color:green;">(available for download)</mark>
+{% endhint %}
 
-{% embed url="https://www.youtube.com/watch?v=SfxmFsXiEEU" %}
+
+
+<figure><img src="../.gitbook/assets/building blocks.png" alt=""><figcaption></figcaption></figure>
 
 ## The Building Blocks
 
-As a foundation to this process, we begin by reflecting upon useful building blocks that should be both employed by an audit, and in the solution being audited.
+As a foundation to this process, we begin by reflecting upon useful building blocks that should be both employed by an assessment, and in the solution being assessed.
 
 ### Needs Assessment
 
