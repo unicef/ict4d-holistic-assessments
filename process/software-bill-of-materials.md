@@ -4,9 +4,7 @@ description: Understanding the ingredients and sources is key to avoid "upstream
 
 # Software Bill of Materials
 
-{% hint style="success" %}
-Most relevant for 🔍 [Technical Evaluators](../get-started.md#evaluating)
-{% endhint %}
+<i>Most relevant for 🔍 [Technical Evaluators](../get-started.md#evaluating)</i>
 
 [Software Bill of Materials (SBOM)](https://www.linuxfoundation.org/research/the-state-of-software-bill-of-materials-sbom-and-cybersecurity-readiness) is a list of all the [open source and third-party components](https://scribesecurity.com/sbom/sample-sbom/) present in a codebase. An SBOM also lists the licenses that govern those components, the versions of the components used in the codebase, and their patch status, which allows security teams to quickly identify any associated security or license risks. There a [few standardized formats](https://scribesecurity.com/sbom/standard-formats/) that exist for SBOMs.
 

@@ -21,4 +21,4 @@ In order to fully review the solution, the Assessment Team asks the Solution Ven
 
 
 
-{% file src="../../../.gitbook/assets/Requested Assets.pdf" %}
+[Requested Assets PDF](../../../.gitbook/assets/Requested Assets.pdf)

@@ -4,9 +4,7 @@ description: A set of recommended knowledge areas for web-based technology asses
 
 # Recommended Skillsets
 
-{% hint style="success" %}
-Most relevant for 🔥 [Advisors](../get-started.md#advising)&#x20;
-{% endhint %}
+<i>Most relevant for 🔥 [Advisors](../get-started.md#advising)&#x20;</i>
 
 When performing a holistic assessment of a web-based technology product or platform, knowledge of the following areas are useful:
 

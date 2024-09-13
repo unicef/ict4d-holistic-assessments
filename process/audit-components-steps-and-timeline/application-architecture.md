@@ -12,13 +12,13 @@ The process also takes into account longevity and adaptability over nearly the l
 
 In the review process, extensive documentation and source code are analyzed, and development environments are deployed using using tools provided by the solution.&#x20;
 
-<figure><img src="../../.gitbook/assets/OpenCRVSApplicationArchitecture.png" alt=""><figcaption><p><a href="https://documentation.opencrvs.org/technology/architecture">Example Application Architecture from OpenCRVS</a> </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/OpenCRVSApplicationArchitecture.png" alt="" width="100%"><figcaption><p><a href="https://documentation.opencrvs.org/technology/architecture">Example Application Architecture from OpenCRVS</a> </p></figcaption></figure>
 
 ### The architecture audit also focuses on how the solution can be configured and extended, especially considering its the specific user stories and needs that need to be satisfied.&#x20;
 
 Technical sophistication required for configuration and extension is also considered, and how that process is supported by detailed documentation and tutorials. It is key to understand if only developers can extend a platform or solution, or if it is open to non-developers, as well. Testing any core functionality extensions through creating custom applications, can also help understand the solution's flexibility.&#x20;
 
-<figure><img src="https://lh7-us.googleusercontent.com/lesNZ6_61zyv3hdbSvD-NVlwVpiFqWwXFTqFpRv01B57EPrlefpIBsDwt7qp8nVYimlQB9SIy7p3LgiCv7AgVmpcaDOfxPsI3jzDf7f157LRgDMPrM3ezuN1f1I0BEaFyoSPL7LCRpTecvskah32b7s" alt=""><figcaption><p>A diagram on building and bundling custom applications for <a href="https://dhis2.org/">DHIS2</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dhis-diagram.png" alt="" width="100%"><figcaption><p>A diagram on building and bundling custom applications for <a href="https://dhis2.org/">DHIS2</a></p></figcaption></figure>
 
 Lastly, the review assesses the solution's potential for scalability and performance at larger scales. This includes whether the solution is more inclined for verticial or horizontal scaling.
 
