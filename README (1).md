@@ -4,20 +4,6 @@ description: >-
   sustainability of ICT4D technology.
 cover: .gitbook/assets/UN0803447-Naftalin.jpg
 coverY: -56
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Introduction to the Project
