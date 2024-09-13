@@ -6,15 +6,13 @@ description: >-
 
 # Beyond Technology
 
-{% hint style="success" %}
-Most relevant for 💭 [Visionaries](../get-started.md#visioning) and 🔥 [Advisors](../get-started.md#advising)&#x20;
-{% endhint %}
+<i>Most relevant for 💭 [Visionaries](../get-started.md#visioning) and 🔥 [Advisors](../get-started.md#advising)&#x20;</i>
 
 When collaborating with governments on Digital Transformation, the process extends beyond mere technology implementation.
 
 > “The technical system itself is pretty straightforward. It’s everything surrounding it \[that makes it complex].” —Research Participant
 
-<figure><img src="../.gitbook/assets/beyond tech.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/beyond tech.png" alt="" width="100%"><figcaption></figcaption></figure>
 
 ## An Enabling Environment
 

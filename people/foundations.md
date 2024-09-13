@@ -4,19 +4,15 @@ description: Who may be involved in decisions and/or operations around a holisti
 
 # Foundations
 
-{% hint style="success" %}
-Most relevant for 💭 [Visionaries](../get-started.md#visioning), 🔥 [Advisors](../get-started.md#advising) and 🔍 [Technical Evaluators](../get-started.md#evaluating)
-{% endhint %}
+<i>Most relevant for 💭 [Visionaries](../get-started.md#visioning), 🔥 [Advisors](../get-started.md#advising) and 🔍 [Technical Evaluators](../get-started.md#evaluating)</i>
 
-{% hint style="info" %}
-<mark style="background-color:purple;">In the</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**People**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">section you will...</mark>
+<mark style="color:purple;">In the</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**People**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">section you will...</mark>
 
 * Learn about the stakeholders integral to a digital transformation process
 * Read our in-depth research study conducted with people in the field to better understand the eCRVS landscape
 * Access a list of threats which can undermine your projects success
-{% endhint %}
 
-{% embed url="https://www.youtube.com/watch?v=IUWogU7GkGs" %}
+{{< video https://www.youtube.com/watch?v=IUWogU7GkGs >}}
 
 Let's first start with a foundational understanding of who may be involved in Digital Transformation projects, as partnerships with governments, civil society groups, academia, non-governmental organizations, private sector entities, and communities remain central to UNICEF’s approach. In our research, we found that there are several different stakeholders involved in Digital Transformation processes, and that they may be unique for each engagement. We categorize stakeholders into five roles:
 
@@ -34,7 +30,7 @@ The people within these categories will certainly be different depending on the 
 
 Typically the government takes the lead and is the primary decision maker. They are supported by sponsors, advisors, and technical experts who offer guidance, financial support, and essential services. Different ministries and offices within a government are involved in Digital Transformation projects.
 
-<figure><img src="../.gitbook/assets/gov.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gov.png" alt="" width="100%"><figcaption></figcaption></figure>
 
 
 
@@ -48,7 +44,7 @@ Typical way UNICEF advises:
 
 Other Advisors may also be involved. Outside of UNICEF, other civil organizations and sponsors provide guidance and funding. They include, but are not limited to World Bank, Plan International, Vital Strategies, and UN ESCAP (Economic and Social Commission for Asia and the Pacific).
 
-<figure><img src="../.gitbook/assets/ad unicef.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ad unicef.png"  width="100%" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -65,7 +61,7 @@ Technology stakeholders that may be involved include:
 * System integrator&#x20;
 * Entry-level developers
 
-<figure><img src="../.gitbook/assets/tech imp.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tech imp.png" alt=""  width="100%"><figcaption></figcaption></figure>
 
 
 
@@ -73,7 +69,7 @@ Technology stakeholders that may be involved include:
 
 The individuals responsible for recording the registrations and vital statistics are key stakeholders. These people are unique in each country, but can include nurses, community health workers and tribal chiefs.
 
-<figure><img src="../.gitbook/assets/field worker.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/field worker.png" alt=""  width="100%"><figcaption></figcaption></figure>
 
 
 
@@ -81,7 +77,7 @@ The individuals responsible for recording the registrations and vital statistics
 
 Citizens are a key stakeholder, as the success of a programme is dependent on their involvement. Among those responsible for registration are parents of newborns, immigrants, urban dwellers, as well as families and individuals residing in remote villages or mountainous regions.
 
-<figure><img src="../.gitbook/assets/citizen.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/citizen.png" alt=""  width="100%"><figcaption></figcaption></figure>
 
 
 

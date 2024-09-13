@@ -7,6 +7,8 @@ coverY: 0
 
 This work was [commissioned by UNICEF](<../README (1).md#background>).  In the context of digital transformation, stakeholders encompass a spectrum of actors, including government, advisors and sponsors, technology implementers, field and office workers, and citizens.
 
+<img src="../.gitbook/assets/UN0596494-Siakachoma.jpg" width="100%"/>
+
 The choice a government makes about which technology solution or approach to take influences who is involved, specifically for technology implementation. Though, it can also affect who is involved in the early stages of conceptualizing the system. Throughout this work it is noted that a range of stakeholders are or should be involved in a Digital Transformation process.
 
 Our guides have a focused lens of assisting these specific audiences through the process of digital transformation initiatives: &#x20;
