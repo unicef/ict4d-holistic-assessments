@@ -50,25 +50,27 @@ website:
     contents:
       - file: overview.md
 
-      - section: "Introduction"
+      - section: "Introduction to the Project"
         contents: readme/*
 
-      - file: about-guardian-project.md
+      - file: get-started.md
       - file: perspectives-in-four-ways.md
-      - file: glossary.md
 
-      - section: "People: Understanding Through Discussion and Discovery"
+      - section: "People"
         contents: people/*
       
-      - section: "Process: Holistic Audits on ICT4D"
+      - section: "Process"
         contents: process/*
       
-      - section: "Technology: Launching and Deploying" 
+      - section: "Technology"
         contents: technology/*
       
       - section: "Partners"
         contents: partners/*
   
+      - file: glossary.md
+      - file: attributions.md
+
   page-footer: |
     [Holistic Audits on ICT4D](https://unicef.github.io/holistic-audits-on-ict4d) © 2024 by [UNICEF](https://www.unicef.org) 
     <br> Licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1) | [Privacy policy](/privacy.qmd) 
