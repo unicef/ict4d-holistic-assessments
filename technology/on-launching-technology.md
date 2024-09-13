@@ -7,11 +7,9 @@ description: >-
 
 # Our Technical Findings
 
-{% hint style="success" %}
-Most relevant for 💭 [Visionaries](../get-started.md#visioning) and 🔥 [Advisors](../get-started.md#advising)
-{% endhint %}
+<i>Most relevant for 💭 [Visionaries](../get-started.md#visioning) and 🔥 [Advisors](../get-started.md#advising)</i>
 
-{% embed url="https://www.youtube.com/watch?v=FuHC2CDMmQ8" %}
+{{< video https://www.youtube.com/watch?v=FuHC2CDMmQ8 >}}
 
 Technical assessments were conducted on four software projects that provide solutions in the realm of ICT4D. These projects were reviewed to assess their fitness for purpose, readiness for enhancement, maintainability, performance, and security.
 
@@ -19,11 +17,9 @@ The technical assessments involved a comprehensive review of the projects' docum
 
 Based on the findings, several recommendations were made to improve the security and reliability of the projects. These recommendations included implementing secure deployment practices, prioritizing traffic protection, developing comprehensive test plans, eliminating hard-coded credentials, and protecting against supply chain attacks. Additionally, recommendations were made to address specific vulnerabilities identified during the assessments, such as improving exception logging and prioritizing input sanitization.
 
-{% hint style="info" %}
-<mark style="background-color:purple;">In the</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">**Technology**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">section you will...</mark>
+<mark style="color:purple;">In the</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Technology**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">section you will...</mark>
 
 * Read recommendations and expert insights gleaned from the four assessments we completed, that we feel are widely applicable when launching any ICT4D implementation
 * Learn about useful strategies and considerations when formulating your digital transformation roadmap&#x20;
 * Learn how best to protect and secure data, inputs, and actions through source code development best practices
-{% endhint %}
 

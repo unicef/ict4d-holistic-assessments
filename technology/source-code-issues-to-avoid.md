@@ -4,9 +4,7 @@ description: Risky and vulnerability-prone areas of concern for software source 
 
 # Source Code Conundrums
 
-{% hint style="success" %}
-Most relevant for 🔍 [Technical Evaluators](../get-started.md#evaluating)
-{% endhint %}
+<i>Most relevant for 🔍 [Technical Evaluators](../get-started.md#evaluating)</i>
 
 The insights below on how best to protect and secure data, inputs, and actions through source code development best practices, were aggregated from the results of the [4 holistic assessments on partner solutions](../partners/partner-assessments/) performed as part of this process.
 

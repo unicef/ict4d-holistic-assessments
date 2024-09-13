@@ -4,15 +4,13 @@ description: How and where your infrastructure and devices are hosted and operat
 
 # Physical Realities
 
-{% hint style="success" %}
-Most relevant for 🔍 [Technical Evaluators](../get-started.md#evaluating)
-{% endhint %}
+<i>Most relevant for 🔍 [Technical Evaluators](../get-started.md#evaluating)</i>
 
 While many technology startups and services can fully embrace the opaque virtualization of modern cloud service infrastructure, when it comes to personal, private, and health data, and other ICT4D applications, you need to be more careful. Fully considering how and where your infrastructure is hosted, and where physical devices like laptops, tablets, and smartphones will be used is an absolute requirement when launching new technology.
 
 
 
-<img src="../.gitbook/assets/file.excalidraw (1).svg" alt="a spectrum of physicality" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.excalidraw (1).svg" width="100%" alt="a spectrum of physicality" class="gitbook-drawing">
 
 ### Self-Hosted
 

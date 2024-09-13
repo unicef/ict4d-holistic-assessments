@@ -1,12 +1,12 @@
 # "The Turn-Key Solution"
 
-<figure><img src="../../.gitbook/assets/tech-1 turnkey.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tech-1 turnkey.png" alt="" width="100%"><figcaption></figcaption></figure>
 
 _This solution is "turn key" in that it provides an out of the box, off-the-shelf ready for production set of features and capabilities. The work to be done is in configuration and deployment, and not in customization or software development._
 
 
 
-<mark style="background-color:purple;">🕵️T</mark><mark style="background-color:purple;">**he Assessment Outcome**</mark>
+<mark style="color:purple;">🕵️T</mark><mark style="color:purple;">**he Assessment Outcome**</mark>
 
 We found this solution to be stable and ready for implementation. It has excellent documentation for implementers, is interoperable with many e-government solutions, and focuses on real-world workflows with a supportive team. The reliance on third-party dependencies is commonplace, and the choice of microservices makes for a flexible and extensible solution. While there are areas for improvement outlined in the document, they do not detract from the overall positive assessment.&#x20;
 

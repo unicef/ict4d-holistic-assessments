@@ -7,9 +7,7 @@ description: >-
 
 # 📸 Attributions
 
-{% hint style="danger" %}
-[Pexels](https://www.pexels.com/) photos do not require attribution
-{% endhint %}
+<i>[Pexels](https://www.pexels.com/) photos do not require attribution</i>
 
 ## [Welcome](attributions.md#welcome)
 
@@ -72,5 +70,5 @@ _Coming soon..._
 
 All graphics were created by [Okthanks](https://app.gitbook.com/u/tw7p5WS52mUcIWMewKjDScJXV7y2) and [Guardian Project](https://app.gitbook.com/u/55f96413e17f0c10005b53ca). Graphics are protected under the [Creative Commons License ](https://creativecommons.org/share-your-work/cclicenses/)(CC) and <mark style="color:green;">available for download and use.</mark>&#x20;
 
-{% file src=".gitbook/assets/Graphics-20240724T193134Z-001.zip" %}
+[Download All Graphics Zip](.gitbook/assets/Graphics-20240724T193134Z-001.zip)
 

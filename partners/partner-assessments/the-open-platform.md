@@ -1,12 +1,12 @@
 # "The Open Platform"
 
-<figure><img src="../../.gitbook/assets/tech-2 open.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tech-2 open.png" alt="" width="100%"><figcaption></figcaption></figure>
 
 _This solution is an "open platform" in that it provides a foundation for almost any kind of health and data application to be built upon. The work to be done is NOT ONLY configuration and deployment, but also customization and software development. However, there is also an ecosystem of third-party solutions and vendors that can be utilized to build a complete solution._
 
 
 
-<mark style="background-color:purple;">🕵️T</mark><mark style="background-color:purple;">**he Assessment Outcome**</mark>
+<mark style="color:purple;">🕵️T</mark><mark style="color:purple;">**he Assessment Outcome**</mark>
 
 We found this solution to be stable and ready for implementation. It is a free, open-source software platform designed for reporting, collecting, analyzing, and disseminating individual-level and aggregated data. Although not specifically designed for the specific area of function we were assessing (Civil Registration and Vital Statistics or [CRVS](../../glossary.md)), it can integrate with many systems or be extended to include custom features and applications. Implementing interoperability can be costly in terms of both initial integration and long-term operation and maintenance. We also assessed the additional costs associated with combining this software with an external system.
 

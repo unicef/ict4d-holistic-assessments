@@ -6,9 +6,7 @@ description: >-
 
 # Checklist for Success
 
-{% hint style="success" %}
-Most relevant for 💭 [Visionaries](../get-started.md#visioning) and 🔥 [Advisors](../get-started.md#advising)&#x20;
-{% endhint %}
+<i>Most relevant for 💭 [Visionaries](../get-started.md#visioning) and 🔥 [Advisors](../get-started.md#advising)&#x20;</i>
 
 * [ ] <mark style="background-color:yellow;">**Comprehensive, Robust, Accessibly Written Documentation**</mark>
   * How to Install Guides & User Guides make the reader prepared and the process more attainable
