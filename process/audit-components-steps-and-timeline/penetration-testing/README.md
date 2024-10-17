@@ -22,5 +22,5 @@ Through this work, we have been introducing the idea of implementing continuous,
 
 Automated cloud testing infrastructure can help you maintain "year-round compliance" for standards that include ISO, SOC2, GDPR, CIS, and HIPAA. It can also help you identity and address any new [Common Vulnerabilities and Exposures (CVE)](https://www.cve.org/) in "real-time" through continuous scans and regression testing.
 
-_See the_ [_Resources_ ](../../../resource-links-and-tools/)_section for more information on specific tool and service recommendations._&#x20;
+_See the_ [_Resources_ ](../../../resources-links-and-tools/)_section for more information on specific tool and service recommendations._&#x20;
 
