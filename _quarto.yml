@@ -1,6 +1,8 @@
 project:
   type: website
-
+  resources: 
+    - assets/reports/*
+    - assets/videos/*
 metadata-files:
   - _website.yml
   
