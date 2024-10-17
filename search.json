@@ -829,7 +829,17 @@
     "href": "process/evaluation-template.html",
     "title": "⬇️ Sample Technical Assessment Template",
     "section": "",
-    "text": "⬇️ Sample Technical Assessment Template\nOur full holistic technical assessment sample template is available for download and re-use (or even just as simple inspiration) in DOCX and PDF format. \nDownload our Assessment Template PDF",
+    "text": "Our full holistic technical assessment sample template is available for download and re-use (or even just as simple inspiration) in DOCX and PDF format. \nDownload our Assessment Template PDF\n\n\nDownload OpenCRVS Report\nDownload DHIS2 Report",
+    "crumbs": [
+      "⬇️ Sample Technical Assessment Template"
+    ]
+  },
+  {
+    "objectID": "process/evaluation-template.html#reports",
+    "href": "process/evaluation-template.html#reports",
+    "title": "⬇️ Sample Technical Assessment Template",
+    "section": "",
+    "text": "Download OpenCRVS Report\nDownload DHIS2 Report",
     "crumbs": [
       "⬇️ Sample Technical Assessment Template"
     ]
