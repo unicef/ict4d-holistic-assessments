@@ -4,7 +4,7 @@ description: Four examples of partner solutions that were reviewed, and what we 
 
 # Partner Assessments
 
-<i>Most relevant for 💭 [Visionaries](../../get-started.md#visionaries), 🔥 [Advisors](../../get-started.md#advising) and 🔍 [Technical Evaluators](../../get-started.md#evaluating)</i>
+<i>Most relevant for 💭 [Visionaries](../../get-started.md#visionaries), 🔥 [Advisors](../../get-started.md#advisors) and 🔍 [Technical Evaluators](../../get-started.md#evaluating)</i>
 
 Holistic technical assessments were conducted on four software projects that provide solutions in the realm of ICT4D. These projects were reviewed to assess their fitness for purpose, readiness for enhancement, maintainability, performance, and security.
 

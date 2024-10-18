@@ -4,7 +4,7 @@ description: Project and engineering management best practices to review and con
 
 # Management Strategies
 
-<i>Most relevant for 🔥 [Advisors](../get-started.md#advising)</i>
+<i>Most relevant for 🔥 [Advisors](../get-started.md#advisors)</i>
 
 By implementing the following recommendations, technical planning and engineering management processes can benefit from the strengths and avoid the pitfalls identified in the architecture audits we completed. This approach leads to more secure, reliable, and sustainable systems.
 

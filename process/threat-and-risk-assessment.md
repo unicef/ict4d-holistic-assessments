@@ -4,7 +4,7 @@ description: Threats and Risk exist; What matters is how you are prepared to res
 
 # Threat Modeling and Mitigations
 
-<i>Most relevant for 🔥 [Advisors](../get-started.md#advising) and 🔍 [Technical Evaluators](../get-started.md#evaluating)</i>
+<i>Most relevant for 🔥 [Advisors](../get-started.md#advisors) and 🔍 [Technical Evaluators](../get-started.md#evaluating)</i>
 
 As discussed in the [introduction to this section](holistic-audits-for-ict4d.md), threat modeling is a process of identifying, analyzing, and prioritizing the potential security threats and vulnerabilities in a software system. In response to those threats, risk mitigation offers a process of designing, implementing, and otherwise taking steps to reduce or eliminate identified risks (threats and vulnerabilities!) in a software development project or technology solution.
 

@@ -4,7 +4,7 @@ description: Considerations for a better outcome
 
 # Threats to Success
 
-<i>Most relevant for 💭 [Visionaries](../get-started.md#visionaries) and 🔥 [Advisors](../get-started.md#advising)&#x20;</i>
+<i>Most relevant for 💭 [Visionaries](../get-started.md#visionaries) and 🔥 [Advisors](../get-started.md#advisors)&#x20;</i>
 
 The success of a system or program is not only dependent on the technology itself, but all of the people and processes surrounding it. Based on stakeholder research, we've identified 9 threats to success that will directly impact the integration and adoption of a technology solution.&#x20;
 
