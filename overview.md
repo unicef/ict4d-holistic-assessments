@@ -19,7 +19,7 @@ While there are some more thoughts on [Who We Aim To Help](readme/who-we-aim-to-
 
 Our approach and guiding ethos has been divided into four sections; People, Process, Technology and Partners. Within each section you'll find useful content, practical guidance and tangible takeaways that can help you or your team make informed decisions at various points in the ICT4D process.
 
-### [<mark style="color:orange;">People</mark>](./#people)
+### [<mark class="orange">People</mark>](./#people)
 
 In the [People section](broken-reference) we explore the complex relationships and necessary stakeholders who make a digital transformation process successful. Understand who plays a key role when and where in the process while gleaning insights from our research study to help guide your plan for engagement.&#x20;
 
@@ -31,7 +31,7 @@ In the [Process section](broken-reference) we dive deeper into the nuts & bolts 
 
 In the [Technology section](broken-reference) we share insights and our experiential technical knowledge (with a focus on security and privacy) relevant to designing your development and implementation roadmap and decision-making processes. Understand more about technical best practices and valuable components for a successful engagement.&#x20;
 
-### [<mark style="color:red;">Partners</mark>](./#partners)
+### [<mark class="red">Partners</mark>](./#partners)
 
 In the [Partners section](broken-reference) you will learn about what to look for when choosing a partner and take a closer look into the four assessments we performed under this project. Read about real-life examples to understand further the vendor engagement and assessment process.&#x20;
 

@@ -6,7 +6,7 @@ Regardless of where you are in the process, we can help you get started. Keep re
 
 <figure><img src=".gitbook/assets/get started-assessment.png" alt="" width=100%><figcaption></figcaption></figure>
 
-### <mark style="background-color:yellow;">💭 Visionaries</mark>
+### <mark class="yellow-bg">💭 Visionaries</mark>
 
 <i>Look for the 💭 emoji to find relevant content.</i>
 
@@ -17,7 +17,7 @@ If you are starting a new project...
 
 
 
-### 🔥 <mark style="background-color:yellow;">Advisors</mark>
+### 🔥 <mark class="yellow-bg">Advisors</mark>
 
 <i>Look for the 🔥 emoji to find relevant content.</i>
 
@@ -28,7 +28,7 @@ If you are advising on an existing project...
 
 
 
-### <mark style="background-color:yellow;">🔍 Technical Evaluators</mark>
+### <mark class="yellow-bg">🔍 Technical Evaluators</mark>
 
 <i>Look for the 🔍 emoji to find relevant content.</i>
 

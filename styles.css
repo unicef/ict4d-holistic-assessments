@@ -5,15 +5,23 @@ mark.purple {
 }
 
 mark.red {
-  color: rgb(239, 68, 68)
+  color: rgb(239, 68, 68);
   background-color: unset;
 }
 
+mark.orange {
+  color: #F26A21;
+  background-color: unset;
+}
 
 mark.blue {
   color: rgb(59, 130, 246);
   background-color: unset;
 }
+
+mark.yellow-bg {
+  background-color: rgb(253, 249, 232);
+} 
 
 .nav-link.active > .menu-text {
   font-weight: bold;

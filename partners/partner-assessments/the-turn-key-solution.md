@@ -16,8 +16,8 @@ As a relatively new entrant to the market, the product may not be as flexible or
 
 During the first assessment, we encountered vulnerabilities within the source code, the version of nodeJS it is built upon, and the security of deployment configurations. These issues were expected at this stage of the project.&#x20;
 
-<mark style="background-color:yellow;">**🖍 Recommendations & Actions:**</mark>&#x20;
+<mark class="yellow-bg">**🖍 Recommendations & Actions:**</mark>&#x20;
 
 Fixes were implemented, nodeJS was updated, and deployment configurations were improved, indicating a healthy project ready to face real-world challenges. Despite these positive developments, we have concerns about improving the documentation to enable self-service deployment. To scale up effectively, it is essential to ensure the solution can be deployed in a repeatable, reliable, private, and secure manner by qualified individuals. The commitment to open, quality documentation is evident, but some confusing aspects need to be clarified, additional pieces provided, and improved scripts and deployment tools developed.
 
-> ### <mark style="background-color:yellow;">**We were pleasantly surprised by how engaged and positive the team was in reviewing and addressing these issues**</mark><mark style="background-color:yellow;">.</mark>&#x20;
+> ### <mark class="yellow-bg">**We were pleasantly surprised by how engaged and positive the team was in reviewing and addressing these issues**</mark><mark class="yellow-bg">.</mark>&#x20;

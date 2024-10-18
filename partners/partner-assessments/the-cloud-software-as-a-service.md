@@ -20,6 +20,6 @@ The underlying platform was well-designed for data collection requirements, faci
 
 While there were a small amount of identified vulnerabilities, the solutions approach to transparency, regular maintenance and ongoing releases through the Software as a Service mode, gave us confidence about its resilience and reliability.&#x20;
 
-<mark style="background-color:yellow;">**🖍 Recommendations & Actions:**</mark>&#x20;
+<mark class="yellow-bg">**🖍 Recommendations & Actions:**</mark>&#x20;
 
 Despite its numerous benefits, it’s important to acknowledge that opting for a custom-built solution requires allocating resources such as time, finances, human capital, and ongoing support from vendors to effectively design and implement a solution tailored to the organization’s specific requirements.
