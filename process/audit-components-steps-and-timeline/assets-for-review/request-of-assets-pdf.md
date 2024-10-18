@@ -21,4 +21,7 @@ In order to fully review the solution, the Assessment Team asks the Solution Ven
 
 
 
-[Requested Assets PDF](../../../.gitbook/assets/Requested Assets.pdf)
+
+[ <i class="bi bi-cloud-download"></i>
+ Download Requested Assets PDF](../../../.gitbook/assets/Requested Assets.pdf){.btn-action-primary .btn .btn-outline-primary .btn-lg role="button"}
+
