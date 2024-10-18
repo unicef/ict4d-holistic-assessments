@@ -1,7 +1,8 @@
+
 .nav-link.active > .menu-text {
   font-weight: bold;
   color: #961A49;
-  text-decoration: none
+  text-decoration: none;
 }
 
 .nav-link.active > .menu-text:hover {
@@ -12,11 +13,14 @@
   text-decoration: underline;
   color: #961A49;
 }
-/* Make the text 'People: Understanding through discussion and discovery' red */
+/* Make the text */
 .sidebar-item-section > .sidebar-item-container > a:first-child .menu-text {
+  font-weight: bold; 
+  font-size: 1rem;
+}
 
-  font-weight: bold;
-  
+.sidebar-item-container {
+  margin-top: .5rem
 }
 
 /* Make the text 'Stakeholder Experiences' black */
