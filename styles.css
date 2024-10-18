@@ -1,3 +1,12 @@
+i.relevant {
+  display: block;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  border-radius: 0.25rem;
+  background-image: linear-gradient(rgba(63, 137, 161, 0.16), rgba(63, 137, 161, 0.12))
+}
 
 mark.purple {
   color: rgb(168, 85, 247);

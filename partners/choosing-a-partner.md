@@ -6,7 +6,7 @@ description: >-
 
 # Choosing a Partner
 
-<i>Most relevant for 💭 [Visionaries](../get-started.md#visionaries), 🔥 [Advisors](../get-started.md#advisors) and 🔍 [Technical Evaluators](../get-started.md#technical-evaluators)
+<i class="relevant">Most relevant for 💭 [Visionaries](../get-started.md#visionaries), 🔥 [Advisors](../get-started.md#advisors) and 🔍 [Technical Evaluators](../get-started.md#technical-evaluators)
 </i>
 
 {{< video https://www.youtube.com/watch?v=n5oteRvwC3Q >}}
