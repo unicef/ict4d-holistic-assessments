@@ -57,14 +57,14 @@ website:
       - file: get-started.md
       - file: perspectives-in-four-ways.md
 
-      - section: "People"
+      - section: "🧑‍🤝‍🧑 People"
         contents:
         - people/foundations.md
         - people/stakeholder-experiences.md
         - people/beyond-technology.md
         - people/threats-to-success.md
       
-      - section: "Process"
+      - section: "🧗 Process"
         contents:
         - process/holistic-audits-for-ict4d.md      
         - process/threat-and-risk-assessment.md 
@@ -86,14 +86,14 @@ website:
           - process/audit-components-steps-and-timeline/development-and-secure-operations/devsecops-checklist-slide-deck.md
         - file: process/evaluation-template.md     
 
-      - section: "Technology"
+      - section: "🚀 Technology"
         contents:
         - technology/on-launching-technology.md
         - technology/beauty-and-flaws-of-architecture.md
         - technology/source-code-issues-to-avoid.md
         - technology/physical-realities.md
       
-      - section: "Partners"
+      - section: "🏫 Partners"
         contents:
         - partners/choosing-a-partner.md
         - partners/checklist-for-success.md
@@ -107,10 +107,11 @@ website:
  
       - file: glossary.md
       - file: attributions.md
+      - file: license.md
 
   page-footer: |
     [Holistic Technical Assessments for ICT4D](https://unicef.github.io/ict4d-holistic-assessments) © 2024 by [UNICEF](https://www.unicef.org) 
-    <br> Licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1) | [Privacy policy](/privacy.qmd) 
+    <br> Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Privacy policy](/privacy.qmd) 
     <br>[![](/images/unicef-logo.png){fig-alt="UNICEF, for every child"}](https://www.unicef.org)
     
     
