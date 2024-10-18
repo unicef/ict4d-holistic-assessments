@@ -8,7 +8,7 @@ _This solution is an "open platform" in that it provides a foundation for almost
 [<i class="bi bi-cloud-download"></i> Download DHIS2 Report (PDF)](../../assets/reports/DHIS2-Holistic-Assessment-Report-v1-FINAL-PUBLIC.pdf){.btn-action-primary .btn .btn-warning .btn-lg role="button"}
 
 <br />
-<mark class="purple">🕵️**he Assessment Outcome**</mark>
+<mark class="purple">🕵️**The Assessment Outcome**</mark>
 
 We found this solution to be stable and ready for implementation. It is a free, open-source software platform designed for reporting, collecting, analyzing, and disseminating individual-level and aggregated data. Although not specifically designed for the specific area of function we were assessing (Civil Registration and Vital Statistics or [CRVS](../../glossary.md)), it can integrate with many systems or be extended to include custom features and applications. Implementing interoperability can be costly in terms of both initial integration and long-term operation and maintenance. We also assessed the additional costs associated with combining this software with an external system.
 

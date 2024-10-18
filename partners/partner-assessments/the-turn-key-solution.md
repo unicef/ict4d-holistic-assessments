@@ -9,7 +9,7 @@ _This solution is "turn key" in that it provides an out of the box, off-the-shel
 <br />
 <br />
 
-<mark class="purple">🕵️T**he Assessment Outcome**</mark>
+<mark class="purple">🕵️**The Assessment Outcome**</mark>
 
 We found this solution to be stable and ready for implementation. It has excellent documentation for implementers, is interoperable with many e-government solutions, and focuses on real-world workflows with a supportive team. The reliance on third-party dependencies is commonplace, and the choice of microservices makes for a flexible and extensible solution. While there are areas for improvement outlined in the document, they do not detract from the overall positive assessment.&#x20;
 
