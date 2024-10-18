@@ -4,7 +4,7 @@ description: Who may be involved in decisions and/or operations around a holisti
 
 # Foundations
 
-<i>Most relevant for 💭 [Visionaries](../get-started.md#visioning), 🔥 [Advisors](../get-started.md#advising) and 🔍 [Technical Evaluators](../get-started.md#evaluating)</i>
+<i>Most relevant for 💭 [Visionaries](../get-started.md#visionaries), 🔥 [Advisors](../get-started.md#advising) and 🔍 [Technical Evaluators](../get-started.md#evaluating)</i>
 
 <mark style="color:purple;">In the</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**People**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">section you will...</mark>
 

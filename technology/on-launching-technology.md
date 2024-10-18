@@ -7,7 +7,7 @@ description: >-
 
 # Our Technical Findings
 
-<i>Most relevant for 💭 [Visionaries](../get-started.md#visioning) and 🔥 [Advisors](../get-started.md#advising)</i>
+<i>Most relevant for 💭 [Visionaries](../get-started.md#visionaries) and 🔥 [Advisors](../get-started.md#advising)</i>
 
 {{< video https://www.youtube.com/watch?v=FuHC2CDMmQ8 >}}
 

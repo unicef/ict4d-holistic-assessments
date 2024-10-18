@@ -6,7 +6,7 @@ description: >-
 
 # Beyond Technology
 
-<i>Most relevant for 💭 [Visionaries](../get-started.md#visioning) and 🔥 [Advisors](../get-started.md#advising)&#x20;</i>
+<i>Most relevant for 💭 [Visionaries](../get-started.md#visionaries) and 🔥 [Advisors](../get-started.md#advising)&#x20;</i>
 
 When collaborating with governments on Digital Transformation, the process extends beyond mere technology implementation.
 

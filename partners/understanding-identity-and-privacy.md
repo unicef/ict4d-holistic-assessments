@@ -5,7 +5,7 @@ description: How to achieve careful success through integration and diversity
 # Managing Risk at Scale
 
 {% hint style="success" %}
-Most relevant for 💭 [Visionaries](../get-started.md#visioning) and 🔥 [Advisors](../get-started.md#advising)
+Most relevant for 💭 [Visionaries](../get-started.md#visionaries) and 🔥 [Advisors](../get-started.md#advising)
 {% endhint %}
 
 > ## <mark style="background-color:yellow;">Success is dependent upon comprehensive understanding of user needs, threat models and system architectures available within the context of the target beneficiary communities.</mark>

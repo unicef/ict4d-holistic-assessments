@@ -4,7 +4,7 @@ description: A look at stakeholder experiences in eCRVS projects
 
 # Stakeholder Experiences
 
-<i>Most relevant for 💭 [Visionaries](../get-started.md#visioning) and 🔥 [Advisors](../get-started.md#advising)&#x20;</i>
+<i>Most relevant for 💭 [Visionaries](../get-started.md#visionaries) and 🔥 [Advisors](../get-started.md#advising)&#x20;</i>
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-06-05 at 8.06.14 AM.png" alt="" width="563"><figcaption><p>Research Report Cover Page</p></figcaption></figure>
 
