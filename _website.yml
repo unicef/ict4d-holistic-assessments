@@ -109,7 +109,7 @@ website:
       - file: attributions.md
 
   page-footer: |
-    [Holistic Audits on ICT4D](https://unicef.github.io/holistic-audits-on-ict4d) © 2024 by [UNICEF](https://www.unicef.org) 
+    [Holistic Technical Assessments for ICT4D](https://unicef.github.io/ict4d-holistic-assessments) © 2024 by [UNICEF](https://www.unicef.org) 
     <br> Licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1) | [Privacy policy](/privacy.qmd) 
     <br>[![](/images/unicef-logo.png){fig-alt="UNICEF, for every child"}](https://www.unicef.org)
     
