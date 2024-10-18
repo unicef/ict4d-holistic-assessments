@@ -2,12 +2,12 @@
 
 Our full holistic technical assessment sample template is available for download and re-use (or even just as simple inspiration) in DOCX and PDF format.&#x20;
 
-[Download our Assessment Template PDF](../.gitbook/assets/[Template] Assessment Report.pdf)
+[<i class="bi bi-cloud-download"></i> Download our Assessment Template (PDF)](../.gitbook/assets/[Template] Assessment Report.pdf){.btn-action-primary .btn .btn-outline-primary .btn-lg role="button"}
 
-## Reports
+## Full Reports for reference
 
 
-[Download OpenCRVS Report](../assets/reports/OpenCRVS-Holistic-Assessment-Report-v1-FINAL-PUBLIC.pdf)
+[<i class="bi bi-cloud-download"></i> Download OpenCRVS Report (PDF)](../assets/reports/OpenCRVS-Holistic-Assessment-Report-v1-FINAL-PUBLIC.pdf){.btn-action-primary .btn .btn-outline-primary .btn-lg role="button"}
 
-[Download DHIS2 Report](../assets/reports/DHIS2-Holistic-Assessment-Report-v1-FINAL-PUBLIC.pdf)
+[<i class="bi bi-cloud-download"></i> Download DHIS2 Report (PDF)](../assets/reports/DHIS2-Holistic-Assessment-Report-v1-FINAL-PUBLIC.pdf){.btn-action-primary .btn .btn-outline-primary .btn-lg role="button"}
 

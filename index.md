@@ -27,7 +27,7 @@ In the [People section](broken-reference) we explore the complex relationships a
 
 In the [Process section](broken-reference) we dive deeper into the nuts & bolts of our methodology for Holistic Assessments. Understand more about how we approach technical assessments, the tangible process we engage in, and the recommended skillsets and pivotal principles necessary for a holistic technical assessment.&#x20;
 
-### [<mark style="color:green;">Technology</mark>](./#technology)
+### [<mark class="green">Technology</mark>](./#technology)
 
 In the [Technology section](broken-reference) we share insights and our experiential technical knowledge (with a focus on security and privacy) relevant to designing your development and implementation roadmap and decision-making processes. Understand more about technical best practices and valuable components for a successful engagement.&#x20;
 

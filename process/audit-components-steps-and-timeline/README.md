@@ -13,7 +13,7 @@ Most relevant for 🔥 [Advisors](../../get-started.md#advisors) and 🔍 [Techn
 
 Holistic assessments are increasingly important in today’s complex and interconnected business environments, where understanding the full picture is crucial for sustainable success. The components that make up a holistic assessment should reflect the landscape of the sector (nutrition, child protection, WASH, health, environmental, etc.). The goal with our work was to create a framework which was easy to replicate and scale up, while defining some practical and actionable technical pieces that will help an organization to perform this analysis in a systematic way. It is our belief that since technology is rapidly changing, it is important to perform assessments regularly.
 
-<mark style="background-color:purple;">The technical quality assessment was designed to provide a comprehensive review of any solution through the following components.</mark>
+<mark class="purple">The technical quality assessment was designed to provide a comprehensive review of any solution through the following components.</mark>
 
 <figure><img src="../../.gitbook/assets/audit components (1).png" alt=""><figcaption></figcaption></figure>
 

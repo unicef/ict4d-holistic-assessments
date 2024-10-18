@@ -16,7 +16,7 @@ Security audits and architectural assessments showed it to be well-structured an
 
 The underlying platform was well-designed for data collection requirements, facilitating data gathering from diverse sources such as mobile and web forms, call centers, task-based data collection platforms, and citizen feedback mechanisms. It operates seamlessly even in environments lacking internet connectivity, ensuring continuity of data collection efforts. The tool is highly extensible and interoperable, with an easy-to-use frontend and offline capture options that sync seamlessly.
 
-<mark style="background-color:orange;">**🔍 Discovered during the Assessment:**</mark>
+<mark class="orange">**🔍 Discovered during the Assessment:**</mark>
 
 While there were a small amount of identified vulnerabilities, the solutions approach to transparency, regular maintenance and ongoing releases through the Software as a Service mode, gave us confidence about its resilience and reliability.&#x20;
 

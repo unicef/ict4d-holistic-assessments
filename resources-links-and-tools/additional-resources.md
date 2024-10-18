@@ -8,7 +8,7 @@ description: Additional UNICEF focused content
 
 This publication is for international development practitioners, both in programme and ICT divisions, who wish to understand and implement digitalised civil registration and vital statistics (CRVS) programmes. These findings highlight a selection of CRVS platforms. The platforms were selected after due consultations with stakeholders on existing CRVS offerings. Conducted by UNICEF (via a 3rd party vendor), the review assessed the functional and non- functional aspects, as well as maturity, of CRVS products. The scope of this publication has limitations related to a) the exclusion of home-grown solutions and b) reliance on self-reporting by the vendors. This publication is relevant to UN, government, and NGO actors. It is intended to guide planning, budgeting, technology selection, and implementation strategies. It is also intended to support planning and programme operations design that are fit for purpose and uphold value, feasibility, and sustainability principles.
 
-<mark style="color:green;">Full report is available for download in PDF format.</mark>
+<mark class="green">Full report is available for download in PDF format.</mark>
 
 {% file src="../.gitbook/assets/CRVS_Key Findings_for_Practitioners.pdf" %}
 
@@ -24,6 +24,6 @@ for harm related to DBR in general, and how to assess this potential in their sp
 
 This document provides guidance on identifying and mitigating these risks for implementing government agencies and their partners operating in low- and middle-income countries. It expands on the model of DBR developed by Plan International as part of its Count Every Child initiative and within the context of strengthening civil registration and vital statistics (CRVS) systems more broadly.
 
-<mark style="color:green;">Full report is available for download in PDF format.</mark>
+<mark class="green">Full report is available for download in PDF format.</mark>
 
 {% file src="../.gitbook/assets/PlanInternationalGeneva_4.pdf" %}

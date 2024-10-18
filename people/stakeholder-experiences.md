@@ -24,6 +24,6 @@ This network of stakeholders play a vital role in the success of Digital Transfo
 
 This study included five conversations with a variety of stakeholders who have been involved in engagements to implement digital systems or to advise on their expansion. It represents the perspectives of UNICEF staff in regional and country offices who are coordinating and advising governments on digital components of programs. It involved in-depth conversations with a tech solution coordinator who closely works on implementations of CRVS solutions with several governments both with and without UNICEF’s involvement. Last, but certainly not least, it brings a critical perspective on what it means to localize technology within a country or group of people; and specifically women.
 
-<mark style="color:green;">The full report is [available for download in PDF format](../.gitbook/assets/Stakeholder Experiences Undergoing Digital Transformation [29 April 2024].pdf).</mark> You can also view the [Threats to Success executive summary presentation](threats-to-success.md) in the following section.&#x20;
+<mark class="green">The full report is [available for download in PDF format](../.gitbook/assets/Stakeholder Experiences Undergoing Digital Transformation [29 April 2024].pdf).</mark> You can also view the [Threats to Success executive summary presentation](threats-to-success.md) in the following section.&#x20;
 
 

@@ -23,6 +23,13 @@ mark.orange {
   background-color: unset;
 }
 
+mark.green {
+  color: #178740;
+  font-weight: strong;
+  background-color: unset;
+}
+
+
 mark.blue {
   color: rgb(59, 130, 246);
   background-color: unset;

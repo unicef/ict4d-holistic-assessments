@@ -68,7 +68,7 @@ _Coming soon..._
 
 ## Holistic Assessment Graphical Assets&#x20;
 
-All graphics were created by [Okthanks](https://app.gitbook.com/u/tw7p5WS52mUcIWMewKjDScJXV7y2) and [Guardian Project](https://app.gitbook.com/u/55f96413e17f0c10005b53ca). Graphics are protected under the [Creative Commons License ](https://creativecommons.org/share-your-work/cclicenses/)(CC) and <mark style="color:green;">available for download and use.</mark>&#x20;
+All graphics were created by [Okthanks](https://app.gitbook.com/u/tw7p5WS52mUcIWMewKjDScJXV7y2) and [Guardian Project](https://app.gitbook.com/u/55f96413e17f0c10005b53ca). Graphics are protected under the [Creative Commons License ](https://creativecommons.org/share-your-work/cclicenses/)(CC) and <mark class="green">available for download and use.</mark>&#x20;
 
-[Download All Graphics Zip](.gitbook/assets/Graphics-20240724T193134Z-001.zip)
+[Download All Graphics in SVG format (ZIP)](.gitbook/assets/Graphics-20240724T193134Z-001.zip)
 
