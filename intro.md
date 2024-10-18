@@ -8,7 +8,7 @@ coverY: -56
 
 # Introduction to the Project
 
-## <mark style="color:purple;">In 2021, approximately 987 million people worldwide lacked official proof of identity, and as many as 1 in 4 children under the age of 5 were not registered at birth. The absence of identification documents systematically excludes these individuals from accessing their fundamental rights and fulfilling their obligations within their countries.</mark>
+## <mark class="purple">In 2021, approximately 987 million people worldwide lacked official proof of identity, and as many as 1 in 4 children under the age of 5 were not registered at birth. The absence of identification documents systematically excludes these individuals from accessing their fundamental rights and fulfilling their obligations within their countries.</mark>
 
 Although this project doesn't change the statistic, it focuses on the mindset and holistic approach for technical assessments necessary when considering a new partner for a digital transformation initiative under UNICEF.  Our role as independent vendors, was to develop a holistic approach to assessments which can be utilized, replicated and iterated upon by other sectors engaging in a digital transformation initiative.
 

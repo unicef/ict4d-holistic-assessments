@@ -6,7 +6,7 @@ _This solution is a "cloud software-as-a-service (SaaS)" in that is accessed, co
 
 
 
-<mark style="color:purple;">🕵️T</mark><mark style="color:purple;">**he Assessment Outcome**</mark>
+<mark class="purple">🕵️T</mark><mark class="purple">**he Assessment Outcome**</mark>
 
 The solution was found to be stable, well-implemented, and viable solution that could be customized and designed for specific needs and solutions. In this case, the assessment focused on a bespoke forms data solution, built on reusable components and code from the service provider.
 

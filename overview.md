@@ -9,13 +9,13 @@ Welcome to the Holistic Technical Assessments for ICT4D documentation site. This
 
 {{< video https://www.youtube.com/watch?v=5kGvF6o3EvU >}}
 
-## <mark style="color:purple;">Who is this work relevant for? EVERYONE!</mark>
+## <mark class="purple">Who is this work relevant for? EVERYONE!</mark>
 
 ### Something For You
 
 While there are some more thoughts on [Who We Aim To Help](readme/who-we-aim-to-help.md), in summary this guide has been created to assist anyone in the ICT4D space who as encountered the question **"Has it been audited?"**, and wondered if that was a financial question or a technology question. Whether you are a procurement specialist, a regional specialist, a technologist for development, or in a program or sales role, this guide has something for you. If you are in charge of the audit, or just trying to understand what kind of questions to ask about during an assessment, this guide has something for you. If you are a vendor, a platform developer, an entrepreneur, an open-source developer, this guide has something for you.
 
-## <mark style="color:purple;">What you'll find?</mark>&#x20;
+## <mark class="purple">What you'll find?</mark>&#x20;
 
 Our approach and guiding ethos has been divided into four sections; People, Process, Technology and Partners. Within each section you'll find useful content, practical guidance and tangible takeaways that can help you or your team make informed decisions at various points in the ICT4D process.
 

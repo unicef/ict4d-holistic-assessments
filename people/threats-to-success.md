@@ -12,7 +12,7 @@ The success of a system or program is not only dependent on the technology itsel
 
 <figure><img src="../.gitbook/assets/threatstosuccess-01.jpg" alt="" width="100%"><figcaption><p><a href="threats-to-success.md">Threats to Success executive summary presentation</a></p></figcaption></figure>
 
-<mark style="color:purple;">View the full visual presentation highlighting threats to success through the following slides:</mark>
+<mark class="purple">View the full visual presentation highlighting threats to success through the following slides:</mark>
 
 [Threat to Success PDF Download](../.gitbook/assets/Exec Sum_ Threats to Success [April 2024].pdf)
 

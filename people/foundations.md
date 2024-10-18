@@ -6,7 +6,7 @@ description: Who may be involved in decisions and/or operations around a holisti
 
 <i>Most relevant for 💭 [Visionaries](../get-started.md#visionaries), 🔥 [Advisors](../get-started.md#advisors) and 🔍 [Technical Evaluators](../get-started.md#technical-evaluators)</i>
 
-<mark style="color:purple;">In the</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**People**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">section you will...</mark>
+<mark class="purple">In the **People** section you will...</mark>
 
 * Learn about the stakeholders integral to a digital transformation process
 * Read our in-depth research study conducted with people in the field to better understand the eCRVS landscape

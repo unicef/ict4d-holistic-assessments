@@ -15,7 +15,7 @@ Holistic technical assessments are comprehensive reviews that examine an organiz
 
 {{< video https://www.youtube.com/watch?v=t-HhOSPj8QY >}}
 
-<mark style="color:purple;">In the</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Process**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">section you will...</mark>
+<mark class="purple">In the</mark> <mark class="purple"></mark><mark class="purple">**Process**</mark> <mark class="purple"></mark><mark class="purple">section you will...</mark>
 
 * Learn about our methodology for engaging in Holistic Technical Assessments
 * Reflect on useful building blocks to employ

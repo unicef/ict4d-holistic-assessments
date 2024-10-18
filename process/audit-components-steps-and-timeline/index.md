@@ -45,33 +45,33 @@ Best practices in software development operations from operations management and
 
 Below is a potential step-by-step timeline that incorporates the components from above, with an estimate of days to complete, along with guidance about following up with the vendor/partner/solutions team.
 
-**Step 1: Request Access to Source Code, Design Documents  **<mark style="color:purple;">**(10 days)**</mark>&#x20;
+**Step 1: Request Access to Source Code, Design Documents  **<mark class="purple">**(10 days)**</mark>&#x20;
 
 * Begin our deep dive into publicly available documentation and resources (website, githubs, case studies, install guides, etc)
 
-**Step 2: Initial Assessment Results **<mark style="color:purple;">**(5 days)**</mark>&#x20;
+**Step 2: Initial Assessment Results **<mark class="purple">**(5 days)**</mark>&#x20;
 
 * A narrative report on background information and history, which includes a Threat & Risk Assessment portion.&#x20;
 * _Share, Report & Communicate any issues to vendor_
 
-**Step 3: Source Code Security Audi**<mark style="background-color:yellow;">**t**</mark>** **<mark style="color:purple;">**(15 days)**</mark>
+**Step 3: Source Code Security Audi**<mark style="background-color:yellow;">**t**</mark>** **<mark class="purple">**(15 days)**</mark>
 
 * _Share, Report & Communicate any issues to vendor_
 
-**Step 4: Application Architecture Audit **<mark style="color:purple;">**(10 days)**</mark>&#x20;
+**Step 4: Application Architecture Audit **<mark class="purple">**(10 days)**</mark>&#x20;
 
 * _Share, Report & Communicate any issues to vendor_
 
-**Step 5: Penetration Testing Audit **<mark style="color:purple;">**(10 days)**</mark>&#x20;
+**Step 5: Penetration Testing Audit **<mark class="purple">**(10 days)**</mark>&#x20;
 
 * _Share, Report & Communicate any issues to vendor_
   * Schedule a call to discuss severe issues if necessary&#x20;
 
-**Step 6: DevSecOps Analysis **<mark style="color:purple;">**(15 days)**</mark>
+**Step 6: DevSecOps Analysis **<mark class="purple">**(15 days)**</mark>
 
 * _Share, Report & Communicate any issues to vendor_
 
-**Step 7: Report of Findings and Recommendations **<mark style="color:purple;">**(10 days)**</mark>&#x20;
+**Step 7: Report of Findings and Recommendations **<mark class="purple">**(10 days)**</mark>&#x20;
 
 * _Share, Report & Communicate any issues to vendor_
 

@@ -17,7 +17,7 @@ The technical assessments involved a comprehensive review of the projects' docum
 
 Based on the findings, several recommendations were made to improve the security and reliability of the projects. These recommendations included implementing secure deployment practices, prioritizing traffic protection, developing comprehensive test plans, eliminating hard-coded credentials, and protecting against supply chain attacks. Additionally, recommendations were made to address specific vulnerabilities identified during the assessments, such as improving exception logging and prioritizing input sanitization.
 
-<mark style="color:purple;">In the</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Technology**</mark> <mark style="color:purple;"></mark><mark style="color:purple;">section you will...</mark>
+<mark class="purple">In the</mark> <mark class="purple"></mark><mark class="purple">**Technology**</mark> <mark class="purple"></mark><mark class="purple">section you will...</mark>
 
 * Read recommendations and expert insights gleaned from the four assessments we completed, that we feel are widely applicable when launching any ICT4D implementation
 * Learn about useful strategies and considerations when formulating your digital transformation roadmap&#x20;

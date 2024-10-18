@@ -1,4 +1,15 @@
 
+mark.purple {
+  color: rgb(168, 85, 247);
+  background-color: unset;
+}
+
+mark.red {
+  color: rgb(239, 68, 68)
+  background-color: unset;
+}
+
+
 mark.blue {
   color: rgb(59, 130, 246);
   background-color: unset;
