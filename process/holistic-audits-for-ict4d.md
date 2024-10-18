@@ -9,7 +9,7 @@ coverY: -154
 
 # Holistic Assessment Approach
 
-<i>Most relevant for 💭 [Visionaries](../get-started.md#visionaries), 🔥 [Advisors](../get-started.md#advisors) and 🔍 [Technical Evaluators](../get-started.md#evaluating)</i>
+<i>Most relevant for 💭 [Visionaries](../get-started.md#visionaries), 🔥 [Advisors](../get-started.md#advisors) and 🔍 [Technical Evaluators](../get-started.md#technical-evaluators)</i>
 
 Holistic technical assessments are comprehensive reviews that examine an organization or system in its entirety, rather than focusing on specific components in isolation. The goal of a holistic assessment is to understand the interconnections and overall functioning of all aspects of the entity being reviewed. This approach ensures that all relevant factors are considered, leading to more thorough and meaningful insights.
 

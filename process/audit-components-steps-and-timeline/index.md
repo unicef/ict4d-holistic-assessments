@@ -6,7 +6,7 @@ coverY: 0
 # Assessment Methodology
 
 {% hint style="success" %}
-Most relevant for 🔥 [Advisors](../../get-started.md#advisors) and 🔍 [Technical Evaluators](../../get-started.md#evaluating)
+Most relevant for 🔥 [Advisors](../../get-started.md#advisors) and 🔍 [Technical Evaluators](../../get-started.md#technical-evaluators)
 {% endhint %}
 
 ## Our Methodology
