@@ -1,18 +1,21 @@
-# "The Turn-Key Solution"
+# OpenCRVS "The Turn-Key Solution"
 
 <figure><img src="../../.gitbook/assets/tech-1 turnkey.png" alt="" width="100%"><figcaption></figcaption></figure>
 
 _This solution is "turn key" in that it provides an out of the box, off-the-shelf ready for production set of features and capabilities. The work to be done is in configuration and deployment, and not in customization or software development._
 
 
+[<i class="bi bi-cloud-download"></i> Download OpenCRVS Report (PDF)](../../assets/reports/OpenCRVS-Holistic-Assessment-Report-v1-FINAL-PUBLIC.pdf){.btn-action-primary .btn .btn-warning .btn-lg role="button"}
+<br />
+<br />
 
-<mark class="purple">🕵️T</mark><mark class="purple">**he Assessment Outcome**</mark>
+<mark class="purple">🕵️T**he Assessment Outcome**</mark>
 
 We found this solution to be stable and ready for implementation. It has excellent documentation for implementers, is interoperable with many e-government solutions, and focuses on real-world workflows with a supportive team. The reliance on third-party dependencies is commonplace, and the choice of microservices makes for a flexible and extensible solution. While there are areas for improvement outlined in the document, they do not detract from the overall positive assessment.&#x20;
 
 As a relatively new entrant to the market, the product may not be as flexible or feature-rich as other solutions but benefits from a focused functionality, modern architecture, and well-run public open-source project. The concept of a single unified upstream codebase that can be improved and updated, then pushed out to downstream instances, is particularly attractive and beneficial for global deployment and maintenance.
 
-<mark style="background-color:orange;">**🔍 Discovered during the Assessment:**</mark>&#x20;
+<mark class="orange">**🔍 Discovered during the Assessment:**</mark>&#x20;
 
 During the first assessment, we encountered vulnerabilities within the source code, the version of nodeJS it is built upon, and the security of deployment configurations. These issues were expected at this stage of the project.&#x20;
 

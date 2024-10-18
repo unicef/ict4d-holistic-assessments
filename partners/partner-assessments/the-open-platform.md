@@ -1,12 +1,14 @@
-# "The Open Platform"
+# DHIS2 "The Open Platform"
 
 <figure><img src="../../.gitbook/assets/tech-2 open.png" alt="" width="100%"><figcaption></figcaption></figure>
 
 _This solution is an "open platform" in that it provides a foundation for almost any kind of health and data application to be built upon. The work to be done is NOT ONLY configuration and deployment, but also customization and software development. However, there is also an ecosystem of third-party solutions and vendors that can be utilized to build a complete solution._
 
 
+[<i class="bi bi-cloud-download"></i> Download DHIS2 Report (PDF)](../../assets/reports/DHIS2-Holistic-Assessment-Report-v1-FINAL-PUBLIC.pdf){.btn-action-primary .btn .btn-warning .btn-lg role="button"}
 
-<mark class="purple">🕵️T</mark><mark class="purple">**he Assessment Outcome**</mark>
+<br />
+<mark class="purple">🕵️**he Assessment Outcome**</mark>
 
 We found this solution to be stable and ready for implementation. It is a free, open-source software platform designed for reporting, collecting, analyzing, and disseminating individual-level and aggregated data. Although not specifically designed for the specific area of function we were assessing (Civil Registration and Vital Statistics or [CRVS](../../glossary.md)), it can integrate with many systems or be extended to include custom features and applications. Implementing interoperability can be costly in terms of both initial integration and long-term operation and maintenance. We also assessed the additional costs associated with combining this software with an external system.
 
@@ -16,7 +18,7 @@ The software, provided as a global public good to support sustainable developmen
 
 Our assessment involved reviewing publicly available documentation, attending virtual meetings, leveraging resources on YouTube and their community resources page, and testing a local cluster using the command line tool. We deployed an instance to test vulnerabilities and dependencies, created a Software Bill of Materials (SBOM) for the codebase, audited the architecture deployed in AWS, and conducted various vulnerability scans and penetration tests. Despite some scheduling difficulties, the team has been responsive and engaged, providing feedback and clarity.
 
-<mark style="background-color:orange;">**🔍 Discovered during the Assessment:**</mark>
+<mark class="orange">**🔍 Discovered during the Assessment:**</mark>
 
 The solution is highly adaptable, and capable of being customized to suit a variety of use cases. Its extensive configurability and the developers' efforts in adding multiple extension points for new functionalities suggest it could be effectively transformed into a robust CRVS system. However, this specific functionality is not currently available and would need to be developed before the system could be adopted for CRVS purposes. Our assessment uncovered a number of security enhancements which would be strongly recommended if adopted.
 
