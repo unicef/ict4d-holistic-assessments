@@ -50,7 +50,7 @@ During phase 1, a deep comparative functional and maturity analysis of the diffe
 <mark class="blue">
 In addition, with the goal of being able to replicate and scale up this technical assessment, this phase also entails the definition some practical and actionable technical documents based on the existing best practices for the UNICEF's product lifecycle management that will help the organization to perform this analysis in a systematic way.
 
-<mark style="color:blue;">**The documentation you find on this site is the result of Phase 2 work - the creation of A Holistic Approach to Assessments.**</mark>
+<mark class="blue">**The documentation you find on this site is the result of Phase 2 work - the creation of A Holistic Approach to Assessments.**</mark>
 
 ### Designing Holistic Approach to Assessments
 

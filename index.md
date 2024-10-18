@@ -23,7 +23,7 @@ Our approach and guiding ethos has been divided into four sections; People, Proc
 
 In the [People section](broken-reference) we explore the complex relationships and necessary stakeholders who make a digital transformation process successful. Understand who plays a key role when and where in the process while gleaning insights from our research study to help guide your plan for engagement.&#x20;
 
-### [<mark style="color:blue;">Process</mark>](./#process)
+### [<mark class="blue">Process</mark>](./#process)
 
 In the [Process section](broken-reference) we dive deeper into the nuts & bolts of our methodology for Holistic Assessments. Understand more about how we approach technical assessments, the tangible process we engage in, and the recommended skillsets and pivotal principles necessary for a holistic technical assessment.&#x20;
 
