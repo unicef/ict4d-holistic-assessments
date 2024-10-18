@@ -20,7 +20,7 @@ While we took a specific approach to this work in our technical assessments, the
 
 Below is an example of a threat modeling process performed on a [recently reviewed solution](../partners/partner-assessments/). The Threat, Likelihood, Impact, and Severity columns listed below are in reference to the world, and specific places where solutions are implemented, and not specific to the vendor, platform, or solution itself. This gives the reader an idea of what kind of mitigations could be put in place for a solution.
 
-Likelihoods range from <mark style="color:blue;">Unlikely</mark> to <mark style="color:red;">Likely</mark>, while Severity can be <mark style="color:blue;">Minor</mark> to <mark style="color:red;">Critical</mark>.\
+Likelihoods range from <mark class="blue">Unlikely</mark> to <mark style="color:red;">Likely</mark>, while Severity can be <mark class="blue">Minor</mark> to <mark style="color:red;">Critical</mark>.\
 
 <style>
 table, th, td {

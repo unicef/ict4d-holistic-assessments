@@ -1,4 +1,9 @@
 
+mark.blue {
+  color: rgb(59, 130, 246);
+  background-color: unset;
+}
+
 .nav-link.active > .menu-text {
   font-weight: bold;
   color: #961A49;

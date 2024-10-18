@@ -8,7 +8,7 @@ description: Considerations for a better outcome
 
 The success of a system or program is not only dependent on the technology itself, but all of the people and processes surrounding it. Based on stakeholder research, we've identified 9 threats to success that will directly impact the integration and adoption of a technology solution.&#x20;
 
-> ### <mark style="color:blue;">In order to foster holistic security, we must broaden our scope beyond system vulnerabilities and cybersecurity threats to technology. We must also acknowledge and address the threats introduced by the people and processes involved.</mark>
+> ### <mark class="blue">In order to foster holistic security, we must broaden our scope beyond system vulnerabilities and cybersecurity threats to technology. We must also acknowledge and address the threats introduced by the people and processes involved.</mark>
 
 <figure><img src="../.gitbook/assets/threatstosuccess-01.jpg" alt="" width="100%"><figcaption><p><a href="threats-to-success.md">Threats to Success executive summary presentation</a></p></figcaption></figure>
 

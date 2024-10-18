@@ -22,23 +22,26 @@ Furthermore, UNICEF emphasizes the need for the results of these assessments to 
 
 UNICEF is mandated by the United Nations General Assembly to advocate for the protection of children's rights, meet their basic needs, and expand their opportunities to reach their full potential. Operating in 190 countries and territories, UNICEF is dedicated to reaching the world's most disadvantaged children, working tirelessly to save the lives of children and their mothers while generating evidence to support this mission. Central to this effort is ensuring that every child is recognized legally, with birth registration being a fundamental right enshrined in both the Universal Declaration on Human Rights and the Convention on the Rights of the Child.&#x20;
 
-### _<mark style="color:blue;">"Birth registration not only establishes a child’s legal identity but also ensures access to essential services such as child protection, healthcare, and education, which are critical for securing their fundamental rights."</mark>_
+### _<mark class="blue">"Birth registration not only establishes a child’s legal identity but also ensures access to essential services such as child protection, healthcare, and education, which are critical for securing their fundamental rights."</mark>_
 
 Efficient civil registration, encompassing births, deaths, marriages, and divorces, provides accurate and complete data essential for national planning and resource allocation. The Sustainable Development Goals (SDGs), particularly Goal 16.9, emphasize the importance of providing legal identity for all by 2030. The United Nations Legal Identity Agenda 2020-2030 supports this goal, advocating for sustainable civil registration, vital statistics, and identity management systems.&#x20;
 
-### <mark style="color:blue;">"</mark>_<mark style="color:blue;">To have fully configurable, standards-based, inter-operable and widely supported digital CRVS public goods to assure long-term cost savings for governments, partners, and UNICEF- supported digital CRVS deployments."</mark>_
+### _<mark class="blue">"To have fully configurable, standards-based, inter-operable and widely supported digital CRVS public goods to assure long-term cost savings for governments, partners, and UNICEF- supported digital CRVS deployments."</mark>_
 
 UNICEF, along with other agencies, has been instrumental in advancing the digitization of CRVS systems, aiming for comprehensive and interoperable digital public goods. This initiative, divided into two phases, involved a global landscape analysis and a technical quality assessment to ensure effective and secure implementation. **The ultimate goal is to achieve 100% registration of CRVS events, facilitating legal identity documentation and the use of vital statistics for effective planning and international reporting.**&#x20;
 
 \
-
+
+
 
 ### Two Phase Assessment Process
 
 •	Phase 1 - Global Landscape Analysis
 
-As outcome of phase 1, a comparative analysis has been made of the different solutions available on the market. Among them, a recommended solution has been identified as well as a set of common and country specific CRVS requirements.\
-\
+As outcome of phase 1, a comparative analysis has been made of the different solutions available on the market. Among them, a recommended solution has been identified as well as a set of common and country specific CRVS requirements.
+\
+
+\
 •	Phase 2 – Technical quality assessment of the recommended solutions
 
 During phase 1, a deep comparative functional and maturity analysis of the different solutions has been performed, however, only a superficial technical assessment from the software engineering and cyber security best practices has been done. In phase 2, the goal is to close this knowledge gap for the recommended solutions, and therefore, to minimize the organizational risk under implementation.
@@ -47,7 +50,7 @@ During phase 1, a deep comparative functional and maturity analysis of the diffe
 
 In addition, with the goal of being able to replicate and scale up this technical assessment, this phase also entails the definition some practical and actionable technical documents based on the existing best practices for the UNICEF's product lifecycle management that will help the organization to perform this analysis in a systematic way.
 
-<mark style="color:blue;">**The documentation you find on this site is the result of Phase 2 work - the creation of A Holistic Approach to Assessments.**</mark>
+<mark class="blue">**The documentation you find on this site is the result of Phase 2 work - the creation of A Holistic Approach to Assessments.**</mark>
 
 ### Designing Holistic Approach to Assessments
 
