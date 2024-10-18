@@ -6,14 +6,14 @@ coverY: 0
 # Assessment Methodology
 
 {% hint style="success" %}
-Most relevant for 🔥 [Advisors](../../get-started.md#advising) and 🔍 [Technical Evaluators](../../get-started.md#evaluating)
+Most relevant for 🔥 [Advisors](../../get-started.md#advisors) and 🔍 [Technical Evaluators](../../get-started.md#technical-evaluators)
 {% endhint %}
 
 ## Our Methodology
 
 Holistic assessments are increasingly important in today’s complex and interconnected business environments, where understanding the full picture is crucial for sustainable success. The components that make up a holistic assessment should reflect the landscape of the sector (nutrition, child protection, WASH, health, environmental, etc.). The goal with our work was to create a framework which was easy to replicate and scale up, while defining some practical and actionable technical pieces that will help an organization to perform this analysis in a systematic way. It is our belief that since technology is rapidly changing, it is important to perform assessments regularly.
 
-<mark style="background-color:purple;">The technical quality assessment was designed to provide a comprehensive review of any solution through the following components.</mark>
+<mark class="purple">The technical quality assessment was designed to provide a comprehensive review of any solution through the following components.</mark>
 
 <figure><img src="../../.gitbook/assets/audit components (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -45,33 +45,33 @@ Best practices in software development operations from operations management and
 
 Below is a potential step-by-step timeline that incorporates the components from above, with an estimate of days to complete, along with guidance about following up with the vendor/partner/solutions team.
 
-**Step 1: Request Access to Source Code, Design Documents  **<mark style="color:purple;">**(10 days)**</mark>&#x20;
+**Step 1: Request Access to Source Code, Design Documents  **<mark class="purple">**(10 days)**</mark>&#x20;
 
 * Begin our deep dive into publicly available documentation and resources (website, githubs, case studies, install guides, etc)
 
-**Step 2: Initial Assessment Results **<mark style="color:purple;">**(5 days)**</mark>&#x20;
+**Step 2: Initial Assessment Results **<mark class="purple">**(5 days)**</mark>&#x20;
 
 * A narrative report on background information and history, which includes a Threat & Risk Assessment portion.&#x20;
 * _Share, Report & Communicate any issues to vendor_
 
-**Step 3: Source Code Security Audi**<mark style="background-color:yellow;">**t**</mark>** **<mark style="color:purple;">**(15 days)**</mark>
+**Step 3: Source Code Security Audi**<mark class="yellow-bg">**t**</mark>** **<mark class="purple">**(15 days)**</mark>
 
 * _Share, Report & Communicate any issues to vendor_
 
-**Step 4: Application Architecture Audit **<mark style="color:purple;">**(10 days)**</mark>&#x20;
+**Step 4: Application Architecture Audit **<mark class="purple">**(10 days)**</mark>&#x20;
 
 * _Share, Report & Communicate any issues to vendor_
 
-**Step 5: Penetration Testing Audit **<mark style="color:purple;">**(10 days)**</mark>&#x20;
+**Step 5: Penetration Testing Audit **<mark class="purple">**(10 days)**</mark>&#x20;
 
 * _Share, Report & Communicate any issues to vendor_
   * Schedule a call to discuss severe issues if necessary&#x20;
 
-**Step 6: DevSecOps Analysis **<mark style="color:purple;">**(15 days)**</mark>
+**Step 6: DevSecOps Analysis **<mark class="purple">**(15 days)**</mark>
 
 * _Share, Report & Communicate any issues to vendor_
 
-**Step 7: Report of Findings and Recommendations **<mark style="color:purple;">**(10 days)**</mark>&#x20;
+**Step 7: Report of Findings and Recommendations **<mark class="purple">**(10 days)**</mark>&#x20;
 
 * _Share, Report & Communicate any issues to vendor_
 
